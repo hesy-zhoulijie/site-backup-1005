@@ -1,0 +1,452 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>C++ 关键字auto | 周立杰的博客</title>
+<meta name="description" content="欢迎来到周立杰的博客
+<a href="sweepy.cnblogs.com">博客园链接</a>" />
+<link rel="shortcut icon" href="https://hesy-zhoulijie.github.io/favicon.ico">
+<link rel="stylesheet" href="https://hesy-zhoulijie.github.io/styles/main.css">
+
+<script src="https://hesy-zhoulijie.github.io/media/js/jquery.min.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/masonry.pkgd.min.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/aos.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/pace.min.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/view-image.min.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/jquery.magnific-popup.min.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/functions.js"></script>
+    <meta name="referrer" content="never">
+    <meta name="description" content="C++ 关键字auto[1]
+目录
+[toc]
+c++98 auto
+早在C++98标准中就存在了auto关键字，那时的auto用于声明变量为自动变量，拥有自动的生命周期；但是该作用是多余的，变量默认拥有自动的生命周期。
+int a = 1..." />
+    <meta name="keywords" content="C++" />
+    <script src="https://hesy-zhoulijie.github.io/media/js/waterfall.min.js"></script>
+    <script src="https://hesy-zhoulijie.github.io/media/js/prism.min.js"></script>
+  </head>
+  <body>
+            <header id="header" class="grid-container">
+        <!-- start: .menu-wrapper -->
+        <div class="menu-mobile"> 
+          <i class="fa fa-reorder"></i>
+        </div>
+        <div class="menu-wrapper">
+          <div class="">
+            <div class="logo">
+              <a href="https://hesy-zhoulijie.github.io"><img src="" alt=""></a>
+            </div>
+            <!-- start: .main-nav -->
+
+            <nav class="main-nav grid-container grid-parent">
+              <ul id="menu-header" class="menu gradient-effect">
+                <li class=""><a href="https://hesy-zhoulijie.github.io" class="menu">首页</a></li>
+                
+                  <li class="" >
+                    <a href="/" class="menu">
+                      首页
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/archives" class="menu">
+                      归档
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/tags" class="menu">
+                      标签
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/post/about" class="menu">
+                      关于
+                    </a>
+                  </li>
+                
+                <li class="search-menu-item hide-on-mobile hide-on-tablet"><a href="#search-lightbox" class="lightbox mfp-inline"><i class="fa fa-search-line"></i></a></li>
+              </ul>
+            </nav>
+            <a href="#search-lightbox" class="lightbox epcl-search-button mfp-inline hide-on-tablet hide-on-desktop"><i class="fa fa-search-line"></i></a>
+            <!-- end: .main-nav -->
+            <div class="clear"></div>
+            <div class="border hide-on-tablet hide-on-mobile"></div>
+          </div>    
+          <div class="clear"></div>
+        </div>
+        <!-- end: .menu-wrapper -->
+        <div class="clear"></div>
+      </header>
+      <div class="hide-on-mobile hide-on-tablet hide-on-desktop">
+        <div id="search-lightbox" class="grid-container grid-small grid-parent mfp-hide">
+          <div class="search-wrapper section">
+            <form id="gridea-search-form" data-update="1601875674406" action="/search/index.html" class="search-form" _lpchecked="1">
+              <input type="text" name="q" id="s" value="" class="search-field" placeholder="搜点啥..." aria-label="搜点啥..." required="">
+              <button type="submit" class="submit" aria-label="Submit">
+                <i class="fa fa-search-line"></i>
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <main id="single" class="main grid-container fullcover no-sidebar aos-init aos-animate" data-aos="fade">
+
+        <div class="center content">
+          <div class="featured-image cover" style="background-image: url('');">
+            <div class="meta top"> 
+              <time class="meta-info" style="float:left;" datetime="2020-10-05"><i class="fa fa-calendar"></i><span class="lately">11 分钟前</span></time>
+              
+            </div>
+            <div class="info">
+              <div class="tags ">
+                
+                      <a href="https://hesy-zhoulijie.github.io/tag/aIcztpL89/" class="ctag ctag-0 ctag-aIcztpL89" aria-label="">C++</a>
+                    
+              </div>
+              <h1 class="title ularge white bold">C++ 关键字auto</h1>
+            </div>
+          </div>
+        </div>  
+
+        <div class="epcl-page-wrapper">
+          <div class="left-content grid-70 np-mobile">
+            <article class="main-article post">
+              <section class="post-content">
+                <div class="text">
+                  <h1 id="c-关键字auto">C++ 关键字auto<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></h1>
+<h2 id="目录">目录</h2>
+<p>[toc]</p>
+<h2 id="c98-auto">c++98 auto</h2>
+<p>早在C++98标准中就存在了auto关键字，那时的auto用于声明变量为自动变量，拥有自动的生命周期；但是该作用是多余的，变量默认拥有自动的生命周期。</p>
+<pre><code class="language-cpp">int a = 10;      // 自动生命周期
+auto int b = 20; // 自动生命周期
+</code></pre>
+<p>在C++ 11 中，已经删除了该用法，取而代之的作用是：自动推断变量的类型。</p>
+<h2 id="c11-auto">c++11 auto</h2>
+<p>auto可以在声明变量的时候根据变量初始值的类型自动为此变量选择匹配的类型：</p>
+<pre><code class="language-cpp">auto i =100;  // i 是 int 
+auto p = new A();  // p 是 A* 
+auto k = 34343LL;  // k 是 long long
+</code></pre>
+<p>这种用法就类似于C#中的var关键字。auto的自动类型推断发生在编译期，所以使用auto并不会造成程序运行时效率的降低。是否会造成编译期的时间消耗，我认为是不会的，在未使用auto时，编译器也需要得知右操作数的类型，再与左操作数的类型进行比较，检查是否可以发生相应的转化，是否需要进行隐式类型转换。</p>
+<p>对于上面的示例，在实际编程中并不推荐，因为不便于他人阅读，直接写出变量的类型会更加的清晰易懂，主要用于代替<strong>冗长复杂，变量使用范围专一的变量声明</strong>，比如：</p>
+<pre><code class="language-cpp">std::vector&lt;std::string&gt; vec;
+for (auto iter = vec.begin(); iter != vec.end(); ++iter) {}
+</code></pre>
+<p>在定义函数模板时，用于声明依赖模板参数的变量类型，模板函数依赖于模板参数的返回值：</p>
+<pre><code class="language-cpp">template&lt;typename Tx, typename Ty&gt;
+auto multiply(Tx x, Ty y)          // c++14
+{
+    return x * y;
+}
+</code></pre>
+<h2 id="auto使用注意事项">auto使用注意事项</h2>
+<h3 id="1auto-变量必须在定义时初始化这类似于const关键字">（1）auto 变量必须在定义时初始化，这类似于const关键字；</h3>
+<h3 id="2定义在一个auto序列的变量必须始终推导成同一类型如">（2）定义在一个auto序列的变量必须始终推导成同一类型，如：</h3>
+<pre><code class="language-cpp">auto a = 1, b = 2, c = 3;     // 正确
+auto a = 1, b = 2.2, c = 'c'; // 错误（这个道理和第一点注意事项相同）
+</code></pre>
+<h3 id="3如果初始化表达式是引用则去除引用语义如">（3）如果初始化表达式是引用，则去除引用语义，如：</h3>
+<pre><code class="language-cpp">int  a = 1;
+int &amp;b = a;
+
+auto  c = b; // 此时c的类型被推导为 int32，而不是int32&amp;
+auto &amp;c = b; // 此时c的类型才是int&amp;
+</code></pre>
+<h3 id="4如果初始化表达式为const或volatile或者两者兼有则除去constvolatile语义">（4）如果初始化表达式为const或volatile（或者两者兼有），则除去const/volatile语义。</h3>
+<pre><code class="language-cpp">const int a = 10;
+auto  b= a;         // b的类型为int而非const int（去除const）
+const auto c = a;   // 此时c的类型为const int
+
+b = 100;   // 合法
+c = 100;   // 非法
+</code></pre>
+<h3 id="5如果auto关键字带上号则不去除const语义">（5）如果auto关键字带上&amp;号，则不去除const语义。</h3>
+<pre><code class="language-cpp">const int a = 10;
+auto &amp;b = a;    // 因为auto带上&amp;，故不去除const，b类型为const int
+
+b = 10;   /非法
+</code></pre>
+<h3 id="6初始化表达式为数组时auto关键字推导类型为指针">（6）初始化表达式为数组时，auto关键字推导类型为指针。</h3>
+<pre><code class="language-cpp">int a[3] = { 1, 2, 3 };
+auto b = a;
+
+std::cout &lt;&lt; typeid(b).name() &lt;&lt; std::endl;   // 这里输出 int*
+</code></pre>
+<h3 id="7如果表达式为数组且auto带上则推导类型为数组类型">（7）如果表达式为数组且auto带上&amp;，则推导类型为数组类型。</h3>
+<pre><code class="language-cpp">int a[3] = { 1, 2, 3 };
+auto &amp;b = a;
+
+std::cout &lt;&lt; typeid(b).name() &lt;&lt; std::endl; // 这里输出 int[3]
+</code></pre>
+<h3 id="8函数或模板参数不能被声明为auto">（8）函数或模板参数不能被声明为auto。</h3>
+<pre><code class="language-cpp">void func(auto a)  // 错误
+{
+    //... 
+}
+</code></pre>
+<h3 id="9auto不是一个真正的类型仅仅是一个占位符不能使用一些以类型为操作数的操作符如sizeof或typeid">（9）auto不是一个真正的类型，仅仅是一个占位符，不能使用一些以类型为操作数的操作符，如sizeof或typeid：</h3>
+<pre><code class="language-cpp">std::cout &lt;&lt; sizeof(auto) &lt;&lt; std::endl;        // 错误
+std::cout &lt;&lt; typeid(auto).name() &lt;&lt; std::endl; // 错误
+</code></pre>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>src=http://suo.im/67P9DK <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+
+                </div>
+                <div class="clear"></div>
+              </section>
+            </article>
+            <div class="clear"></div>
+
+            <section class="related section">
+              
+              <article class="prev grid-50 tablet-grid-50 grid-parent">
+                <div class="thumb cover lazy loaded" style="background-image: url('https://hesy-zhoulijie.github.io/media/images/aIcztpL89.jpg');"></div>
+                 <a href="https://hesy-zhoulijie.github.io/post/C++inline/" class="full-link"></a>
+                 <div class="info">
+                  <time datetime="2020-10-05">2020-10-05</time>
+                  <h4 class="title white no-margin">C++中的inline用法</h4>
+                </div>
+                 <span class="epcl-button red">
+                  <img src="https://hesy-zhoulijie.github.io/media/images/left-arrow.svg" width="15" alt="Left Arrow">
+                </span>
+                <div class="overlay"></div>
+              </article>
+              
+              
+              <article class="next grid-50 tablet-grid-50 grid-parent">
+                <div class="thumb cover lazy loaded" style="background-image: url('https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2502020158,2629482519&amp;fm=26&amp;gp=0.jpg');"></div>
+                 <a href="https://hesy-zhoulijie.github.io/post/data-structure/" class="full-link"></a>
+                 <div class="info">
+                  <time datetime="2020-10-05">2020-10-05</time>
+                  <h4 class="title white no-margin">数据结构百科全书</h4>
+                </div>
+                 <span class="epcl-button red">
+                  <img src="https://hesy-zhoulijie.github.io/media/images/right-arrow.svg" width="15" alt="Left Arrow">
+                </span>
+                <div class="overlay"></div>
+              </article>
+              
+
+                <div class="clear"></div>
+            </section>
+
+              <div class="clear"></div>
+              
+            
+              <div id="comments" class="bg-white hosted ">
+                <p>请到客户端“主题--自定义配置--valine”中填入ID和KEY</p>
+              </div>
+              <div class="clear"></div>
+            
+
+            </div>
+          </div>
+      </main>
+
+          <footer id="footer" class="grid-container">
+        <div class="widgets row gradient-effect">
+            <div class="default-sidebar border-effect">
+              <div class="grid-33 tablet-grid-50 mobile-grid-100">
+                <section id="tag_cloud-2" class="widget widget_epcl_posts_thumbs underline-effect">
+                  <h4 class="widget-title title white bordered">最新文章</h4>
+                  
+                  
+                  <article class="item post-0 post type-post status-publish format-standard has-post-thumbnail hentry">
+                    <a href="https://hesy-zhoulijie.github.io/post/yorgio/" class="thumb hover-effect">
+                      <span class="fullimage cover" style="display:block;border-radius:50%;background-image: url('https://i.loli.net/2020/08/03/sMoylfAg8DKFIOJ.png');"></span>
+                    </a>
+                    <div class="info gradient-effect">
+                      <time datetime="2020-10-05">2020-10-05</time>
+                      <h4 class="title usmall">
+                        <a href="https://hesy-zhoulijie.github.io/post/yorgio/">Yorg.io 进阶指南</a>
+                      </h4>
+                    </div>
+                    <div class="clear"></div>
+                  </article>
+                  
+                  
+                  
+                  <article class="item post-1 post type-post status-publish format-standard has-post-thumbnail hentry">
+                    <a href="https://hesy-zhoulijie.github.io/post/intlbrowser/" class="thumb hover-effect">
+                      <span class="fullimage cover" style="display:block;border-radius:50%;background-image: url('');"></span>
+                    </a>
+                    <div class="info gradient-effect">
+                      <time datetime="2020-10-05">2020-10-05</time>
+                      <h4 class="title usmall">
+                        <a href="https://hesy-zhoulijie.github.io/post/intlbrowser/">国外浏览器评测</a>
+                      </h4>
+                    </div>
+                    <div class="clear"></div>
+                  </article>
+                  
+                  
+                  
+                  <article class="item post-2 post type-post status-publish format-standard has-post-thumbnail hentry">
+                    <a href="https://hesy-zhoulijie.github.io/post/o2/" class="thumb hover-effect">
+                      <span class="fullimage cover" style="display:block;border-radius:50%;background-image: url('https://img2020.cnblogs.com/blog/2006459/202007/2006459-20200722144217257-1597748224.png');"></span>
+                    </a>
+                    <div class="info gradient-effect">
+                      <time datetime="2020-10-05">2020-10-05</time>
+                      <h4 class="title usmall">
+                        <a href="https://hesy-zhoulijie.github.io/post/o2/">C++ 编译优化</a>
+                      </h4>
+                    </div>
+                    <div class="clear"></div>
+                  </article>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <div class="clear"></div>
+                </section>
+              </div>
+
+              <div class="grid-33 tablet-grid-50 mobile-grid-100">
+                <section id="tag_cloud-2" class="widget widget_tag_cloud underline-effect">
+                  <h4 class="widget-title title white bordered">标签云</h4>
+                  <div class="tagcloud">
+                    
+                      <a href="https://hesy-zhoulijie.github.io/tag/OAFbfBfMr/" class="ctag ctag-0 ctag-OAFbfBfMr" aria-label="">搞事情</a>
+                    
+                      <a href="https://hesy-zhoulijie.github.io/tag/aIcztpL89/" class="ctag ctag-1 ctag-aIcztpL89" aria-label="">C++</a>
+                    
+                      <a href="https://hesy-zhoulijie.github.io/tag/F6Rb-uymL/" class="ctag ctag-2 ctag-F6Rb-uymL" aria-label="">技巧</a>
+                    
+                      <a href="https://hesy-zhoulijie.github.io/tag/tu5fjO3kp/" class="ctag ctag-3 ctag-tu5fjO3kp" aria-label="">资讯</a>
+                    
+                      <a href="https://hesy-zhoulijie.github.io/tag/YuQ3f5Ob8/" class="ctag ctag-4 ctag-YuQ3f5Ob8" aria-label="">Gridea</a>
+                    
+                  </div>
+                  <div class="clear"></div>
+                </section>
+              </div>
+
+              <div class="grid-33 tablet-grid-50 mobile-grid-100">
+                <section id="epcl_about-2" class="widget widget_epcl_about underline-effect">
+                  <h4 class="widget-title title white bordered">关于我</h4>
+                  <div class="avatar">
+                    <a href="" class="translate-effect thumb"><span class="fullimage cover" style="background-image: url(https://hesy-zhoulijie.github.io/images/avatar.png);"></span></a>
+                  </div>
+                  <div class="info">
+                    <h4 class="title small author-name gradient-effect no-margin"><a href="">周立杰的博客</a></h4>
+                    <p class="founder">欢迎来到周立杰的博客
+&lt;a href=&#34;sweepy.cnblogs.com&#34;&gt;博客园链接&lt;/a&gt;</p>
+                    <div class="social">
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                    </div> 
+                  </div>
+                  <div class="clear"></div>
+                  </section>
+              </div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <div class="logo">
+          <a href="https://hesy-zhoulijie.github.io"><img src="" alt=""></a>
+        </div>
+        <p class="published border-effect">
+          ©2019 共 35 篇文章
+          <br/>
+          Theme <a href="https://gridea.dev/" target="_blank">「breek」</a> Powered by <a href="https://gridea.dev/" target="_blank">「Gridea」</a>
+        </p>
+        
+        <a href="javascript:void(0)" id="back-to-top" class="epcl-button dark" style="display:none">
+          <i class="fa fa-arrow"></i>
+        </a>
+    </footer>
+    
+    <div class="clear"></div>
+
+        
+
+      
+    <script src="https://hesy-zhoulijie.github.io/media/js/functions-post.js"></script>
+
+    </div>
+    <!-- end: #wrapper -->
+  </body>
+</html>

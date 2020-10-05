@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hesy-zhoulijie.github.io</id>
     <title>周立杰的博客</title>
-    <updated>2020-10-05T05:08:04.784Z</updated>
+    <updated>2020-10-05T05:28:07.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hesy-zhoulijie.github.io"/>
     <link rel="self" href="https://hesy-zhoulijie.github.io/atom.xml"/>
@@ -11,6 +11,3441 @@
     <logo>https://hesy-zhoulijie.github.io/images/avatar.png</logo>
     <icon>https://hesy-zhoulijie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 周立杰的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Yorg.io 进阶指南]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/yorgio/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/yorgio/">
+        </link>
+        <updated>2020-10-05T05:26:47.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="yorgio-进阶指南">Yorg.io 进阶指南</h1>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="yorgio-进阶指南">Yorg.io 进阶指南</h1>
+<!-- more -->
+<h2 id="目录">目录</h2>
+<p>[TOC]</p>
+<h2 id="开始">开始</h2>
+<p>在你阅读这篇指南的时候，我假定你已经活过了第50天，Level10+。现有水晶在1千万以上。</p>
+<h2 id="第一步">第一步</h2>
+<p>存档，保存一下你现在的进度。</p>
+<h2 id="第二步">第二步</h2>
+<p>拆除你的所有设施。</p>
+<p>可能你觉得很荒唐，但是就是这样的。拆除并重新建造是成神的第一步。</p>
+<h2 id="第三步">第三步</h2>
+<p>重新安排你的水晶矿机，围绕着主基地排列。</p>
+<p>存档</p>
+<h2 id="第四步">第四步</h2>
+<p>重新安排其他矿机，让他们围绕着水晶矿机排列。</p>
+<p>我们把这个区域叫做一个矿区。</p>
+<p>存档</p>
+<h2 id="第五步">第五步</h2>
+<p>用运输线连接矿机</p>
+<blockquote>
+<p>如果你已经解锁了空间翘曲技术，请直接前往<a href="#%E7%AC%AC%E4%B8%83%E6%AD%A5">第七步</a></p>
+</blockquote>
+<h2 id="第六步">第六步</h2>
+<p>将各种工厂安置在运输线上。</p>
+<h2 id="第七步">第七步</h2>
+<p>在每个矿区周围安置以下数量的武器：</p>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>数量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>加农大炮</td>
+<td></td>
+</tr>
+<tr>
+<td>弓箭塔</td>
+<td></td>
+</tr>
+<tr>
+<td>弓箭塔</td>
+<td>8</td>
+</tr>
+<tr>
+<td>闪电塔</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<h2 id="以后的步骤将会分成xa-xb两种请遵循其中的一种进行后面的更新">以后的步骤将会分成<code>x.A x.B</code>两种，请遵循其中的一种进行后面的更新。</h2>
+</blockquote>
+<h2 id="第八a步">第八.A步</h2>
+<p>定位到地图的边缘，按住字母E的同时按住ASDW控制方向，绘制出连续的城墙。</p>
+<h2 id="第八b步">第八.B步</h2>
+<p>在每个矿区周围搭建围墙</p>
+<h2 id="第九a步">第九.A步</h2>
+<p>在城墙上开个口，然后如下图所示搭建城墙</p>
+<p>（黑色的是地图边界，灰色的是城墙，红色的⭕是主基地）</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/08/03/M4DEdc2fUynCmzJ.png" alt="image.png" loading="lazy"></figure>
+<h2 id="第十a步">第十.A步</h2>
+<p>在这个通道周围<code>布满</code>武器塔</p>
+<h2 id="第十一步">第十一步</h2>
+<p>开始游戏</p>
+<h2 id="最终效果">最终效果</h2>
+<p><img src="https://i.loli.net/2020/08/03/sMoylfAg8DKFIOJ.png" alt="image.png" loading="lazy"><br>
+<img src="https://i.loli.net/2020/08/03/X4nStTPLDMpQNWu.png" alt="image.png" loading="lazy"><br>
+<img src="https://i.loli.net/2020/08/03/5RythMsPipBbX2m.png" alt="image.png" loading="lazy"></p>
+<h2 id="存档下载">存档下载</h2>
+<p>你真的要这样吗？<a href="javascript.alert(%22%E4%B8%8D%E7%BB%99%EF%BC%81%22)">链接</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国外浏览器评测]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/intlbrowser/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/intlbrowser/">
+        </link>
+        <updated>2020-10-05T05:26:11.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="国外浏览器评测">国外浏览器评测</h1>
+<p>[toc]</p>
+<h2 id="链接汇总">链接汇总</h2>
+<p>大目录：https://o8.cn/5gIlMZ<br>
+chrome_85.0.4183.102.exe：https://www.90pan.com/b2107538<br>
+密码：2fv5<br>
+Firefox80.0.1.exe：https://www.90pan.com/b2107539<br>
+密码：qum4<br>
+MicrosoftEdge85.0.564.51X86.msi：https://www.90pan.com/b2107540<br>
+密码：a641<br>
+chromium.zip：https://www.90pan.com/b2107556<br>
+密码：ocy3<br>
+Safari.zip：https://www.90pan.com/b2107561<br>
+密码：dgcd<br>
+Opera72.0.3798.0dev.zip：https://www.90pan.com/b2107581<br>
+密码：no96</p>
+<h2 id="谷歌浏览器google-chrome">谷歌浏览器(Google Chrome)</h2>
+<h3 id="下载地址">【下载地址】</h3>
+<blockquote>
+<p>chrome_85.0.4183.102.exe：https://o8.cn/iKaCSK<br>
+密码：2fv5</p>
+</blockquote>
+<p>谷歌浏览器Google Chrome是由Google公司开发的一款设计简单、高效的Web浏览工具，目前浏览器市场占有率绝对第一，谷歌浏览器带给用户高速、稳定、安全的网络浏览体验。 该浏览器是基于其他开放原始码软件所撰写，包括WebKit和Mozilla，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。Google Chrome支持多标签浏览，每个标签页面都在独立的“沙箱”内运行，在提高安全性的同时，一个标签页面的崩溃也不会导致其他标签页面被关闭。</p>
+<figure data-type="image" tabindex="1"><img src="http://6.pic.pc6.com/thumb/n331w9c2ault15xfs36/16f5cc1077439bd0_600_0.jpeg" alt="谷歌浏览器(Google Chrome)" loading="lazy"></figure>
+<p><strong>chrome浏览器相比其他浏览器胜在速度上</strong>，简洁快速，用了chrome再也看不上别的浏览器了。专业人士爱用chrome，不过占用内存有点大。chrome现在浏览器市场占有率超过60%基本是所向披靡。总结下chrome为什么会是主流的原因：</p>
+<p>1.同步：基于谷歌账号的多端同步。能够满足对书签，浏览记录同步，等等有很强的需求。</p>
+<p>2.chrome安全性好：沙盒设计，异步进程架构，再加上Google Safe Browsing，下载前检测机制等等。</p>
+<p>3.快：还是那句话，用过快的，就不喜欢慢的。</p>
+<p>4.chrome扩展多：各种实用的扩展，相比firefox的扩展，对浏览器本身影响更小，热更新。其中有些是上网必备的。如果chrome web store连不上，可以去国内的一些商店安装，还可以下载下来离线安装，还可以直接安装自定义的脚本，这些小工具有时候是非常管用的。</p>
+<p>5.简洁：现在浏览器的 UI 都互相借鉴（或者说抄袭），我也不知道 Chrome 的 UI 是否原创，不过简洁的界面的确是一大优势，特别是最新的 Chromium，甚至隐藏了地址栏。</p>
+<p>当然缺点也有，比如网银，很多都不支持Chrome，还有就是吃内存呀，另外就是链接内文字的复制也是一大缺点。</p>
+<h3 id="特色">特色</h3>
+<p>1、速度</p>
+<p>谷歌浏览器(Google Chrome) 浏览器追求的是全方位的高速体验，它可以快速地从桌面上启动，并能迅速加载网页，而在运行复杂的网络应用时更是<a href="http://www.pc6.com/z/xunlei/">迅雷</a>不及掩耳。</p>
+<p>2、简约</p>
+<p>谷歌浏览器(Google Chrome) 浏览器的窗口采用了清爽简洁的流线型设计。例如，您可以通过同一个框执行搜索和导航操作，还可以轻松快捷地随意排列标签页。</p>
+<p>3、安全性</p>
+<p>谷歌浏览器(Google Chrome) 浏览器通过以下功能为您提供更加安全的上网体验：内置的恶意软件和网上诱骗防护功能、自动更新（可确保您获得所有最新的安全修补程序）等。</p>
+<p>4、隐私设置</p>
+<p>谷歌浏览器(Google Chrome) 能够让您控制自己的隐私信息，同时还能帮助保护您在网上共享的信息。</p>
+<p>5、自定义</p>
+<p>​	您可以通过各种各样的方法来自定义 谷歌浏览器(Google Chrome) 浏览器，从而享受独一无二的体验。无论是更改设置，还是从 谷歌浏览器(Google Chrome) 网上应用店添加应用、扩展程序和主题背景都轻而易举。</p>
+<p>6、登录</p>
+<p>​	登录谷歌浏览器(Google Chrome) 浏览器可让您在自己的所有上网设备上使用相同的书签、历史记录以及其他设置。这样还可以让您自动登录所有喜爱的 Google 服务。</p>
+<h3 id="使用技巧">使用技巧</h3>
+<p>一. 快速关闭标签页<br>
+　　相信大多数人依旧是用鼠标直接点击那个关闭按钮来进行标签关闭的，你或许知道 Chrome 专门对标签关闭优化过，每次点击关闭后会自动改变标签宽度，这样可以通过在同一位置连续点击鼠标来快速关闭多个标签页，因此相对其他浏览器用鼠标点击关闭效率其实还算不低。不过这个优秀的细节面对固定标签就不行了，此外老是通过鼠标点击关闭的话对于一个极客来说也太显得图样图森破了，今天极客公园为你推荐另外两种快速关闭标签页的方法：1.在要关闭标签页下按下 Ctrl/ + W 组合快捷键 （适用于任何标签页关闭）2.在要关闭标签页下中键单击（按下滚轮） （关闭标签最简单最快捷方法）除了 Ctrl/ + W 快捷键关闭标签页外，你还应该记住 Ctrl/ + T 快速打开新标签页，Ctrl/+Shift+T 重新打开最新关闭的标签，Ctrl/+Shift+V 将剪切板中的内容无格式粘贴等快捷键组合，更多请查看官方指南。</p>
+<p>二. 设备间同步标签页<br>
+　　随着智能移动设备在生活中占据的地位越来越重，能够打通桌面与移动端的数据，统一体验将会越来越受用户欢迎。在这方面 Chrome 暂时做得还不错，近两年 Google相继推出官方的Chrome Andriod 版本（需4.0以上）和Chrome iOS 版本（需4.3以上）。通过“同步书签、同步密码、发送到移动设备、自动登录、智能建议”这些功能可以将在桌面电脑上打开的标签页、存储的书签和多功能框数据同步到您的手机或平板电脑上。下面以不同设备间标签页的同步为例为你介绍 Chrome 的同步功能。同步标签页需要相应设备对应版本，确保“打开的标签页”复选框处于选中状态当桌面版和移动版 Chrome 都已经登录同一账户并处于联网状态时就可以在新标签页（按下 Ctrl/⌘ +T ）下右下角的&quot;其他设备&quot;中查看，点击即可在当前设备上打开同步的标签页。打开的标签页是按设备进行分组的，要管理（隐藏、重命名、删除）特定设备的话，可以到云打印页面设置。</p>
+<p>三. 发送标签页到移动设备<br>
+　　除了不同设备间书签、标签等数据同步外，Chrome 还可以一键将当前浏览的标签页直接发送到关联在同一账户下的移动设备上。如果你安装的为 Chrome Dev 版本并且关联了其他设备下的 Chrome 版本的话你会发现在地址栏右侧会出现一个手机的图标，点击它就可以将当前网页一键发送至移动设备上去。（其他版本暂需安装官方Chrome to Mobile插件</p>
+<p>四. Tab 智能搜索<br>
+　　你可能知道在 Chrome 浏览器中直接在地址栏中就可以搜索，也可能知道直接选中文本然后右键选择在 Google 搜索或复制然后在地址栏中粘贴并搜索，但你或许不知道 Tab 搜索。那么什么是 Tab 搜索呢？ 如果 Chrome 已记录该网站的搜索引擎（即你在某个网站内使用过其搜索框），按下 Tab 键 Chrome 会自动选择该搜索引擎进行关键字搜索，即可以直接在地址栏内对特定的网站进行搜索。（与 Windows 8 内置的应用内搜索有点类似）以后再也不用先打开豆瓣，再点击豆瓣电影然后再在搜索框内进行搜索了……</p>
+<p>五. Chrome 拖动技巧<br>
+　　在 Chrome 中除了可以拖动上传以及拖动下载文件外，你或许还知道拖动标签（左右改变位置、里外分离拖拽回窗口），其实对于网页里的内容也是可以拖动的。1.拖动搜索 （地址栏、标签栏）2.拖动图片 （地址栏、标签栏）3.拖动链接 （地址栏、标签栏、书签栏）4.拖动本地 HTML、图片、pdf文件（地址栏、标签栏、书签栏）对应元素拖动到地址栏上将会在当前窗口搜索/打开该元素内容，如果拖动到标签栏上则新建窗口搜索/打开。</p>
+<p>六. 使用语音识别搜索<br>
+　　如果在 Chrome 浏览器中看到文本框带有麦克风图标的话就表示，那就表示可以通过语音输入，而不用键盘输入内容了。直接点击麦克风图标或将光标放到文本框中然后按Ctrl/⌘ + Shift + .（英文句号）组合键即可。语音搜索这一点对于输入不便的移动设备来说更是尤为重要，这也是为什么语音搜索服务最早登录移动平台（m.google.com），移动版 Chrome 在地址栏默认就有语音搜索功。</p>
+<p>七. Chrome Experiments Google<br>
+　　有一个叫做Chrome Experiments的网站，在这个网站里除了可以浏览各种以 JavaScript、HTML5 和 WebGL 编写的创新实验展示，如有趣好玩的游戏（Cube 3D地图）、互动电影，新颖惊艳的Impress.js（内容展示效果库，类似3D 版 PPT） 、Kinect+WebGL、其他各种有用的库等。此外今年还新增了专门面向移动设备的页面。</p>
+<h2 id="firefox火狐浏览器">Firefox(火狐浏览器)</h2>
+<h3 id="下载地址-2">【下载地址】</h3>
+<blockquote>
+<p>Firefox80.0.1.exe：https://o8.cn/1GfS2X<br>
+密码：qum4</p>
+</blockquote>
+<p>Mozilla Firefox是一个自由的，开放源码的浏览器，火狐浏览器适用于Windows,Linux和MacOSX平台。火狐浏览器还有其它一些高级特征，如标签式浏览，可以禁止弹出式窗口。</p>
+<p>Mozilla Firefox，中文名通常称为“火狐”或“火狐浏览器”。是一个自由的，开放源码的浏览器，适用于Windows, Linux 和 MacOS X平台。引擎反应更快，内存占用更少，速度更快，真正的隐私保护，还有众多自定义功能。</p>
+<h3 id="功能介绍">功能介绍</h3>
+<p><strong>选择外观: 主题</strong></p>
+<p>打造符合你风格的火狐浏览器（Firefox）。您可以从几万个出自全世界不同国家设计师设计的火狐浏览器（Firefox）皮肤主题 中挑选适合您的主题，也可以自己动手 制作主题。只需简单的一个点击，即刻换上您想要的火狐浏览器（Firefox）主题皮肤。</p>
+<p><strong>自定义：附加组件</strong></p>
+<p>火狐浏览器（Firefox）拥有超过一万个的 扩展（add-ons），提供各种不同的扩展功能，您可以简单的下载、安装这些扩展以增强您的火狐功能，帮助您更好、更个性化的体验网上冲浪。无论是在网上听音乐，看视频，购物，看新闻...都能找到相应的火狐浏览器（Firefox）扩展能帮助您提升体验，这里 是一些我们推荐给您的扩展精选。</p>
+<p><strong>插件更新检查</strong></p>
+<p>插件是由类似 Adobe Systems 或者 Apple 这些公司制作的第三方软件，用来播放视频、实现动画或者制作游戏（例如 Flash Player 或者 Quicktime）。它们可能导致浏览器的崩溃或者在一段时间后被发现安全漏洞，所以火狐浏览器（Firefox）开发了一个简单的工具来确保您使用的插件是新版。</p>
+<p><strong>自定义您的界面</strong></p>
+<p>新版火狐浏览器（Firefox）中，彻底重新设计了自定义浏览器界面的交互体验，操作更简单方便。</p>
+<p>在新版火狐浏览器（Firefox）的界面上，移除了底部的附加组件栏，同时火狐浏览器（Firefox）为您提供了一个全新的菜单面板，可以快速方便的在这里找到所有您需要的功能。点击火狐浏览器（Firefox）菜单面板下方的&quot;自定制&quot;，您将进入到自定义面板，在这里您可以通过直接拖拽按钮，自由的添加、移动、删除您要调整的按钮。确保那些您常用的功能（附加组件、隐私浏览、同步等等）一键即可进入。</p>
+<h3 id="火狐浏览器和谷歌浏览器的对比">火狐浏览器和谷歌浏览器的对比：</h3>
+<p><strong>在安全性方面：</strong></p>
+<p>谷歌浏览器会定期的下载更新两组黑名单（分别是防止网络钓鱼和恶意软件），并会在使用者试图浏览可能造成电脑损害的网站时予以警告。</p>
+<p>火狐浏览器（Firefox）自身有阻止弹出性窗口的功能，并且在安装火狐时自定义模式下可以安装一款扩展提高安全性能。</p>
+<p><strong>在速度方面：</strong></p>
+<p>谷歌浏览器使用谷歌自身研发的Chrome内核当你双击谷歌浏览器标志时，几乎立刻就能启动浏览器，这点是同类产品做不到的一点，同时在用谷歌浏览器浏览网页时几乎感觉不到是通过浏览器在浏览，给用户以全新流畅的体验。</p>
+<p>火狐浏览器使用Gecko内核，具有上网速度快，整体轻便，界面简洁等特征。火狐浏览器（Firefox）浏览网页时采用的分页浏览的方式，可以加快页面加载的速度，这也是其成为好用的网页浏览器的重要原因之一。</p>
+<p><strong>在功能方面：</strong></p>
+<p>火狐浏览器<a href="http://www.pc6.com/pc/zydgdyouxi/">自由度高</a>，用户能够在浏览器上安装多种插件，方便用户使用站点的特殊功能。但由于开发者大部分使用谷歌浏览器，所以某些网站或内容在火狐浏览器不能完美呈现。</p>
+<p>谷歌浏览器也有浏览器插件的功能，但由于<a href="http://www.pc6.com/pc/ggllqcj/">谷歌插件</a>商店经常处于打不开的状态，所以插件安装文件需要通过其他途径进行下载。</p>
+<p><strong>在稳定性方面：</strong></p>
+<p>Chrome大的亮点就是多进程架构，保护浏览器不会因恶意网页和应用软件而崩溃。通过将每个站点或应用程序封闭起来提高系统安全性。但谷歌浏览器的最大弊端是占用内存较大，特别是同时打开多个页面的情况下尤为明显，但同时也具有高性能的表现，所以更适合高内存计算机用户使用。而火狐浏览器的兼容性较强，牺牲了部分速度保证整体使用的稳定性。</p>
+<h2 id="microsoft-edge浏览器">Microsoft Edge浏览器</h2>
+<h3 id="下载地址-3">【下载地址】</h3>
+<blockquote>
+<p>MicrosoftEdge85.0.564.51X86.msi：https://o8.cn/VoGrVO<br>
+密码：a641</p>
+</blockquote>
+<h3 id="内测版本">【内测版本】</h3>
+<blockquote>
+<p>https://www.microsoftedgeinsider.com/zh-cn/</p>
+<p>最新的dev版本有彩蛋</p>
+<figure data-type="image" tabindex="2"><img src="https://pic.rmb.bdstatic.com/bjh/6568dfafcda09e6ca0508da2525c1140.png" alt="image.png" loading="lazy"></figure>
+</blockquote>
+<p>微软已正式公布采用Chromium内核的全新Edge浏览器，Microsoft Edge浏览器在新版Windows 10上已经支持，交互界面更加简洁，还将兼容现有Chrome与Firefox两大浏览器的扩展程序。用户安装的插件将与Chrome与Firefox类似，显示在工具栏上。</p>
+<p>全新的Edge浏览器支持同步书签、密码、历史记录和标签，实现类似于Firefox Sync的功能。</p>
+<h3 id="软件特色">软件特色</h3>
+<p><strong>IE 模式</strong></p>
+<p>在新版的Edge中，可以一键切换为IE11内核，借助此功能你可以正常访问一些老旧的网站，例如部分学校和政府机构的网站</p>
+<figure data-type="image" tabindex="3"><img src="https://thumb1.jfcdns.com/thumb/n331fxo31nta14fvr42/16f5e8302ab13327_600_0.jpg" alt="img" loading="lazy"></figure>
+<p><strong>跟踪防护</strong></p>
+<p>将会更加注重用户的安全隐私控制</p>
+<figure data-type="image" tabindex="4"><img src="https://thumb.jfcdns.com/thumb/n331wy631hy314k7s42/16f5e8302aba7fd6_600_0.jpg" alt="img" loading="lazy"></figure>
+<p><strong>快速收藏</strong></p>
+<p>Edge可以和office套件便捷交互，导入导出分享将会变得更加轻松</p>
+<figure data-type="image" tabindex="5"><img src="http://0.pic.pc6.com/thumb/n331m3k31guq142vz42/16f5e8302ac5ea72_600_0.jpg" alt="img" loading="lazy"></figure>
+<p>新版Edge支持的平台非常多，除了 windows 还支持 macOS，当然Edge也有移动端的，Android和IOS版本均可和桌面版同步</p>
+<h3 id="设置中文语言方法">设置中文语言方法</h3>
+<p>点击右栏的菜单-Settings-languages</p>
+<figure data-type="image" tabindex="6"><img src="http://thumb10.jfcdns.com/thumb/n331csx31wk514zp327/16f5e6ed320961ff_600_0.jpeg" alt="img" loading="lazy"></figure>
+<p>点击Add languages</p>
+<figure data-type="image" tabindex="7"><img src="http://6.pic.pc6.com/thumb/n331jo731za614aro27/16f5e6ed32180912_600_0.jpeg" alt="img" loading="lazy"></figure>
+<p>这里我们可以通过搜索找到中文，推荐大家添加简体中文，这里因为我添加过了，所以没显示</p>
+<figure data-type="image" tabindex="8"><img src="http://thumb11.jfcdns.com/thumb/n331s2f31n2w14qvn27/16f5e6ed3223b384_600_0.jpeg" alt="img" loading="lazy"></figure>
+<p>依次勾选，应用语言到整个Edge浏览器</p>
+<figure data-type="image" tabindex="9"><img src="https://thumb2.jfcdns.com/thumb/n331aub31e1b14gm427/16f5e6ed32304608_600_0.jpeg" alt="img" loading="lazy"></figure>
+<p>再点击Restart重启浏览器</p>
+<figure data-type="image" tabindex="10"><img src="http://6.pic.pc6.com/thumb/n331i5331liy14zwr27/16f5e6ed323b205b_600_0.jpeg" alt="img" loading="lazy"></figure>
+<p>这样可以看到浏览器就是中文界面了</p>
+<figure data-type="image" tabindex="11"><img src="http://6.pic.pc6.com/thumb/n3318so31fng145l627/16f5e6ed3246a57b_600_0.jpeg" alt="img" loading="lazy"></figure>
+<h2 id="chromium浏览器">Chromium浏览器</h2>
+<h3 id="下载地址-4">【下载地址】</h3>
+<blockquote>
+<p>chromium.zip：https://o8.cn/IY27Rh<br>
+密码：ocy3</p>
+</blockquote>
+<p>Chromium浏览器是一款基于Google Chrome浏览器的开源版，Chromium浏览器相比Chrome具有更加丰富的功能更新颖的功能给专业人员使用，Chromium浏览器的核心思想就是简单、高速、稳定、安全的浏览网页。</p>
+<figure data-type="image" tabindex="12"><img src="http://6.pic.pc6.com/thumb/n131t2ao13y33/16f5c6f4c3becc3b_600_0.jpeg" alt="img" loading="lazy"></figure>
+<h3 id="基本简介">基本简介</h3>
+<p>Chromium是一个由Google主导开发的网页浏览器。以BSD许可证等多重自由版权发行并开放源代码。Chromium设计思想基于简单、高速、稳定、安全等理念，在架构上使用了Apple发展出来的WebKit排版引擎、Safari的部份源代码与Firefox的成果，并采用Google独家开发出的V8引擎以提升解译JavaScript的效率，而且设计了“沙盒”、“黑名单”、“无痕浏览”等功能来实现稳定与安全的网页浏览环境。Chromium是Google为发展自家的浏览器Google Chrome（以下简称Chrome）而开启的计划，所以Chromium相当于Chrome的工程版或称实验版（尽管Chrome自身也有β版阶段），新功能会率先在Chromium上实现，待验证后才会应用在Chrome上，故Chrome的功能会相对落后但较稳定。Chromium和Chrome所使用的webkit内核是目前公认的最快的网页浏览方式。</p>
+<h3 id="软件特色-2">软件特色</h3>
+<p>- Chromium浏览器基于开源引擎WebKit、Blink，其中包含谷歌Gears。<br>
+　　- Chromium提供了浏览器扩展框架，可以制作与Adobe-AIR类似的混合应用。</p>
+<p>- 包含V8 Javascript虚拟机，这个多线程的虚拟机可以加速Javascript的执行。</p>
+<p>- 具备隐私浏览模式，可以让用户无需在本地机器上登录即可使用，这个功能与微软IE8中的Incognito类似。</p>
+<p>- 浏览器将内置防止“网络钓鱼“及恶意软件功能。</p>
+<h3 id="功能介绍-2">功能介绍</h3>
+<p>- Chromium浏览器使用了额外的Loader使配置文件与程序文件存放于同一个文件夹，适合U盘携带，或者经常重装的人群。<br>
+　　- 能通过“设置默认浏览器。EXE”将浏览器设置为默认浏览器。并且设置之后在任何地方调用浏览器都不会出现丢失设置的情况。并且能创建桌面以及程序菜单快捷方式。不过设置默认浏览器之后，程序所在文件夹不能改名或者删除;</p>
+<p>- 优化了浏览器配置。附加了一些常用的浏览器插件。其中有一些插件默认是停用的，如果需要的话，随时启用即可。</p>
+<p>- 能通过一个批处理文件“清除所有个人信息与自定义设置。bat”快速的将所有此浏览器的浏览记录以及个人信息删除。以便重新定制并分发给其他用户。</p>
+<ul>
+<li>Loader使用<a href="http://www.pc6.com/pc/cyybyq/">c语言</a>编写。尽量减少垃圾文件产生以及资源占用。</li>
+</ul>
+<h3 id="常见问题">常见问题</h3>
+<p><strong>问：chrome与chromium有什么区别？</strong></p>
+<p>1、安装模式 Chromium可以免安装，下载zip压缩包后解压缩即可使用，而Chrome虽然理论上也可以免安装，但Google仅提供安装版。</p>
+<p>2、程序图标 两者图标只在色彩上有不同，Chromium的是天蓝色系，而Chrome的则是Google公司的代表色（红、黄、蓝、绿）。</p>
+<p>3、新功能会率先在Chromium上推出，Chrome则会相对落后许多。</p>
+<p><strong>问：浏览器支持多用户登录吗？</strong></p>
+<p>在实验室里打开Multiple profiles项目，在重启浏览器之后，即可看到窗口右上角显示当前登录的帐户名称。点击该名称，点击Create a new profile手动接创建一个新的帐户，这会让你再新打开一个使用不同帐户的窗口，你不仅可以用不同马甲帐户和cookies登录网站，还有完全不同的Chrome扩展、主题、网页应用、收藏夹、设置参数等等。</p>
+<p><strong>问：缺少Google API密钥,chromium的部分功能无法使用怎么解决？</strong></p>
+<p>1、在使用chrome浏览器便携版-chrome的时候，会出现以下问题：</p>
+<p>2、缺少google api密钥,因此chromium的部分功能将无法使用</p>
+<p>3、这时候，谷歌账户无法登陆，十分不便。</p>
+<h2 id="safari浏览器">Safari浏览器</h2>
+<p>【下载地址】</p>
+<blockquote>
+<p>Safari.zip：https://o8.cn/kigrgU<br>
+密码：dgcd</p>
+</blockquote>
+<p>Safari是目前在windows平台上速度最快的浏览器，业界标准iBech测试显示，Safari浏览网页速度是IE 7的两倍，Firefox 2的1.6倍</p>
+<p>Safari浏览器是苹果Mac OS X平台的多标签的网络浏览器。苹果电脑发布了Windows版本的Safari，它支持Windows XP和Windows Vista操作系统，目前Safari 5正式版已经发布。多国语言版，自适应简体中文界面。Safari5完美支持HTML5，还包括大量全新改进。</p>
+<p>速度不错但是兼容性不佳，用Safari 点下载链接是不会打开迅雷的，同时qq秀也不支持，许多东西要装插件。不过界面很漂亮很智能，用的舒服。</p>
+<p>顺便提示一下Safari 用迅雷的方法 ：先打开迅雷 ，在safari里找到要下载的东西之后选中链接右键复制，迅雷会自己跳出来</p>
+<h3 id="软件特色-3">软件特色</h3>
+<p>Safari 是第一个支持 HTML5 音频和视频标签的浏览器。开发者可以将媒体文件直接整合到标准网页中，大大节约了开发时间，提高了响应速度。<br>
+　　对 HTML5 视频的全屏和隐藏字幕支持让开发者提供了更丰富、更易于获得的视频观看体验。<br>
+　　有了地理定位支持，选择了共享位置信息的用户可定制个性化网站内容。<br>
+　　Safari 还支持 HTML5 离线科技，基于网站的应用程序可以将信息存在本地硬盘中，无需网络连接也可随时使用。<br>
+　　苹果浏览器功能特点介绍：<br>
+　　多线程架构，让每一个网页都在独立线程中运行，互不影响，速度更快。<br>
+　　内置播放器，自动匹配歌词，显示音乐频谱，给歌曲评分，设置智能播放列表。<br>
+　　实时更新的黑白名单功能，阻止尽可能多的非法网站，为您的网络冲浪护航。<br>
+　　苹果浏览器是目前占用内存最低的软件之一，使得浏览网页运行更快。<br>
+　　苹果浏览器是一款集网络浏览和网络搜索于一体，使用户在冲浪更方便。</p>
+<h3 id="发展趋势">发展趋势</h3>
+<p><strong>苹果Safari浏览器增长速度比微软Edge快</strong></p>
+<p>在浏览器市场，苹果和微软从来都不是直接竞争对手，毕竟每一家自己的浏览器方案都仅限于特定的平台或设备。其中，苹果的 Safari 主要针对 macOS 平台，其 Windows 版本在 2012 年就停止更新了。而微软现在全新的 Edge，如今只能在 Windows 10 上使用，并无针对其他平台的计划。</p>
+<p>不过，现在有一个有趣的事实是，尽管微软 Windows 10 系统本身增长速度比 macOS 快得多，但实际上苹果的 Safari 浏览器增长速度比微软 Edge 还要快。</p>
+<p>根据市场调研提供的统计数据了解，2017 年 5 月份，微软 Edge 浏览器仅提高了 0.01% 的市场份额，从 5.62% 增长到 5.63%。对比之下，苹果的 Safari 浏览器获得了 0.12% 的市场份额增长，在一个月时间内从 3.44% 增长到了 3.56%。</p>
+<p>当然了，无论是微软 Edge 还是苹果 Safari，其实都是五十步笑百步，毕竟两者只占据了整个市场很小的市场份额。目前在整个浏览器市场上，最大魔头当属谷歌Chrome浏览器，目前在桌面平台上所占据的市场份额高达 59.36%。这意味着，无论是苹果 Mac 还是微软 Windows 平台，平均每 10 台电脑中就有高达 6 台安装了 Chrome 浏览器。</p>
+<p>至于其他浏览器平台，Internet Explorer 的市场占有率仅剩下 17.55%，而 Mozilla Firefox 则为 11.98％ 的市场份额。</p>
+<h2 id="opera浏览器">Opera浏览器</h2>
+<h3 id="下载地址-5">【下载地址】</h3>
+<blockquote>
+<p>Opera72.0.3798.0dev.zip：https://o8.cn/qXaOgH<br>
+密码：no96</p>
+</blockquote>
+<p>Opera浏览器绿色便携版是一款挪威Opera Software ASA公司制作的支持多页面标签式浏览的网络浏览器，作为一款主流桌面浏览器，Opera浏览器以它的快速、小巧和比其他浏览器更佳的标准兼容性在网上受到很多人的推崇。</p>
+<p>Opera支持多种操作系统，如Windows、Linux、Mac、FreeBSD、Solaris、BeOS、OS/2、QNX等，此外，Opera还有手机用的版本，在2006年更与Nintendo签下合约，提供NDS及Wii游 乐器Opera浏览器软件；也支持多语言，包括简体中文和繁体中文。</p>
+<p>Opera还提供很多方便的特性，包括Wand密码管理、会话管理、鼠标手势、键盘快捷键、内置搜索引擎、智能弹出式广告拦截、网址的过滤、浏览器识别伪装和超过400种,可以方便下载更换的皮肤，界面也可以在定制模式下通过拖放随意更改。下载一个大约10M的扩展以后，它甚至可以让你用语音控制以及阅读网页（英文）。而以上的这些，包括右键菜单都是可以由用户自定义的。</p>
+<p>Opera浏览器绿色便携版是一款挪威Opera Software ASA公司制作的支持多页面标签式浏览的网络浏览器，作为一款主流桌面浏览器，Opera浏览器以它的快速、小巧和比其他浏览器更佳的标准兼容性在网上受到很多人的推崇。</p>
+<figure data-type="image" tabindex="13"><img src="https://thumb1.jfcdns.com/thumb/n231cz2au622sy3a/16f5de0723eb7707_600_0.jpeg" alt="img" loading="lazy"></figure>
+<h3 id="功能介绍-3">功能介绍</h3>
+<p><strong>更方便的同步功能</strong></p>
+<p>只需登录您的 Opera 帐户，同步浏览数据 - 书签、打开的标签、密码和输入的历史记录。</p>
+<p><strong>更快的运行速度</strong></p>
+<p>Opera Turbo 会压缩页面数据，实现更加快速地浏览。</p>
+<p><strong>更具个性的浏览器</strong></p>
+<p>Opera 浏览器拥有 1,000 多个扩展，您可以轻松进行自定义。</p>
+<p><strong>更简单的风格</strong></p>
+<p>Opera 浏览器具有合并的搜索和地址栏功能，更能够自定义键盘快捷键和鼠标手势。</p>
+<p><strong>更安全、更隐私的浏览保护</strong></p>
+<p>Opera 能够保护您的浏览安全，您尽可专心浏览。</p>
+<p><strong>提高效率</strong></p>
+<p>最近关闭的标签、标签循环功能，以及其他小改进都能替您节省上网时间。</p>
+<p><strong>获取最新新闻</strong></p>
+<p>凭借 Opera 焕然一新的新闻功能，您可以从浏览器首页直接以您的语言获取最新文章。</p>
+<hr>
+<p>这里我偷懒了，直接引用了PC6的链接。</p>
+<h2 id="vivaldi浏览器"><a href="http://www.pc6.com/softview/SoftView_148320.html">Vivaldi浏览器</a></h2>
+<h2 id="anaheim浏览器"><a href="http://www.pc6.com/softview/SoftView_630941.html">Anaheim浏览器</a></h2>
+<h2 id="seamonkey浏览器"><a href="http://www.pc6.com/softview/SoftView_102409.html">Seamonkey浏览器</a></h2>
+<h2 id="lunascape三核心浏览器"><a href="http://www.pc6.com/softview/SoftView_49583.html">Lunascape(三核心浏览器)</a></h2>
+<h2 id="yandex浏览器"><a href="http://www.pc6.com/softview/SoftView_704884.html">Yandex浏览器</a></h2>
+<h2 id="microsoft-edge-devchromium-edge开发版"><a href="http://www.pc6.com/softview/SoftView_657926.html">Microsoft Edge Dev(Chromium Edge开发版)</a></h2>
+<h2 id="opera-developer"><a href="http://www.pc6.com/softview/SoftView_45055.html">Opera developer</a></h2>
+<h2 id="icecat冰猫浏览器"><a href="http://www.pc6.com/softview/SoftView_870168.html">IceCat(冰猫浏览器)</a></h2>
+<h2 id="slashbweb开发浏览器"><a href="http://www.pc6.com/softview/SoftView_855794.html">slashB(web开发浏览器)</a></h2>
+<h2 id="whale浏览器"><a href="http://www.pc6.com/softview/SoftView_694674.html">Whale浏览器</a></h2>
+<h2 id="opera-gx"><a href="http://www.pc6.com/softview/SoftView_668572.html">Opera GX</a></h2>
+<h2 id="科摩多安全浏览器comodo-dragon"><a href="http://www.pc6.com/softview/SoftView_48779.html">科摩多安全浏览器(Comodo Dragon)</a></h2>
+<h2 id="chrome懒人版"><a href="http://www.pc6.com/softview/SoftView_722860.html">Chrome懒人版</a></h2>
+<h2 id="midori-for-windows轻量级浏览器"><a href="http://www.pc6.com/softview/SoftView_55847.html">Midori for Windows(轻量级浏览器)</a></h2>
+<h2 id="deepnet-explorer"><a href="http://www.pc6.com/softview/SoftView_636001.html">Deepnet Explorer</a></h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ 编译优化]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/o2/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/o2/">
+        </link>
+        <updated>2020-10-05T05:24:15.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="很多人说o2很快真的吗">很多人说O2很快，真的吗？</h1>
+<p>话不多说，先贴图：<br>
+环境：<br>
+<img src="https://img2020.cnblogs.com/blog/2006459/202007/2006459-20200722144034061-726260855.png" alt="" loading="lazy"><br>
+WSL Ubuntu 18.04LTS</p>
+<pre><code class="language-cpp">sweepy@DESKTOP-M79ULPC:/mnt/c/Users/zljzl/desktop$ g++ file.cpp -o file.out
+sweepy@DESKTOP-M79ULPC:/mnt/c/Users/zljzl/desktop$ vi ./file.cpp
+sweepy@DESKTOP-M79ULPC:/mnt/c/Users/zljzl/desktop$ time ./file.out
+
+real    0m0.063s
+user    0m0.047s
+sys     0m0.016s
+sweepy@DESKTOP-M79ULPC:/mnt/c/Users/zljzl/desktop$ g++ file.cpp -o file.out -O2
+sweepy@DESKTOP-M79ULPC:/mnt/c/Users/zljzl/desktop$ time ./file.out
+
+real    0m0.013s
+user    0m0.000s
+sys     0m0.000s
+sweepy@DESKTOP-M79ULPC:/mnt/c/Users/zljzl/desktop$ g++ file.cpp -o file.out -O3
+sweepy@DESKTOP-M79ULPC:/mnt/c/Users/zljzl/desktop$ time ./file.out
+
+real    0m0.016s
+user    0m0.016s
+sys     0m0.000s
+sweepy@DESKTOP-M79ULPC:/mnt/c/Users/zljzl/desktop$ g++ file.cpp -o file.out -Ofast
+sweepy@DESKTOP-M79ULPC:/mnt/c/Users/zljzl/desktop$ time ./file.out
+
+real    0m0.012s
+user    0m0.000s
+sys     0m0.016s
+</code></pre>
+<p>源代码是这样的（计算1~10000000的平方和）<br>
+<img src="https://img2020.cnblogs.com/blog/2006459/202007/2006459-20200722144217257-1597748224.png" alt="" loading="lazy"></p>
+<pre><code class="language-cpp">#include&lt;iostream&gt;
+using namespace std;
+int main(){
+    int ans=0;
+ for(int i=0;i&lt;10000000;i++){
+     ans+=i*i;
+ }
+ return 0;
+}
+</code></pre>
+<p>总而言之，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>O</mi><mo>(</mo><mi>f</mi><mi>a</mi><mi>s</mi><mi>t</mi><mo>)</mo></mrow><annotation encoding="application/x-tex">O(fast)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mord mathdefault">a</span><span class="mord mathdefault">s</span><span class="mord mathdefault">t</span><span class="mclose">)</span></span></span></span>真的很快</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你还在用辣么贵的的Microsoft Word？来看看这些免费的替代品吧。]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/free-word/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/free-word/">
+        </link>
+        <updated>2020-10-05T05:23:10.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="你还在用辣么贵的的microsoft-word">你还在用辣么贵的的Microsoft Word？</h1>
+<h2 id="来看看这些免费的替代品吧">来看看这些免费的替代品吧。</h2>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="你还在用辣么贵的的microsoft-word">你还在用辣么贵的的Microsoft Word？</h1>
+<h2 id="来看看这些免费的替代品吧">来看看这些免费的替代品吧。</h2>
+<!-- more -->
+<h2 id="目录">目录</h2>
+<p>[toc]</p>
+<h2 id="libre-office-writer">Libre Office - Writer</h2>
+<blockquote>
+<p>LibreOffice是OpenOffice.org办公套件衍生版， 同样自由开源，以Mozilla Public License V2.0许可证分发源代码，但相比OpenOffice增加了很多特色功能。LibreOffice拥有强大的数据导入和导出功能，能直接导入PDF文档、微软Works、LotusWord，支持主要的OpenXML格式。软件本身并不局限于Debian和Ubuntu平台，现已持Windows、Mac和其它Linux发行版等多个系统平台。</p>
+</blockquote>
+<h3 id="支持文件格式">支持文件格式</h3>
+<p>文本文档：</p>
+<pre><code>*.odm, *.sgl, *.odt,*.ott, *.sxw, *.stw, *.fodt, *.xml, *.docx,*.docm, *.dotx, *.dotm, *.doc, *.dot, *.wps, *.pdb, *.hwp, *.html, *.htm, *.lwp, *.psw, *.rft, *.sdw, *.vor, *.txt, *.wpd ,*.oth. 
+</code></pre>
+<h3 id="评价">评价</h3>
+<p>总的来说，LibreOffice的界面没有微软Office那么华丽，但非常简单实用。它的六大组件对应Office丝毫不差，而且对系统配置要求较低，占用资源很少。支持众多扩展插件，可增加许多实用功能；一个很好的特性就是LibreOffice可以随身携带。您可以将它安装在你的优盘或便携式硬盘里，甚至是一个SD卡，随便你把它放在哪儿都可以。</p>
+<h3 id="分数">分数</h3>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>⋆</mo><mtext> </mtext><mo>⋆</mo><mtext> </mtext><mo>⋆</mo><mtext> </mtext><mo>⋆</mo><mtext> </mtext><mo>⋆</mo></mrow><annotation encoding="application/x-tex">\star\  \star\  \star\  \star\ \star</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.46528em;vertical-align:0em;"></span><span class="mord">⋆</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mspace"> </span><span class="mbin">⋆</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mspace"> </span></span><span class="base"><span class="strut" style="height:0.46528em;vertical-align:0em;"></span><span class="mord">⋆</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mspace"> </span><span class="mbin">⋆</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mspace"> </span></span><span class="base"><span class="strut" style="height:0.46528em;vertical-align:0em;"></span><span class="mord">⋆</span></span></span></span></p>
+<h2 id="google-docs"><s>Google Docs</s></h2>
+<blockquote>
+<p><s>因为众所周知的原因，这里就不写了</s></p>
+</blockquote>
+<h2 id="wps-office">WPS Office</h2>
+<blockquote>
+<p>WPS Office是由金山软件股份有限公司自主研发的一款办公软件套装，可以实现办公软件最常用的文字、表格、演示，PDF阅读等多种功能。具有内存占用低、运行速度快、云功能多、强大插件平台支持、免费提供海量在线存储空间及文档模板的优点。</p>
+<p>支持阅读和输出PDF（.pdf）文件、具有全面兼容微软Office97-2010格式（doc/docx/xls/xlsx/ppt/pptx等）独特优势。覆盖Windows、Linux、Android、iOS等多个平台。WPS Office支持桌面和移动办公。且WPS移动版通过Google Play平台，已覆盖超50多个国家和地区。</p>
+</blockquote>
+<h3 id="支持文件格式-2">支持文件格式</h3>
+<pre><code>.doc.docx.dot.dotx.wps.wpt等文件格式的打开，包括加密文档；
+</code></pre>
+<h3 id="评价-2">评价</h3>
+<p>WPS Office个人版对个人用户永久免费，包含WPS文字、WPS表格、WPS演示三大功能模块，另外有PDF阅读功能。与Microsoft Office中的Word，Excel，PowerPoint一一对应，应用XML数据交换技术，无障碍兼容docx.xlsx.pptx，pdf等文件格式，你可以直接保存和打开 Microsoft Word、Excel和 PowerPoint 文件，也可以用 Microsoft Office轻松编辑WPS系列文档。</p>
+<blockquote>
+<p><strong>1、云文档，云服务</strong></p>
+<ul>
+<li>团队：WPS云文档支持团队创建，可以按照班级与自定义创建团队，方便课件、作业、资料的存储、共享、管理以及成员操作权限控制</li>
+<li>协作：支持表格、文字、演示组件的多人多端实时协作，便捷进行文件的分发、流转、回收、统计与汇总</li>
+<li>安全：支持云端备份、文档加密、历史版本追溯，安全创作云文档</li>
+</ul>
+<p><strong>2、智能AI工具</strong></p>
+<ul>
+<li>PDF转换工具集：支持PDF与Word、Excel、PPT之间的格式互转，支持各种格式文档输出为图片</li>
+<li>OCR：文字识别技术抓取文档内容并整理形成新文档</li>
+<li>PPT：一键美化，自动识别文档结构，快速匹配模板。</li>
+<li>文档翻译：支持多国语言划词取词</li>
+<li>智能校对：通过大数据智能识别和更正文章中的字词错误</li>
+</ul>
+<p><strong>3、校园工具</strong></p>
+<ul>
+<li>论文查重：多平台选择，计算重复率，定位到重复段落，提供参考性替换内容</li>
+<li>简历助手：多平台选择简历模板库，一次填写，一键投递</li>
+<li>答辩助手：答辩框架与模板</li>
+<li>会议功能：远程课堂演示支持多人多端多屏同步播放，随时随地学习、讨论、分享</li>
+<li>手机遥控：手机智能控制演讲</li>
+<li>演讲实录：记录课堂讲演的每一分钟，课程整理、分享与传播</li>
+</ul>
+<p><strong>4、绘图工具</strong></p>
+<ul>
+<li>思维导图：多种结构、多样板式</li>
+<li>几何图、LaTeX公式图：满足学科电脑制图需求</li>
+</ul>
+<p><strong>5、全面兼容，支持PDF</strong></p>
+<ul>
+<li>全面兼容Office格式，新增PDF组建支持</li>
+</ul>
+<p><strong>6、素材库和知识库</strong></p>
+<ul>
+<li>素材库：模板、字体、动画、图表、图片、图标......资源持续更新</li>
+<li>知识库：考试辅导、个人提升、职场技能、商业管理.....名师课程持续更新</li>
+</ul>
+</blockquote>
+<h3 id="分数-2">分数</h3>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>⋆</mo><mtext> </mtext><mo>⋆</mo><mtext> </mtext><mo>⋆</mo><mtext> </mtext><mo>⋆</mo></mrow><annotation encoding="application/x-tex">\star\ \star\ \star\ \star</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.46528em;vertical-align:0em;"></span><span class="mord">⋆</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mspace"> </span><span class="mbin">⋆</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mspace"> </span></span><span class="base"><span class="strut" style="height:0.46528em;vertical-align:0em;"></span><span class="mord">⋆</span><span class="mspace"> </span><span class="mord">⋆</span></span></span></span>（广告太多，扣一分）</p>
+<h2 id="永中office">永中Office</h2>
+<blockquote>
+<p>江苏永中软件股份有限公司旗下的一款办公软件，永中office在一套标准的用户界面下集成了文字处理、电子表格和简报制作三大应用；基于创新的数据对象储藏库专利技术，有效解决了Office各应用之间的数据集成共享问题。永中Office可以在Windows、Linux等多个不同操作系统上运行。历经多个主要版本的演进，永中Office的产品功能丰富，稳定可靠，可高度替代进口的同类软件，且具备诸多创新功能，是一款自主创新的优秀国产办公软件。</p>
+</blockquote>
+<h3 id="支持文件格式-3">支持文件格式</h3>
+<pre><code>pdf、doc、docx、xls、xlsx、ppt、pptx、uof、eio、html、txt、...
+</code></pre>
+<h3 id="评价-3">评价</h3>
+<blockquote>
+<p>永中Office开创性地将三大应用集成于一体，并通过创新的数据对象储藏库专利技术，有效解决了Office各应用之间的数据集成、应用集成、文档集成等问题，构成了一套独具特色的集成办公解决方案，引领新一代办公革命。</p>
+<h4 id="应用集成">应用集成</h4>
+<p>开创性地将三大应用集成在一个界面之中，统一的交互方式更便于用户的使用。应用集成同时也成为各应用间的数据集成的基础。</p>
+<h4 id="数据集成">数据集成</h4>
+<p>三大应用中的数据建立链接关系后，互相引用，同步更新，使数据管理和维护工作变的得心应手。</p>
+<h4 id="文件集成">文件集成</h4>
+<p>多个文字处理、电子表格、简报制作文档可集成于一个集成文件中。产品特有的数据对象储藏库技术支持在电子表格中存放文字处理、简报制作应用，及其他多种数据对象，对文档及数据管理工作带来了极大的便利。</p>
+<h4 id="跨平台">跨平台</h4>
+<p>支持在Windows、Linux和Mac OS等操作系统上运行，并确保用户一致的使用体验。永中Office进一步扩展了系统平台，可在WindowsVista操作系统中直接安装和运行。同时支持在最新MID设备及U盘上直接运行，给用户带来全新的移动办公体验。</p>
+<h4 id="精确兼容">精确兼容</h4>
+<p>该产品可双向精确兼容微软Office97、2000、2003各版本的文档，同时支持微软最新的Office版本2007。可打开和保存doc、xls和ppt文件；微软Office模板文件（dot、xlt和pot文件），并可打开微软Office产生的碎片文件及加密的微软Office文档。<br>
+三大应用均可存取纯文本TXT格式，也支持带编码的TXT文件并可进行编码转换；文字处理应用支持存取丰富文本格式；电子表格可打开DBF、DB等数据库文件，支持存取CSV文件，文字处理和简报制作文档可保存为一组图片。</p>
+<h4 id="国家标准">国家标准</h4>
+<p>标文通是由国家电子政务总体组所属的中文办公软件基础标准工作组组织制定的《中文办公软件文档格式规范》国家标准（简称标文通即UOF）是我国拥有自主知识产权的文档格式标准，该标准将为我国建立自主可控的信息产业发挥重要作用。永中Office 2010全面兼容标文通，开启中国标文通标准新纪元！<br>
+标文通标准的制定，使得国产办公软件厂商能够有效掌握国内市场竞争的主动权，获得更大的生存空间。标文通标准是一个开放的、基于XML的标准，使用标文通文档格式进行信息交换，用户可以真正掌握文档信息的控制权。<br>
+永中Office 2010基于自主开发环境，采用源代码级底层支持，具有存取速度快、内容完整、标准符合性高等特点，使得永中Office成为支持标文通文档标准的最佳Office产品。</p>
+<h4 id="中文特色">中文特色</h4>
+<p>永中Office具有符合国人使用习惯的特性，提供极其丰富的中文特色功能：文本竖排、稿纸信笺、自加注拼音、简繁体转换、中文项目编号、中文信封模板、中文斜线表格、信封打印工具、中文版式、文字工具、中文数字分节、内码转换、首字下沉、带圈字符。</p>
+<h4 id="科教功能">科教功能</h4>
+<p>产品提供涵盖数学、物理、化学、生物、地理、语言等多个领域，2000多种常用素材和多种管理工具。用户也可根据需要通过科教管理器或科教面板进行素材的管理和使用。产品支持素材的自定义，数理化公式编辑，实验器材以及生物地理等素材应用，函数图像动态呈现等实用的科教功能。</p>
+<h4 id="国际化">国际化</h4>
+<p>遵循国际化标准，支持双向文本编辑。提供简体中文、繁体中文、英文、日文、阿拉伯文、法文、西班牙文等多种语言版本，蒙文，俄罗斯文等语言版本正在开发中。</p>
+<h4 id="功能完备">功能完备</h4>
+<p>几乎全面覆盖了微软Office 2003之Excel、Word、PowerPoint所有功能，并有诸多实用的创新功能，既能满足用户的传统办公需要，又能带给用户很多创新的体验。</p>
+<h4 id="二次开发">二次开发</h4>
+<p>永中Office针对企业应用系统开发整合需求，在二次开发方面参照微软Office定义和实现的二次开发接口，结合永中Office的自主创新，用JAVA语言设计出了一整套Office接口和对象层次，使得熟悉面向对象设计的程序员更加容易地对永中Office进行二次开发。<br>
+永中Office提供功能强大的宏编辑器和丰富的二次开发接口API，支持Office内部开发和外部调用。宏编辑器（MacroEditor）可编辑和运行Java代码，开发环境简单易学。永中Office提供了符合COM规范的接口，通过COM接口可支持使用C++、VB、Delphi等开发语言调用Office功能。永中Office可通过Applet方式或ActiveX方式嵌入浏览器或者其他应用程序运行。通过插件可对Office内部功能进行扩展，永中公司提供了基于永中Office的插件规范，按照该规范开发的第三方插件，均可在永中产品中应用。<br>
+永中Office 2010全面支持电子政务平台，能够实现OA系统平滑移植，满足政府和企业信息化的需求。</p>
+</blockquote>
+<h3 id="分数-3">分数</h3>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>⋆</mo><mtext> </mtext><mo>⋆</mo><mtext> </mtext><mo>⋆</mo><mtext> </mtext><mo>⋆</mo></mrow><annotation encoding="application/x-tex">\star\ \star\ \star\ \star</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.46528em;vertical-align:0em;"></span><span class="mord">⋆</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mspace"> </span><span class="mbin">⋆</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mspace"> </span></span><span class="base"><span class="strut" style="height:0.46528em;vertical-align:0em;"></span><span class="mord">⋆</span><span class="mspace"> </span><span class="mord">⋆</span></span></span></span>（文件太大，功能繁琐）</p>
+<h2 id="石墨文档"><a href="shimo.im">石墨文档</a></h2>
+<blockquote>
+<p>石墨文档是中国一款支持云端实时协作的企业办公服务软件（功能类比于Google Docs、Quip），可以实现多人同时在同一文档及表格上进行编辑和实时讨论，同步响应速度达到毫秒级。</p>
+</blockquote>
+<h3 id="支持文档格式">支持文档格式</h3>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/08/02/1SOIqJ35PBoQjbE.png" alt="image.png" loading="lazy"></figure>
+<h3 id="评价-4">评价</h3>
+<blockquote>
+<h4 id="1-实时保存">1、实时保存</h4>
+<p>文档/表格实时保存在云端，即写即存。在编辑过程中，文档页面上方会实时提示文档的状态，包括正在保存、保存成功和最后更新时间。</p>
+<h4 id="2-轻松分享">2、轻松分享</h4>
+<p>添加协作者，邀请小伙伴来一起协作，你可以自行控制文档/表格的协作权限，只读/可写/私有，或协作或私密。</p>
+<h4 id="3-实时协作">3、实时协作</h4>
+<p>实时协作可以多人多平台同时编辑在线文档和表格。</p>
+<h4 id="4-还原历史">4、还原历史</h4>
+<p>所有的编辑历史都将自动保存，随时追溯查看，还可一键还原到任一历史版本。</p>
+</blockquote>
+<h3 id="分数-4">分数</h3>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>⋆</mo><mtext> </mtext><mo>⋆</mo><mtext> </mtext><mo>⋆</mo></mrow><annotation encoding="application/x-tex">\star\ \star\ \star</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.46528em;vertical-align:0em;"></span><span class="mord">⋆</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mspace"> </span><span class="mbin">⋆</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mspace"> </span></span><span class="base"><span class="strut" style="height:0.46528em;vertical-align:0em;"></span><span class="mord">⋆</span></span></span></span>（功能比较少）</p>
+<h2 id="onedrive-for-business">Onedrive For Business</h2>
+<h3 id="如果你们的学校公司的邮箱登陆界面是这样的">如果你们的学校/公司的邮箱登陆界面是这样的。。。</h3>
+<figure data-type="image" tabindex="2"><img src="https://img2020.cnblogs.com/blog/2006459/202008/2006459-20200803104556453-1510448254.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://i.loli.net/2020/08/02/xEwbQkLahMSXJzP.png" alt="image.png" loading="lazy"></figure>
+<p>简单来说，如果你们的组织使用的是Office邮箱系统，那么恭喜你，你有1T的免费存储空间。。。</p>
+<figure data-type="image" tabindex="4"><img src="https://i.loli.net/2020/08/02/Pobx21R35JUqI4e.png" alt="image.png" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://i.loli.net/2020/08/02/TSWXPDZ9vuE6gOc.png" alt="image.png" loading="lazy"></figure>
+<p>比如说这是我的</p>
+<p><s>细细看来好像没有基本版office。。。</s></p>
+<h3 id="这里的office-online-并没有挂">这里的Office Online 并没有挂</h3>
+<figure data-type="image" tabindex="6"><img src="https://i.loli.net/2020/08/02/lfR5BbTtsaDIP72.png" alt="image.png" loading="lazy"></figure>
+<p>内容经过处理，但是大部分功能都有。</p>
+<p>还有很多我不知道干什么的软件<br>
+<img src="https://i.loli.net/2020/08/02/DsJTdQF3kzyPh5Z.png" alt="image.png" loading="lazy"></p>
+<h2 id="好了这就是总结的几个可以替代office的软件了希望大家喜欢">好了，这就是总结的几个可以替代Office的软件了，希望大家喜欢。</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北斗卫星为你做了什么？]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/beidou/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/beidou/">
+        </link>
+        <updated>2020-10-05T05:20:34.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="北斗卫星为你做了什么">北斗卫星为你做了什么？</h1>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="北斗卫星为你做了什么">北斗卫星为你做了什么？</h1>
+<!-- more -->
+<iframe src="//player.bilibili.com/player.html?aid=414001980&bvid=BV1TV411z7aB&cid=218691406&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=400 width=600> </iframe>
+<p>2020 年 6 月 23 日，一枚长三乙运载火箭在西昌卫星发射中心顺利点火、升空。</p>
+<p>经过近 26 分钟的飞行、调姿，将位于顶部仪器舱的导航卫星送入预定轨道，成功完成了北斗全球卫星导航系统的星座部署。</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.sspai.com//2020/08/02/cf346aae86831c3e5279827e48bb4359.png" alt="" loading="lazy"></figure>
+<p>这是北斗三号的最后一颗全球组网卫星。7 月 29 日，北斗官方宣布这颗卫星已经完成在轨测试，正式入网工作。</p>
+<p>北斗系统究竟意味着什么？覆盖全球的精准定位到底有多难?</p>
+<p>利用卫星实现导航定位的技术称为 GNSS（Global Navigation Satellite System）全球卫星导航系统，今天主要有美国的 GPS、俄罗斯的格洛纳斯、欧盟的伽利略，以及中国的北斗。</p>
+<figure data-type="image" tabindex="2"><img src="https://cdn.sspai.com//2020/08/02/972c2337f9dbe9d25554f40da8e0c10e.png" alt="" loading="lazy"></figure>
+<p>建设这样一个能覆盖全球的卫星导航系统并不容易。</p>
+<p>中国从 1994 年开始，分三步建设北斗卫星导航系统。</p>
+<p>在 2000 年发射了两颗卫星，建成北斗一号，为中国用户提供服务；2012 年完成 14 颗卫星发射，建成北斗二号，服务范围扩大至亚太地区；2020 年完成 30 颗卫星发射、组网，全面建成北斗三号，覆盖全球。</p>
+<p>事实上，北斗在 26 年间一共发射了 59 颗卫星，目前除去退役、失效和用于试验的，有 45 颗卫星正常在轨工作，数量要多于其他三个系统。</p>
+<figure data-type="image" tabindex="3"><img src="https://cdn.sspai.com//2020/08/02/c51a6464b23413d094da880973af3c9b.png" alt="" loading="lazy"></figure>
+<p>此外，北斗的星座架构也不同。</p>
+<p>GPS、格洛纳斯、伽利略的卫星基本都处在高度约 20,000 千米的中圆地球轨道。投影在地球上的是这种波浪状的运行轨迹，卫星分时段覆盖不同的区域，多颗卫星环绕覆盖全球。</p>
+<figure data-type="image" tabindex="4"><img src="https://cdn.sspai.com//2020/08/02/20bda1ee9efbb07197dac95151b6bb42.png" alt="" loading="lazy"></figure>
+<p>而北斗除了在中圆地球轨道有 27 颗卫星，环绕全球外，还有 10 颗在倾斜地球同步轨道，8 字形的轨迹可以增强亚太地区的信号覆盖；还有 8 颗在地球静止轨道，能全时段服务于亚太地区。</p>
+<figure data-type="image" tabindex="5"><img src="https://cdn.sspai.com//2020/08/02/bd91ac94f3c7f60bec12e9107bfc0c7d.gif" alt="" loading="lazy"></figure>
+<p>更多的卫星和轨道类型增强了北斗对全球，尤其是东半球的覆盖。</p>
+<p>这两张图是北斗和 GPS 现役卫星的运行轨迹。</p>
+<figure data-type="image" tabindex="6"><img src="https://cdn.sspai.com//2020/08/02/9d69c0bcb714a18753c388bc503ee1b2.png" alt="" loading="lazy"></figure>
+<p>而这是两者在全球任意地点可见的卫星数目图，颜色越深，当地可见的卫星越多。北斗在东半球大部分区域可见的卫星能达到 14~16 颗乃至更多，在其他地区也至少能见到 6 颗。</p>
+<figure data-type="image" tabindex="7"><img src="https://cdn.sspai.com//2020/08/02/b84d3c1f2dd73e3c1e04180d13a8764a.png" alt="" loading="lazy"></figure>
+<p>那么这些卫星是如何实现全球定位的呢？</p>
+<p>当你在地球上某个位置，拿着一个可以接收卫星信号的设备，比如手机，而天上飞着卫星，此时想要求取你在空间中的坐标 x、y、z，关键是测量卫星跟你之间的距离 S。</p>
+<p>首先，通过卫星的星历数据能计算出卫星的坐标 x1、y1、z1，这些是已知的。</p>
+<figure data-type="image" tabindex="8"><img src="https://cdn.sspai.com//2020/08/02/77d3a3c2cb56b2a82ea76707b2cb2ccf.gif" alt="" loading="lazy"></figure>
+<p>只需要根据勾股定理求立方体的对角线长度，就能用这个式子表示卫星跟你之间的距离 S。</p>
+<p>其次，卫星发出的电磁波信号也能测距。已知电磁波传播的速度，光速 c 每秒近 30 万公里（299,792,458 m/s），乘上电磁波从卫星发出到手机接收所耗费的时间 tB-tA， 即为距离。</p>
+<figure data-type="image" tabindex="9"><img src="https://cdn.sspai.com//2020/08/02/4c01b3b1bbebb59792c19e906cafcbfe.png" alt="" loading="lazy"></figure>
+<p>这个时间和距离的计算实际上要靠测距码。</p>
+<p>卫星和手机会同时按相同规则持续生成一段测距码，而卫星会将测距码通过电磁波发送给手机。</p>
+<p>但发送过程需要时间，所以手机接收到卫星发来的测距码时，会发现和自己生成的测距码有偏移，即为电磁波传播的时间。</p>
+<p>以北斗的 B1C 信号为例，测距码速率为 1.023 Mbps，单个码片的宽度为速率的倒数，即 0.977517 μs。当偏移了 12 万个码片，即电磁波传播时间约为 0.117 秒，可算出距离约为 35,166 公里。</p>
+<p>知道距离，就可以得到这个等式，其中三个未知量 x、y、z 仍然无法求解。但只要有 3 颗卫星，就能列出 3 个等式构成方程组，进而求出你的坐标 x、y、z。</p>
+<figure data-type="image" tabindex="10"><img src="https://cdn.sspai.com//2020/08/02/defacbf0db2148dda324a3485d1bd548.png" alt="" loading="lazy"></figure>
+<p>看起来似乎轻松又简单，然而，得到这样的坐标根本不准。</p>
+<p>因为里面任何参数哪怕再小的误差都会让定位大幅偏移，比如电磁波传播的时间，只要 0.000001 秒的误差，计算距离就会变化 300 米。</p>
+<p>为了减小这个误差，我们首先得考虑在卫星上的钟准不准。</p>
+<figure data-type="image" tabindex="11"><img src="https://cdn.sspai.com//2020/08/02/eb760d626c532f3fa0a6fa95d93245af.png" alt="" loading="lazy"></figure>
+<p>今天北斗卫星上搭载的原子钟，精度可达 300 万年只差一秒，但在太空中运行，它却会遭遇相对论效应。</p>
+<p>简单来说，根据狭义相对论，卫星相对地面快速运动，那么从地面观测卫星上的时间会变慢。</p>
+<p>而根据广义相对论，卫星相比地面离地心更远，拥有的引力势能绝对值也更小，时间又会比地面更快。</p>
+<p>两者对卫星上时钟的综合影响就是比地面上的钟走得更快，其变化量可以用这个公式表示。</p>
+<figure data-type="image" tabindex="12"><img src="https://cdn.sspai.com//2020/08/02/397cbfcf111e35a5fbd63c052fb0eeab.png" alt="" loading="lazy"></figure>
+<p>那么如何才能消去这个变化量呢？</p>
+<p>公式的前半部分可以通过地心引力常数 μ、光速 c 等数值计算得出。假设卫星在距离地心 36,000 公里的圆轨道运行，那么卫星上的时间会比地面每秒快上 0.00000000051 秒左右。</p>
+<p>消除这部分的变化量可以在卫星发射之前就按一定倍数先调低卫星上原子钟的频率，让它走得更慢。</p>
+<figure data-type="image" tabindex="13"><img src="https://cdn.sspai.com//2020/08/02/2117c3f5f4bad0bf5ad49a68de3100ee.png" alt="" loading="lazy"></figure>
+<p>但卫星实际运行的轨道其实是椭圆，由相对论效应引发的变化会有周期性变化，主要是公式的后半部分。</p>
+<p>当然，这也可以通过轨道偏心率、长半轴、偏近点角等参数计算得出数值实时修正。</p>
+<figure data-type="image" tabindex="14"><img src="https://cdn.sspai.com//2020/08/02/f62820cdcb4615188a4140de6fef5808.png" alt="" loading="lazy"></figure>
+<p>但这还不够，原子钟在无人维护情况下本身运行时仍有误差，卫星坐标在计算时也有误差，电磁波在大气中传播时受电离层、对流层影响速度也会变化。</p>
+<p>不过别担心，今天已经有各种各样的数学模型可以计算出这些误差的数值。</p>
+<figure data-type="image" tabindex="15"><img src="https://cdn.sspai.com//2020/08/02/00b0356e4a4cdca31bd4573a4c82f1e8.png" alt="" loading="lazy"></figure>
+<p>然而，还有个麻烦的误差，就是地面接收机的时间误差。像手机这类设备会因为各种各样的原因出现误差，且误差大小很难直接计算修正。</p>
+<p>别慌！</p>
+<p>我们可以把这个误差也设为一个未知量，引入第 4 颗卫星，得到四个等式就能求出接收机的时间误差和坐标这四个未知量，进而更精确地确定你的位置。</p>
+<figure data-type="image" tabindex="16"><img src="https://cdn.sspai.com//2020/08/02/2c36972247b6168fc5cb38447dbdeadb.png" alt="" loading="lazy"></figure>
+<p>当然，北斗实现精准定位的技术远远不止这些。今天，北斗可以做到在全球的定位精度优于 10 米，在亚太地区的定位精度优于 5 米。</p>
+<figure data-type="image" tabindex="17"><img src="https://cdn.sspai.com//2020/08/02/fb441b220c625342ab336bd9e2225688.png" alt="" loading="lazy"></figure>
+<p>且通过基于大量地面基准站的地基增强、星基增强等方式，更能实现分米级、厘米级乃至后处理毫米级的高精度定位。</p>
+<p>这种技术实力的应用在当代生活中已经随处可见。从大坝监测、电力通信、精准农业，到公交车、共享单车、手机，你都可以看到北斗的身影。</p>
+<figure data-type="image" tabindex="18"><img src="https://cdn.sspai.com//2020/08/02/ed763f7f976f6a75cf8d564a92ccf97e.png" alt="" loading="lazy"></figure>
+<p>而在这个利用卫星实现全球定位的过程中，凝结了无数科学家、工程师对于误差的锱铢必较。</p>
+<figure data-type="image" tabindex="19"><img src="https://cdn.sspai.com//2020/08/02/7d55666c355035ab98e95a719beb0bd8.png" alt="" loading="lazy"></figure>
+<p>所以当你再仰望苍穹时，别忘了北斗除了有七星之外，还有 45 颗卫星漂浮在数万公里的高空，让你得知自己身在何处，又去往何方。</p>
+<figure data-type="image" tabindex="20"><img src="https://cdn.sspai.com//2020/08/02/b401ec5cd4011c042bc0c94f1f8c91f3.gif" alt="" loading="lazy"></figure>
+<p>src=https://sspai.com/post/61857</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ STL 迭代器]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/cppiter/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/cppiter/">
+        </link>
+        <updated>2020-10-05T05:17:59.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="c-stl-迭代器">C++ STL 迭代器</h1>
+<p>STL概述的一个重要特点是数据结构和算法的分离。尽管这是个简单的概念，但这种分离确实使得变得非常通用。例如，由于的函数是完全通用的，你可以用它来操作几乎任何数据集合，包括链表，容器和数组。</p>
+<p>[TOC]</p>
+<h2 id="要点">要点</h2>
+<p>STL算法作为模板函数提供。为了和其他组件相区别，以后接一对圆括弧的方式表示，例如<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>s</mi><mi>o</mi><mi>r</mi><mi>t</mi><mo>(</mo><mo>)</mo></mrow><annotation encoding="application/x-tex">sort()</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">s</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault">t</span><span class="mopen">(</span><span class="mclose">)</span></span></span></span>。</p>
+<p>STL另一个重要特性是它不是面向对象的。为了具有足够通用性，主要依赖于模板而不是封装，继承和虚函数（多态性）的三个要素。你在中找不到任何明显的类继承关系。这好像是一种倒退，但这正好是使得的组件具有广泛通用性的底层特征。另外，由于是基于模板，内联函数的使用使得生成的代码短小高效。</p>
+<h3 id="提示">提示</h3>
+<p>确保在编译使用了STL的 程序中至少要使用-O优化来保证内联扩展。</p>
+<h2 id="stl-组件">STL 组件</h2>
+<p>STL提供了大量的模板类和函数，可以在OOP和常规 编程中使用。所有的STL的大约50个算法都是完全通用的，而且不依赖于任何特定的数据类型。下面的小节说明了三个基本的STL  组件：</p>
+<p>1）迭代器提供了访问容器中对象的方法。例如，可以使用一对迭代器指定list或vector中的一定范围的对象。迭代器就如同一个指针。事实上，C++的指 针也是一种迭代器。但是，迭代器也可以是那些定义了<code>operator*()</code>以及其他类似于指针的操作符地方法的类对象。</p>
+<p>2）容器是一种数据结构，如list，vector，和deques ，以模板类的方法提供。为了访问容器中的数据，可以使用由容器类输出的迭代器。</p>
+<p>3）算法是用来操作容器中的数据的模板函数。例如，STL用sort()来对一个vector中的数据进行排序，用find()来搜索一个list中的对象。 函数本身与他们操作的数据的结构和类型无关，因此他们可以在从简单数组到高度复杂容器的任何数据结构上使用。</p>
+<h2 id="头文件">头文件</h2>
+<p>为了避免和其他头文件冲突， STL的头文件不再使用常规的.h扩展。为了包含标准的string类，迭代器和算法，用下面的指示符：</p>
+<pre><code class="language-c">#include &lt;string&gt; 
+#include &lt;iterator&gt; 
+#include &lt;algorithm&gt;  
+</code></pre>
+<p>如果你查看STL的头文件，你可以看到象<code>iterator.h</code>和<code>stl_iterator.h</code>这样的头文件。由于这些名字在各种STL实现之间都可能不同，你应该避免使用这些名字来引用这些头文件。为了确保可移植性，使用相应的没有.h后缀的文件名。表1列出了最常使用的各种容器类的头文件。该表并 不完整，对于其他头文件，我将在本章和后面的两章中介绍。</p>
+<p><strong>表 1. STL头文件和容器类</strong></p>
+<table>
+<thead>
+<tr>
+<th>#include</th>
+<th>Container Class</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><deque></td>
+<td>deque</td>
+</tr>
+<tr>
+<td><list></td>
+<td>list</td>
+</tr>
+<tr>
+<td><map></td>
+<td>map, multimap</td>
+</tr>
+<tr>
+<td><queue></td>
+<td>queue, priority_queue</td>
+</tr>
+<tr>
+<td><set></td>
+<td>set, multiset</td>
+</tr>
+<tr>
+<td><stack></td>
+<td>stack</td>
+</tr>
+<tr>
+<td><vector></td>
+<td>vector, vector<bool></td>
+</tr>
+</tbody>
+</table>
+<h2 id="名字空间">名字空间</h2>
+<p>你的编译器可能不能识别名字空间。名字空间就好像一个信封，将标志符封装在另一个名字中。标志符只在名字空间中存在，因而避免了和其他标志符冲突。例如，可能有其他库和 程序模块定义了<code>sort()</code>函数，为了避免和STL地sort()算法冲突，STL的sort()以及其他标志符都封装在名字空间std中。STL的sort()算法编译为<code>std::sort()</code>，从而避免了名字冲突。 尽管你的编译器可能没有实现名字空间，你仍然可以使用他们。为了使用STL，可以将下面的指示符插入到你的源代码文件中，典型地是在所有的#include指示符的后面：</p>
+<pre><code class="language-cpp">using namespace std;
+```
+
+##  迭代器
+
+迭代器提供对一个容器中的对象的访问方法，并且定义了容器中对象的范围。迭代器就如同一个指针。事实上，C++的指针也是一种迭代器。但是，迭代器不仅仅是指针，因此你不能认为他们一定具有地址值。例如，一个数组索引，也可以认为是一种迭代器。 
+
+迭代器有各种不同的创建方法。程序可能把迭代器作为 一个变量创建。一个STL容器类可能为了使用一个特定类型的数据而创建一个迭代器。作为指针，必须能够使用*操作符类获取数据。你还可以使用其他数学操作 符如$++$。典型的，++操作符用来递增迭代器，以访问容器中的下一个对象。如果迭代器到达了容器中的最后一个元素的后面，则迭代器变成past-the- end值。使用一个past-the-end值得指针来访问对象是非法的，就好像使用NULL或为初始化的指针一样。 
+
+### 提示 
+
+STL不保证可以从另一个迭代器来抵达一个迭代器。例如，当对一个集合中的对象排序时，如果你在不同的结构中指定了两个迭代器，第二个迭代器无法从第一个迭代器抵达，此时程序注定要失败。这是STL灵活性的一个代价。STL不保证检测毫无道理的错误。 
+
+
+
+### 迭代器的类型
+
+对于STL数据结构和算法，你可以使用五种迭代器。下面简要说明了这五种类型：
+
+- Input iterators 提供对数据的只读访问。 
+- Output iterators 提供对数据的只写访问 
+- Forward iterators 提供读写操作，并能向前推进迭代器。 
+- Bidirectional iterators提供读写操作，并能向前和向后操作。 
+- Random access iterators提供读写操作，并能在数据中随机移动。 
+
+尽管各种不同的STL实现细节方面有所不同，还是可以将上面的迭代器想象为一种类继承关系。从这个意义上说，下面的迭代器继承自上面的迭代器。由于 这种继承关系，你可以将一个Forward迭代器作为一个output或input迭代器使用。同样，如果一个算法要求是一个bidirectional 迭代器，那么只能使用该种类型和随机访问迭代器。  
+
+### 指针迭代器
+
+正如下面的小程序显示的，一个指针也是一种迭代器。该程序同样显示了STL的一个主要特性——它不只是能够用于它自己的类类型，而且也能用于任何C或C++类型。
+
+Listing 1, iterdemo.cpp, 显示了如何把指针作为迭代器用于STL的find()算法来搜索普通的数组。 
+
+```cpp
+#include &lt;iostream.h&gt;
+#include &lt;algorithm&gt;
+ 
+using namespace std;
+ 
+#define SIZE 100
+int iarray[SIZE];   
+ 
+int main()
+{
+  iarray[20] = 50;
+  int* ip = find(iarray, iarray + SIZE, 50);
+  if (ip == iarray + SIZE)
+    cout &lt;&lt; &quot;50 not found in array&quot; &lt;&lt; endl;
+  else
+    cout &lt;&lt; *ip &lt;&lt; &quot; found in array&quot; &lt;&lt; endl;
+  return 0;
+}
+
+```
+
+在引用了I/O流库和STL算法头文件（注意没有.h后缀），该 程序告诉编译器使用std名字空间。使用std名字空间的这行是可选的，因为可以删除该行对于这么一个小程序来说不会导致名字冲突。  程序中定义了尺寸为SIZE的全局数组。由于是全局变量，所以运行时数组自动初始化为零。下面的语句将在索引20位置处地元素设置为50,并使用find()算法来搜索值50:  
+
+```cpp
+iarray[20] = 50;
+int* ip = find(iarray, iarray + SIZE, 50);
+```
+
+find() 函数接受三个参数。头两个定义了搜索的范围。由于C和C++数组等同于指针，表达式`iarray`指向数组的第一个元素。而第二个参数`iarray + SIZE`等同于`past-the-end` 值，也就是数组中最后一个元素的后面位置。第三个参数是待定位的值，也就是50。find()函数返回和前两个参数相同类型的迭代器，这儿是一个指向整数 的指针ip。  
+
+
+
+提示 
+
+必须记住STL使用模板。因此，STL函数自动根据它们使用的数据类型来构造。 为了判断find()是否成功，例子中测试ip和 past-the-end 值是否相等：  
+
+```cpp
+if (ip == iarray + SIZE) ...
+```
+
+如果表达式为真，则表示在搜索的范围内没有指定的值。否则就是指向一个合法对象的指针，这时可以用下面的语句显示：
+
+```cpp
+cout &lt;&lt; *ip &lt;&lt; &quot; found in array&quot; &lt;&lt; endl;
+```
+
+测试函数返回值和$NULL$是否相等是不正确的。不要象下面这样使用：
+
+``` cpp
+int* ip = find(iarray, iarray + SIZE, 50);
+if (ip != NULL) ...  // ??? incorrect
+```
+
+当使用STL函数时，只能测试`ip`是否和`past-the-end` 值是否相等。尽管在本例中ip是一个C++指针,其用法也必须符合STL迭代器的规则。 
+
+### 容器迭代器
+
+尽管C++指针也是迭代器，但用的更多的是容器迭代器。容器迭代器用法和iterdemo.cpp一样，但和将迭代器申明为指针 变量不同的是，你可以使用容器类方法来获取迭代器对象。两个典型的容器类方法是`begin()`和`end()`。它们在大多数容器中表示整个容器范围。其他一 些容器还使用`rbegin()`和`rend()`方法提供反向迭代器，以按反向顺序指定对象范围。 下面的    程序创建了一个矢量容器（STL的和数组等价的对象），并使用迭代器在其中搜索。该    程序和前一章中的程序相同。
+
+
+```cpp
+Listing 2. vectdemo.cpp  #include &lt;iostream.h&gt;
+#include &lt;algorithm&gt;
+#include &lt;vector&gt;
+ 
+using namespace std;
+ 
+vector&lt;int&gt; intVector(100);
+ 
+void main()
+{
+  intVector[20] = 50;
+  vector&lt;int&gt;::iterator intIter =
+    find(intVector.begin(), intVector.end(), 50);
+  if (intIter != intVector.end())
+    cout &lt;&lt; &quot;Vector contains value &quot; &lt;&lt; *intIter &lt;&lt; endl;
+  else
+    cout &lt;&lt; &quot;Vector does not contain 50&quot; &lt;&lt; endl;
+}
+ 
+
+```
+
+注意用下面的方法显示搜索到的数据： 
+
+```cpp
+cout &lt;&lt; &quot;Vector contains value &quot; &lt;&lt; *intIter &lt;&lt; endl;
+```
+
+### 常量迭代器
+
+和指针一样，你可以给一个迭代器赋值。例如，首先申明一个迭代器：``` vector&lt;int&gt;::iterator first;```
+该语句创建了一个`vector&lt;int&gt;`类的迭代器。下面的语句将该迭代器设置到```int  Vector```的第一个对象，并将它指向的对象值设置为123：
+
+```cpp
+first = intVector.begin();
+*first = 123;
+```
+
+这种赋值对于大多数容器类都是允许的，除了只读变量。为了防止错误赋值，可以申明迭代器为： 
+
+```cpp
+const vector&lt;int&gt;::iterator result;
+result = find(intVector.begin(), intVector.end(), value);
+if (result != intVector.end())
+  *result = 123;  // ???
+```</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++中的inline用法]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/C++inline/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/C++inline/">
+        </link>
+        <updated>2020-10-05T05:17:25.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="c中的inline用法">C++中的<code>inline</code>用法<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></h1>
+<h2 id="目录">目录</h2>
+<p>[toc]</p>
+<h2 id="1-引入inline关键字的原因">1. 引入inline关键字的原因</h2>
+<p>在c/c++中，<strong>为了解决</strong>一些频繁调用的小函数大量消耗栈空间（栈内存）的问题，特别的引入了inline修饰符，表示为内联函数。</p>
+<p><strong>栈空间</strong>就是指放置程序的局部数据（也就是函数内数据）的内存空间。</p>
+<p>在系统下，栈空间是有限的，假如频繁大量的使用就会造成因栈空间不足而导致程序出错的问题，如，函数的死循环递归调用的最终结果就是导致栈内存空间枯竭。</p>
+<p>下面我们来看一个例子：</p>
+<pre><code class="language-cpp">#include &lt;stdio.h&gt;
+//函数定义为inline即:内联函数
+inline char* dbtest(int a) {
+    return (i % 2 &gt; 0) ? &quot;奇&quot; : &quot;偶&quot;;
+} 
+
+int main()
+{
+   int i = 0;
+   for (i=1; i &lt; 100; i++) {
+       printf(&quot;i:%d    奇偶性:%s /n&quot;, i, dbtest(i));    
+   }
+}
+</code></pre>
+<p>上面的例子就是标准的内联函数的用法，使用inline修饰带来的好处我们表面看不出来，其实，在内部的工作就是在每个for循环的内部任何调用*<strong>dbtest(i)*<strong>的地方都换成了</strong>*(i%2&gt;0)?”奇”:”偶”*</strong>，这样就避免了频繁调用函数对栈内存重复开辟所带来的消耗。</p>
+<h2 id="2-inline使用限制">2. inline使用限制</h2>
+<p>inline的使用是<strong>有所限制的</strong>，inline只适合涵数体内代码简单的涵数使用，不能包含复杂的结构控制语句例如while、switch，并且不能内联函数本身不能是直接递归函数（即，自己内部还调用自己的函数）。</p>
+<h2 id="3-inline仅是一个对编译器的建议">3. inline仅是一个对编译器的建议</h2>
+<p>inline函数仅仅是一个<strong>对编译器的建议</strong>，所以<strong>最后能否真正内联，看编译器的意思</strong>，它如果认为函数不复杂，能在调用点展开，就会真正内联，并不是说声明了内联就会内联，声明内联只是一个建议而已。</p>
+<h2 id="4-建议inline函数的定义放在头文件中">4. 建议：inline函数的定义放在头文件中</h2>
+<p>其次，因为内联函数要在调用点展开，所以<strong>编译器必须随处可见内联函数的定义</strong>，要不然就成了非内联函数的调用了。所以，这要求每个调用了内联函数的文件都出现了该<strong>内联函数的定义</strong>。</p>
+<p>因此，将<strong>内联函数的定义</strong>放在<strong>头文件</strong>里实现是合适的，省却你为每个文件实现一次的麻烦。</p>
+<p><strong>声明跟定义要一致</strong>：如果在每个文件里都实现一次该内联函数的话，那么，最好保证每个定义都是一样的，否则，将会引起未定义的行为。如果不是每个文件里的定义都一样，那么，编译器展开的是哪一个，那要看具体的编译器而定。所以，最好将<strong>内联函数定义</strong>放在<strong>头文件</strong>中。</p>
+<h2 id="5-类中的成员函数与inline">5. 类中的成员函数与inline</h2>
+<p><strong>定义</strong>在类中的<strong>成员函数</strong>缺省都是<strong>内联的</strong>，如果在类定义时就在类内给出函数定义，那当然最好。如果在类中未给出成员函数定义，而又想内联该函数的话，那在类外要加上inline，否则就认为不是内联的。</p>
+<p>例如，</p>
+<pre><code class="language-cpp">class A
+{
+    public:void Foo(int x, int y) {  } // 自动地成为内联函数
+}
+</code></pre>
+<p>将成员函数的定义体放在类声明之中虽然能带来书写上的方便，但不是一种良好的编程风格，上例应该改成：</p>
+<pre><code class="language-cpp">// 头文件
+class A
+{
+    public:
+    void Foo(int x, int y);
+}
+</code></pre>
+<pre><code class="language-cpp">// 定义文件
+inline void A::Foo(int x, int y){} 
+</code></pre>
+<h2 id="6-inline-是一种用于实现的关键字">6. inline 是一种“用于实现的关键字”</h2>
+<p>关键字inline 必须与<strong>函数定义体</strong>放在一起才能使函数成为内联，仅将inline 放在函数声明前面<strong>不起任何作用</strong>。</p>
+<p>如下风格的函数Foo 不能成为内联函数：</p>
+<pre><code class="language-cpp">inline void Foo(int x, int y); // inline 仅与函数声明放在一起
+
+void Foo(int x, int y){}
+</code></pre>
+<p>而如下风格的函数Foo 则成为内联函数：</p>
+<pre><code class="language-cpp">void Foo(int x, int y);
+
+inline void Foo(int x, int y) {} // inline 与函数定义体放在一起
+</code></pre>
+<p>所以说，inline 是一种“<strong>用于实现的关键字</strong>”，而不是一种“用于声明的关键字”。一般地，用户可以阅读函数的声明，但是看不到函数的定义。尽管在大多数教科书中内联函数的声明、定义体前面都加了inline 关键字，但我认为<strong>inline不应该出现在函数的声明中</strong>。这个细节虽然不会影响函数的功能，但是体现了高质量C++/C 程序设计风格的一个基本原则：<strong>声明与定义不可混为一谈，用户没有必要、也不应该知道函数是否需要内联。</strong></p>
+<h2 id="7-慎用inline">7. 慎用inline</h2>
+<p>内联能提高函数的执行效率，为什么不把所有的函数都定义成内联函数？如果所有的函数都是内联函数，还用得着“内联”这个关键字吗？<br>
+内联是以**代码膨胀（复制）**为代价，仅仅省去了函数调用的开销，从而提高函数的执行效率。<br>
+如果执行函数体内代码的时间，相比于函数调用的开销较大，那么效率的收获会很少。另一方面，每一处内联函数的调用都要复制代码，将使程序的总代码量增大，消耗更多的内存空间。</p>
+<p><strong>以下情况不宜使用内联：</strong><br>
+（1）如果函数体内的代码<strong>比较长</strong>，使用内联将导致<strong>内存消耗代价较高</strong>。<br>
+（2）如果函数体内出现<strong>循环</strong>，那么执行函数体内代码的时间要比函数调用的开销大。类的构造函数和析构函数容易让人误解成使用内联更有效。要当心<strong>构造函数和析构函数可能会隐藏一些行为</strong>，如“偷偷地”执行了<strong>基类或成员对象</strong>的构造函数和析构函数。所以<strong>不要随便地将构造函数和析构函数的定义体放在类声明中</strong>。一个好的编译器将会根据函数的定义体，自动地取消不值得的内联（这进一步说明了 inline 不应该出现在函数的声明中）。</p>
+<h2 id="8-总结">8. 总结</h2>
+<p>内联函数并不是一个增强性能的灵丹妙药。只有当<strong>函数非常短小</strong>的时候它才能得到我们想要的效果；但是，如果函数并不是很短而且在很多地方都被调用的话，那么将会使得可执行体的体积增大。<br>
+<strong>最令人烦恼的</strong>还是当<strong>编译器拒绝内联</strong>的时候。在老的实现中，结果很不尽人意，虽然在新的实现中有很大的改善，但是仍然还是不那么完善的。一些编译器能够足够的聪明来指出哪些函数可以内联哪些不能，但是大多数编译器就不那么聪明了，因此这就需要我们的经验来判断。<strong>如果内联函数不能增强性能，就避免使用它！</strong></p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>src=http://suo.im/5DJMtR <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ 关键字auto]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/cppauto/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/cppauto/">
+        </link>
+        <updated>2020-10-05T05:17:02.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="c-关键字auto">C++ 关键字auto<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></h1>
+<h2 id="目录">目录</h2>
+<p>[toc]</p>
+<h2 id="c98-auto">c++98 auto</h2>
+<p>早在C++98标准中就存在了auto关键字，那时的auto用于声明变量为自动变量，拥有自动的生命周期；但是该作用是多余的，变量默认拥有自动的生命周期。</p>
+<pre><code class="language-cpp">int a = 10;      // 自动生命周期
+auto int b = 20; // 自动生命周期
+</code></pre>
+<p>在C++ 11 中，已经删除了该用法，取而代之的作用是：自动推断变量的类型。</p>
+<h2 id="c11-auto">c++11 auto</h2>
+<p>auto可以在声明变量的时候根据变量初始值的类型自动为此变量选择匹配的类型：</p>
+<pre><code class="language-cpp">auto i =100;  // i 是 int 
+auto p = new A();  // p 是 A* 
+auto k = 34343LL;  // k 是 long long
+</code></pre>
+<p>这种用法就类似于C#中的var关键字。auto的自动类型推断发生在编译期，所以使用auto并不会造成程序运行时效率的降低。是否会造成编译期的时间消耗，我认为是不会的，在未使用auto时，编译器也需要得知右操作数的类型，再与左操作数的类型进行比较，检查是否可以发生相应的转化，是否需要进行隐式类型转换。</p>
+<p>对于上面的示例，在实际编程中并不推荐，因为不便于他人阅读，直接写出变量的类型会更加的清晰易懂，主要用于代替<strong>冗长复杂，变量使用范围专一的变量声明</strong>，比如：</p>
+<pre><code class="language-cpp">std::vector&lt;std::string&gt; vec;
+for (auto iter = vec.begin(); iter != vec.end(); ++iter) {}
+</code></pre>
+<p>在定义函数模板时，用于声明依赖模板参数的变量类型，模板函数依赖于模板参数的返回值：</p>
+<pre><code class="language-cpp">template&lt;typename Tx, typename Ty&gt;
+auto multiply(Tx x, Ty y)          // c++14
+{
+    return x * y;
+}
+</code></pre>
+<h2 id="auto使用注意事项">auto使用注意事项</h2>
+<h3 id="1auto-变量必须在定义时初始化这类似于const关键字">（1）auto 变量必须在定义时初始化，这类似于const关键字；</h3>
+<h3 id="2定义在一个auto序列的变量必须始终推导成同一类型如">（2）定义在一个auto序列的变量必须始终推导成同一类型，如：</h3>
+<pre><code class="language-cpp">auto a = 1, b = 2, c = 3;     // 正确
+auto a = 1, b = 2.2, c = 'c'; // 错误（这个道理和第一点注意事项相同）
+</code></pre>
+<h3 id="3如果初始化表达式是引用则去除引用语义如">（3）如果初始化表达式是引用，则去除引用语义，如：</h3>
+<pre><code class="language-cpp">int  a = 1;
+int &amp;b = a;
+
+auto  c = b; // 此时c的类型被推导为 int32，而不是int32&amp;
+auto &amp;c = b; // 此时c的类型才是int&amp;
+</code></pre>
+<h3 id="4如果初始化表达式为const或volatile或者两者兼有则除去constvolatile语义">（4）如果初始化表达式为const或volatile（或者两者兼有），则除去const/volatile语义。</h3>
+<pre><code class="language-cpp">const int a = 10;
+auto  b= a;         // b的类型为int而非const int（去除const）
+const auto c = a;   // 此时c的类型为const int
+
+b = 100;   // 合法
+c = 100;   // 非法
+</code></pre>
+<h3 id="5如果auto关键字带上号则不去除const语义">（5）如果auto关键字带上&amp;号，则不去除const语义。</h3>
+<pre><code class="language-cpp">const int a = 10;
+auto &amp;b = a;    // 因为auto带上&amp;，故不去除const，b类型为const int
+
+b = 10;   /非法
+</code></pre>
+<h3 id="6初始化表达式为数组时auto关键字推导类型为指针">（6）初始化表达式为数组时，auto关键字推导类型为指针。</h3>
+<pre><code class="language-cpp">int a[3] = { 1, 2, 3 };
+auto b = a;
+
+std::cout &lt;&lt; typeid(b).name() &lt;&lt; std::endl;   // 这里输出 int*
+</code></pre>
+<h3 id="7如果表达式为数组且auto带上则推导类型为数组类型">（7）如果表达式为数组且auto带上&amp;，则推导类型为数组类型。</h3>
+<pre><code class="language-cpp">int a[3] = { 1, 2, 3 };
+auto &amp;b = a;
+
+std::cout &lt;&lt; typeid(b).name() &lt;&lt; std::endl; // 这里输出 int[3]
+</code></pre>
+<h3 id="8函数或模板参数不能被声明为auto">（8）函数或模板参数不能被声明为auto。</h3>
+<pre><code class="language-cpp">void func(auto a)  // 错误
+{
+    //... 
+}
+</code></pre>
+<h3 id="9auto不是一个真正的类型仅仅是一个占位符不能使用一些以类型为操作数的操作符如sizeof或typeid">（9）auto不是一个真正的类型，仅仅是一个占位符，不能使用一些以类型为操作数的操作符，如sizeof或typeid：</h3>
+<pre><code class="language-cpp">std::cout &lt;&lt; sizeof(auto) &lt;&lt; std::endl;        // 错误
+std::cout &lt;&lt; typeid(auto).name() &lt;&lt; std::endl; // 错误
+</code></pre>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>src=http://suo.im/67P9DK <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据结构百科全书]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/data-structure/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/data-structure/">
+        </link>
+        <updated>2020-10-05T05:16:08.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="数据结构">数据结构</h1>
+<p>整理不易，全文比较长，而且有很多的代码段，建议收藏。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="数据结构">数据结构</h1>
+<p>整理不易，全文比较长，而且有很多的代码段，建议收藏。</p>
+<!-- more -->
+<p>[toc]</p>
+<h2 id="vector-动态数组-的使用">vector (动态数组) 的使用`</h2>
+<h3 id="文件名">文件名</h3>
+<p>vector.cpp</p>
+<h3 id="分数">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步">第一步</h3>
+<h4 id="讲解">讲解</h4>
+<p>首先我们引入需要的头文件<code>vector</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;vector&gt;
+</code></pre>
+<h4 id="代码">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步">第二步</h3>
+<h4 id="讲解-2">讲解</h4>
+<p>首先我们学习如何使用一维的<code>vector</code>。</p>
+<p>在<code>main</code>函数里面通过<code>vector&lt;int&gt; v</code>来定义一个储存整数的空的<code>vector</code>。当然<code>vector</code>可以存任何类型的数据，比如<code>vector&lt;string&gt; v</code>等等。在本课中我们用 int 来举例。</p>
+<pre><code class="language-c++">vector&lt;int&gt; v;
+</code></pre>
+<h4 id="提示">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-2">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步">第三步</h3>
+<h4 id="讲解-3">讲解</h4>
+<p>我们把 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 到 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>10</mn></mrow><annotation encoding="application/x-tex">10</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span></span></span></span> 的平方依次存到<code>vector</code>。<br>
+在刚才的定义下面写下</p>
+<pre><code class="language-c++">for (int i = 1; i &lt;= 10; ++i) {
+    v.push_back(i * i);
+}
+</code></pre>
+<h4 id="提示-2">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-3">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步">第四步</h3>
+<h4 id="讲解-4">讲解</h4>
+<p>然后依次输出我们刚才压入<code>vector</code>的值。继续写下</p>
+<pre><code class="language-c++">for (int i = 0; i &lt; v.size(); ++i) {
+    cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+}
+cout &lt;&lt; endl;
+</code></pre>
+<h4 id="提示-3">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-4">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步">第五步</h3>
+<h4 id="讲解-5">讲解</h4>
+<p>到这里，里可以点击<strong>运行</strong>看看效果。</p>
+<p>接下来我们学习二维的<code>vector</code>的使用。二维的<code>vector</code>就是一个<code>vector</code>里面在套一个<code>vector</code>。通过如下的代码定义一个空的二维的<code>vector</code>。在刚才的输出代码后面继续写下，<strong>特别注意：里面的<code>vector&lt;int&gt;</code>后面有一个空格，这个空格不能到少，因为在没有开启 c++11 的情况下，会被识别成一个<code>&gt;&gt;</code></strong>。</p>
+<pre><code class="language-c++">vector&lt;vector&lt;int&gt; &gt; v2d;
+</code></pre>
+<h4 id="提示-4">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-5">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第六步">第六步</h3>
+<h4 id="讲解-6">讲解</h4>
+<p>接下来我们给第一维赋值，第一维是一个一维的<code>vector</code>，在定义后面写下：</p>
+<pre><code class="language-c++">for (int i = 0; i &lt; 5; ++i) {
+    v2d.push_back(vector&lt;int&gt;());
+}
+</code></pre>
+<h4 id="提示-5">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-6">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第七步">第七步</h3>
+<h4 id="讲解-7">讲解</h4>
+<p>我们让第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>i</mi></mrow><annotation encoding="application/x-tex">i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathdefault">i</span></span></span></span> 行第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>j</mi></mrow><annotation encoding="application/x-tex">j</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.85396em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span></span></span></span> 列的元素的值为 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>i</mi><mo>∗</mo><mi>j</mi></mrow><annotation encoding="application/x-tex">i*j</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathdefault">i</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.85396em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span></span></span></span>。继续写下下面的代码：</p>
+<pre><code class="language-c++">for (int i = 0; i &lt; v2d.size(); ++i) {
+    for (int j = 0; j &lt; 5; ++j) {
+        v2d[i].push_back(i * j);
+    }
+}
+</code></pre>
+<h4 id="提示-6">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; 5; ++j) {
+            v2d[i].push_back(i * j);
+        }
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-7">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; 5; ++j) {
+            v2d[i].push_back(i * j);
+        }
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第八步">第八步</h3>
+<h4 id="讲解-8">讲解</h4>
+<p>然后我们输出一个 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>5</mn></mrow><annotation encoding="application/x-tex">5</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">5</span></span></span></span> 行 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>5</mn></mrow><annotation encoding="application/x-tex">5</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">5</span></span></span></span> 列的矩阵。</p>
+<pre><code class="language-c++">for (int i = 0; i &lt; v2d.size(); ++i) {
+    for (int j = 0; j &lt; v2d[i].size(); ++j) {
+        cout &lt;&lt; v2d[i][j] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+}
+</code></pre>
+<h4 id="提示-7">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; 5; ++j) {
+            v2d[i].push_back(i * j);
+        }
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; v2d[i].size(); ++j) {
+            cout &lt;&lt; v2d[i][j] &lt;&lt; &quot; &quot;;
+        }
+        cout &lt;&lt; endl;
+    }
+    return 0;
+}
+</code></pre>
+<h4 id="代码-8">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; 5; ++j) {
+            v2d[i].push_back(i * j);
+        }
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; v2d[i].size(); ++j) {
+            cout &lt;&lt; v2d[i][j] &lt;&lt; &quot; &quot;;
+        }
+        cout &lt;&lt; endl;
+    }
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果。</p>
+<p>聪明的你一定学会了<code>vector</code>怎么用了。</p>
+<h2 id="set-配对-的使用">set (配对) 的使用`</h2>
+<h3 id="文件名-2">文件名</h3>
+<p>set.cpp</p>
+<h3 id="分数-2">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-2">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-2">第一步</h3>
+<h4 id="讲解-9">讲解</h4>
+<p>首先我们引入需要的头文件<code>set</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;set&gt;
+</code></pre>
+<h4 id="代码-9">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-2">第二步</h3>
+<h4 id="讲解-10">讲解</h4>
+<p>首先我们学习如何创建一个<code>set</code>。</p>
+<p>在<code>main</code>函数里面通过<code>set&lt;string&gt; country</code>来定义一个储存字符串的空的<code>set</code>。当然<code>set</code>可以存任何类型的数据，比如<code>set&lt;int&gt; s</code>等等。在本课中我们用 string 来举例。</p>
+<pre><code class="language-c++">set&lt;string&gt; country;
+</code></pre>
+<h4 id="提示-8">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-10">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-2">第三步</h3>
+<h4 id="讲解-11">讲解</h4>
+<p>我们把<code>China</code> <code>America</code> <code>France</code>依次插入到<code>set</code>。<br>
+在刚才的定义下面写下</p>
+<pre><code class="language-c++">country.insert(&quot;China&quot;);
+country.insert(&quot;America&quot;);
+country.insert(&quot;France&quot;);
+</code></pre>
+<h4 id="提示-9">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-11">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-2">第四步</h3>
+<h4 id="讲解-12">讲解</h4>
+<p>然后依次输出我们刚才插入<code>set</code>的字符串。继续写下</p>
+<pre><code class="language-c++">set&lt;string&gt;::iterator it;
+for (it = country.begin(); it != country.end(); ++it) {
+    cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+}
+cout &lt;&lt; endl;
+</code></pre>
+<h4 id="提示-10">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-12">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-2">第五步</h3>
+<h4 id="讲解-13">讲解</h4>
+<p>到这里，里可以点击<strong>运行</strong>看看效果。<br>
+可以发现我们刚才插入的字符串按照字典序排列好了。</p>
+<p>接下来我们学习<code>set</code>的删除操作。</p>
+<pre><code class="language-c++">country.erase(&quot;American&quot;);
+country.erase(&quot;England&quot;);
+</code></pre>
+<h4 id="提示-11">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-13">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第六步-2">第六步</h3>
+<h4 id="讲解-14">讲解</h4>
+<p>接下来我们统计<code>set</code>中<code>China</code>字符串的个数</p>
+<pre><code class="language-c++">if (country.count(&quot;China&quot;)) {
+    cout &lt;&lt; &quot;China in country.&quot; &lt;&lt; endl;
+}
+</code></pre>
+<h4 id="提示-12">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+    if (country.count(&quot;China&quot;)) {
+        cout &lt;&lt; &quot;China in country.&quot; &lt;&lt; endl;
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-14">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+    if (country.count(&quot;China&quot;)) {
+        cout &lt;&lt; &quot;China in country.&quot; &lt;&lt; endl;
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第七步-2">第七步</h3>
+<h4 id="讲解-15">讲解</h4>
+<p>最后我们将使用完成的<code>set</code>清空。继续写下下面的代码：</p>
+<pre><code class="language-c++">country.clear();
+</code></pre>
+<h4 id="提示-13">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+    if (country.count(&quot;China&quot;)) {
+        cout &lt;&lt; &quot;China in country.&quot; &lt;&lt; endl;
+    }
+    country.clear();
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-15">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+    if (country.count(&quot;China&quot;)) {
+        cout &lt;&lt; &quot;China in country.&quot; &lt;&lt; endl;
+    }
+    country.clear();
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-2">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果。</p>
+<p>聪明的你一定学会了<code>set</code>怎么用了。</p>
+<h2 id="map-字典-的使用">map (字典) 的使用`</h2>
+<h3 id="文件名-3">文件名</h3>
+<p>map.cpp</p>
+<h3 id="分数-3">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-3">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-3">第一步</h3>
+<h4 id="讲解-16">讲解</h4>
+<p>首先我们引入需要的头文件<code>map</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;map&gt;
+#include &lt;string&gt;
+</code></pre>
+<h4 id="代码-16">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;map&gt;
+#include &lt;string&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-3">第二步</h3>
+<h4 id="讲解-17">讲解</h4>
+<p>首先我们学习如何创建一个<code>map</code>。</p>
+<p>在<code>main</code>函数里面通过<code>map&lt;string, int&gt; dict</code>来定义一个<code>key:value</code>映射关系的空的<code>map</code>。当然<code>map</code>可以存任何类型的数据，比如<code>map&lt;int, int&gt; m</code>等等。在本课中我们用<code>string:int</code>来举例。</p>
+<pre><code class="language-c++">map&lt;string, int&gt; dict;
+</code></pre>
+<h4 id="提示-14">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-17">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-3">第三步</h3>
+<h4 id="讲解-18">讲解</h4>
+<p>我们把<code>Tom</code> <code>Jone</code> <code>Mary</code>依次插入到<code>map</code>并一一对应的赋值。<br>
+在刚才的定义下面写下</p>
+<pre><code class="language-c++">dict[&quot;Tom&quot;] = 1;
+dict[&quot;Jone&quot;] = 2;
+dict[&quot;Mary&quot;] = 1;
+</code></pre>
+<h4 id="提示-15">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-18">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-3">第四步</h3>
+<h4 id="讲解-19">讲解</h4>
+<p>接下来我们查看<code>map</code>中<code>Mary</code>对应的value值，先判断一下<code>map</code>中是否有<code>Mary</code>。继续写下</p>
+<pre><code class="language-c++">if (dict.count(&quot;Mary&quot;)) {
+    cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+}
+</code></pre>
+<h4 id="提示-16">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-19">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-3">第五步</h3>
+<h4 id="讲解-20">讲解</h4>
+<p>到这里，里可以点击<strong>运行</strong>看看效果。</p>
+<p>接下来我们学习<code>map</code>的遍历操作。</p>
+<pre><code class="language-c++">for (map&lt;string, int&gt;::iterator it = dict.begin(); it != dict.end(); ++it) {
+    cout &lt;&lt; it-&gt;first &lt;&lt; &quot; is in class &quot; &lt;&lt; it-&gt;second &lt;&lt; endl;
+}
+</code></pre>
+<h4 id="提示-17">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+    for (map&lt;string, int&gt;::iterator it = dict.begin(); it != dict.end(); ++it) {
+        cout &lt;&lt; it-&gt;first &lt;&lt; &quot; is in class &quot; &lt;&lt; it-&gt;second &lt;&lt; endl;
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-20">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+    for (map&lt;string, int&gt;::iterator it = dict.begin(); it != dict.end(); ++it) {
+        cout &lt;&lt; it-&gt;first &lt;&lt; &quot; is in class &quot; &lt;&lt; it-&gt;second &lt;&lt; endl;
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第六步-3">第六步</h3>
+<h4 id="讲解-21">讲解</h4>
+<p>到这里，里可以点击<strong>运行</strong>看看效果。<br>
+可以发现<code>map</code>里的key字符串按照字典序排列好了。</p>
+<p>最后我们再清空<code>map</code></p>
+<pre><code class="language-c++">dict.clear();
+</code></pre>
+<h4 id="提示-18">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+    for (map&lt;string, int&gt;::iterator it = dict.begin(); it != dict.end(); ++it) {
+        cout &lt;&lt; it-&gt;first &lt;&lt; &quot; is in class &quot; &lt;&lt; it-&gt;second &lt;&lt; endl;
+    }
+    dict.clear();
+    return 0;
+}
+</code></pre>
+<h4 id="代码-21">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+    for (map&lt;string, int&gt;::iterator it = dict.begin(); it != dict.end(); ++it) {
+        cout &lt;&lt; it-&gt;first &lt;&lt; &quot; is in class &quot; &lt;&lt; it-&gt;second &lt;&lt; endl;
+    }
+    dict.clear();
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-3">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果。</p>
+<p>聪明的你一定学会了<code>map</code>怎么用了。</p>
+<h2 id="stack-栈-的使用">stack (栈) 的使用`</h2>
+<h3 id="文件名-4">文件名</h3>
+<p>stack.cpp</p>
+<h3 id="分数-4">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-4">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-4">第一步</h3>
+<h4 id="讲解-22">讲解</h4>
+<p>首先我们引入需要的头文件<code>stack</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;stack&gt;
+</code></pre>
+<h4 id="代码-22">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-4">第二步</h3>
+<h4 id="讲解-23">讲解</h4>
+<p>首先我们学习如何使用<code>stack</code>。</p>
+<p>在<code>main</code>函数上方通过<code>stack&lt;int&gt; S</code>来定义一个全局栈来储存整数的空的<code>stack</code>。当然<code>stack</code>可以存任何类型的数据，比如<code>stack&lt;string&gt; S</code>等等。在本课中我们用 int 来举例。</p>
+<pre><code class="language-c++">stack&lt;int&gt; S;
+</code></pre>
+<h4 id="提示-19">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-23">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-4">第三步</h3>
+<h4 id="讲解-24">讲解</h4>
+<p>我们把<code>1</code> <code>10</code> <code>7</code>三个数依次存到<code>stack</code>。<br>
+在<code>main</code>函数里写下</p>
+<pre><code class="language-c++">S.push(1);
+S.push(10);
+S.push(7);
+</code></pre>
+<h4 id="提示-20">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-24">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-4">第四步</h3>
+<h4 id="讲解-25">讲解</h4>
+<p>然后我们判断一下<code>stack</code>的是否为空。继续写下</p>
+<pre><code class="language-c++">while (!S.empty()) {
+
+}
+</code></pre>
+<h4 id="提示-21">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+    while (!S.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-25">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+    while (!S.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-4">第五步</h3>
+<h4 id="讲解-26">讲解</h4>
+<p>如果<code>stack</code>不为空，我们将<code>stack</code>里的数依次取出来，在<code>while</code>里继续写下</p>
+<pre><code class="language-c++">cout &lt;&lt; S.top() &lt;&lt; endl;
+S.pop();
+</code></pre>
+<h4 id="提示-22">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+    while (!S.empty()) {
+      cout &lt;&lt; S.top() &lt;&lt; endl;
+      S.pop();
+    }
+    return 0;
+}
+</code></pre>
+<h4 id="代码-26">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+    while (!S.empty()) {
+      cout &lt;&lt; S.top() &lt;&lt; endl;
+      S.pop();
+    }
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-4">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果，可以发现<code>stack</code>有先进后出的特性。</p>
+<p>聪明的你一定学会了<code>stack</code>怎么用了。</p>
+<h2 id="queue-队列-的使用">queue (队列) 的使用`</h2>
+<h3 id="文件名-5">文件名</h3>
+<p>queue.cpp</p>
+<h3 id="分数-5">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-5">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-5">第一步</h3>
+<h4 id="讲解-27">讲解</h4>
+<p>首先我们引入需要的头文件<code>queue</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;queue&gt;
+</code></pre>
+<h4 id="代码-27">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-5">第二步</h3>
+<h4 id="讲解-28">讲解</h4>
+<p>首先我们学习如何使用<code>queue</code>。</p>
+<p>在<code>main</code>函数里面通过<code>queue&lt;int&gt; q</code>来定义一个储存整数的空的<code>queue</code>。当然<code>queue</code>可以存任何类型的数据，比如<code>queue&lt;string&gt; q</code>等等。在本课中我们用 int 来举例。</p>
+<pre><code class="language-c++">queue&lt;int&gt; q;
+</code></pre>
+<h4 id="提示-23">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-28">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-5">第三步</h3>
+<h4 id="讲解-29">讲解</h4>
+<p>我们把<code>1</code> <code>2</code> <code>3</code>三个数依次存到<code>queue</code>。<br>
+在<code>main</code>函数里写下</p>
+<pre><code class="language-c++">q.push(1);
+q.push(2);
+q.push(3);
+</code></pre>
+<h4 id="提示-24">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-29">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-5">第四步</h3>
+<h4 id="讲解-30">讲解</h4>
+<p>然后我们判断一下<code>queue</code>的是否为空。继续写下</p>
+<pre><code class="language-c++">while (!q.empty()) {
+
+}
+</code></pre>
+<h4 id="提示-25">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-30">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-5">第五步</h3>
+<h4 id="讲解-31">讲解</h4>
+<p>如果<code>queue</code>不为空，我们将<code>queue</code>里的数依次取出来，在<code>while</code>里继续写下</p>
+<pre><code class="language-c++">cout &lt;&lt; q.front() &lt;&lt; endl;
+q.pop();
+</code></pre>
+<h4 id="提示-26">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+        cout &lt;&lt; q.front() &lt;&lt; endl;
+        q.pop();
+    }
+    return 0;
+}
+</code></pre>
+<h4 id="代码-31">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+        cout &lt;&lt; q.front() &lt;&lt; endl;
+        q.pop();
+    }
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-5">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果，可以发现<code>queue</code>有先进先出的特性。</p>
+<p>聪明的你一定学会了<code>queue</code>怎么用了。</p>
+<h2 id="priority_queue-优先队列-的使用">priority_queue (优先队列) 的使用`</h2>
+<h3 id="文件名-6">文件名</h3>
+<p>priority_queue.cpp</p>
+<h3 id="分数-6">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-6">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-6">第一步</h3>
+<h4 id="讲解-32">讲解</h4>
+<p>首先我们引入需要的头文件<code>queue</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;queue&gt;
+</code></pre>
+<h4 id="代码-32">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-6">第二步</h3>
+<h4 id="讲解-33">讲解</h4>
+<p>首先我们学习如何使用<code>priority_queue</code>。</p>
+<p>在<code>main</code>函数里面通过<code>priority_queue&lt;int&gt; q</code>来定义一个储存整数的空的<code>priority_queue</code>。当然<code>priority_queue</code>可以存任何类型的数据，比如<code>priority_queue&lt;string&gt; q</code>等等。在本课中我们用 int 来举例。</p>
+<pre><code class="language-c++">priority_queue&lt;int&gt; q;
+</code></pre>
+<h4 id="提示-27">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-33">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-6">第三步</h3>
+<h4 id="讲解-34">讲解</h4>
+<p>我们把<code>1</code> <code>2</code> <code>3</code>三个数依次存到<code>priority_queue</code>。<br>
+在<code>main</code>函数里写下</p>
+<pre><code class="language-c++">q.push(1);
+q.push(2);
+q.push(3);
+</code></pre>
+<h4 id="提示-28">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-34">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-6">第四步</h3>
+<h4 id="讲解-35">讲解</h4>
+<p>然后我们判断一下<code>priority_queue</code>的是否为空。继续写下</p>
+<pre><code class="language-c++">while (!q.empty()) {
+
+}
+</code></pre>
+<h4 id="提示-29">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-35">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-6">第五步</h3>
+<h4 id="讲解-36">讲解</h4>
+<p>如果<code>priority_queue</code>不为空，我们将<code>priority_queue</code>里的数依次取出来，在<code>while</code>里继续写下</p>
+<pre><code class="language-c++">cout &lt;&lt; q.top() &lt;&lt; endl;
+q.pop();
+</code></pre>
+<h4 id="提示-30">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;priority_queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+        cout &lt;&lt; q.top() &lt;&lt; endl;
+        q.pop();
+    }
+    return 0;
+}
+</code></pre>
+<h4 id="代码-36">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+        cout &lt;&lt; q.top() &lt;&lt; endl;
+        q.pop();
+    }
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-6">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果，可以发现<code>priority_queue</code>会自动从大到小排好序。</p>
+<p>聪明的你一定学会了<code>priority_queue</code>怎么用了。</p>
+<h2 id="disjoint-并查集-的使用">disjoint (并查集) 的使用`</h2>
+<h3 id="文件名-7">文件名</h3>
+<p>disjoint.cpp</p>
+<h3 id="分数-7">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-7">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-7">第一步</h3>
+<h4 id="讲解-37">讲解</h4>
+<p>首先我们需要定义节点个数<code>n</code>，<code>father</code>父节点数组，<code>dist</code>距离数组，<code>size</code>权值数组，在<code>main</code>函数上方写下</p>
+<pre><code class="language-c++">int father[110], n;
+int dist[110], size[110];
+</code></pre>
+<h4 id="代码-37">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-7">第二步</h3>
+<h4 id="讲解-38">讲解</h4>
+<p>然后对这些数组进行初始化。在<code>main</code>函数里写下</p>
+<pre><code class="language-c++">n = 10;
+init();
+</code></pre>
+<h4 id="提示-31">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+int main() {
+    n = 10;
+    init();
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-38">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+int main() {
+    n = 10;
+    init();
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-7">第三步</h3>
+<h4 id="讲解-39">讲解</h4>
+<p>接下来具体实现<code>init</code>函数。继续在<code>main</code>函数上面写下</p>
+<pre><code class="language-c++">void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+</code></pre>
+<h4 id="提示-32">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int main() {
+    n = 10;
+    init();
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-39">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int main() {
+    n = 10;
+    init();
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-7">第四步</h3>
+<h4 id="讲解-40">讲解</h4>
+<p>现在开始学习并查集的<code>merge</code>操作，我们将<code>1</code>和<code>2</code>、<code>10</code>和<code>7</code>、<code>3</code>和<code>4</code>、<code>3</code>和<code>7</code>合并。在<code>main</code>函数里继续写下</p>
+<pre><code class="language-c++">merge(1, 2);
+merge(10, 7);
+merge(3, 4);
+merge(3, 7);
+</code></pre>
+<h4 id="提示-33">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-40">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-7">第五步</h3>
+<h4 id="讲解-41">讲解</h4>
+<p>接下来我们具体实现<code>merge</code>函数。在<code>main</code>上方继续写下</p>
+<pre><code class="language-c++">void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+</code></pre>
+<h4 id="提示-34">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-41">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第六步-4">第六步</h3>
+<h4 id="讲解-42">讲解</h4>
+<p>接下来我们查找<code>1</code>所在集合的根节点并输出<code>1</code>到根节点的距离<code>dist</code>。在<code>main</code>函数里继续写下</p>
+<pre><code class="language-c++">get(1); // 一定要先 get，可能没有直接连接根节点
+cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+</code></pre>
+<h4 id="提示-35">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-42">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第七步-3">第七步</h3>
+<h4 id="讲解-43">讲解</h4>
+<p>我们接着实现<code>get</code>函数。在<code>merge</code>函数上方继续写下</p>
+<pre><code class="language-c++">int get(int x) {
+    if (father[x] == x) {
+        return x;
+    }
+    int y = father[x];
+    father[x] = get(y);
+    dist[x] += dist[y];
+    return father[x];
+}
+</code></pre>
+<h4 id="提示-36">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int get(int x) {
+    if (father[x] == x) {
+        return x;
+    }
+    int y = father[x];
+    father[x] = get(y);
+    dist[x] += dist[y];
+    return father[x];
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-43">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int get(int x) {
+    if (father[x] == x) {
+        return x;
+    }
+    int y = father[x];
+    father[x] = get(y);
+    dist[x] += dist[y];
+    return father[x];
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第八步-2">第八步</h3>
+<h4 id="讲解-44">讲解</h4>
+<p>到这里，里可以点击<strong>运行</strong>看看效果。</p>
+<p>接下来我们查找<code>3</code>所在集合的根节点并输出<code>3</code>到根节点的距离<code>dist</code>。在<code>main</code>函数里继续写下</p>
+<pre><code class="language-c++">get(3);
+cout &lt;&lt; dist[3] + 1 &lt;&lt; endl;
+</code></pre>
+<h4 id="提示-37">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int get(int x) {
+    if (father[x] == x) {
+        return x;
+    }
+    int y = father[x];
+    father[x] = get(y);
+    dist[x] += dist[y];
+    return father[x];
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+    get(3);
+    cout &lt;&lt; dist[3] + 1 &lt;&lt; endl;
+    return 0;
+}
+</code></pre>
+<h4 id="代码-44">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int get(int x) {
+    if (father[x] == x) {
+        return x;
+    }
+    int y = father[x];
+    father[x] = get(y);
+    dist[x] += dist[y];
+    return father[x];
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+    get(3);
+    cout &lt;&lt; dist[3] + 1 &lt;&lt; endl;
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-7">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果。</p>
+<p>聪明的你一定学会了<code>disjoint</code>怎么用了。</p>
+<h2 id="队列">队列`</h2>
+<h3 id="简介">简介</h3>
+<p>队列是一种特殊的线性表，特殊之处在于它只允许在表的前端（front）进行删除操作，而在表的后端（rear）进行插入操作，和栈一样，队列是一种操作受限制的线性表。进行插入操作的端称为队尾，进行删除操作的端称为队头。</p>
+<ul>
+<li>重要特性：元素先进先出</li>
+</ul>
+<h3 id="实现方式">实现方式</h3>
+<ul>
+<li>数组</li>
+<li>链表</li>
+<li>STL</li>
+</ul>
+<h3 id="标程">标程</h3>
+<pre><code class="language-cpp">#include &lt;cstdio&gt;
+#include &lt;queue&gt;
+#include &lt;algorithm&gt;
+using namespace std;
+
+struct Queue {
+    /* 数组实现 */
+    void Queue_Array() {
+        int q[1005] = {0};
+        int head = 0;
+        int tail = head;
+        q[tail++] = 1;
+        q[tail++] = 2;
+        q[tail++] = 3;
+        while (head &lt; tail) {
+            printf(&quot;%d\n&quot;, q[head]);
+            head++;
+        }
+    }
+
+    /* STL实现 */
+    void Queue_STL() {
+        queue&lt;int&gt; q;
+        q.push(1);
+        q.push(2);
+        q.push(3);
+        while (!q.empty()) {
+            printf(&quot;%d\n&quot;, q.front());
+            q.pop();
+        }
+    }
+}Q;
+
+int main() {
+    Q.Queue_Array();
+    Q.Queue_STL();
+    return 0;
+}
+
+</code></pre>
+<h2 id="单调队">单调队`</h2>
+<h3 id="简介-2">简介</h3>
+<p>单调队列，即单调递减或单调递增的队列。使用频率不高，但在有些程序中会有非同寻常的作用。</p>
+<ul>
+<li>重要特性：元素可以从两端进出</li>
+</ul>
+<p>实现方式</p>
+<ul>
+<li>数组</li>
+<li>链表</li>
+<li>STL</li>
+</ul>
+<p>deque的性质</p>
+<ul>
+<li>容器中间插入和删除效率很低</li>
+<li>与vector容器操作类似</li>
+</ul>
+<h3 id="例题">例题</h3>
+<ul>
+<li>题目链接：http://acm.hdu.edu.cn/showproblem.php?pid=4286</li>
+</ul>
+<p>题意：n个数字一开始排成一行，有两个指针L和R，指向了这串数字的一个区间的端点。<br>
+现在有7种操作</p>
+<ul>
+<li>使一个指针左移</li>
+<li>使一个指针右移</li>
+<li>在L后插入一个数字X</li>
+<li>在R前插入一个数字X</li>
+<li>删除L所指元素</li>
+<li>删除R所指元素</li>
+<li>翻转[L,R]区间</li>
+</ul>
+<p>Question：m次操作后，整串数字是什么样的？</p>
+<p>分析：如果区间L和R每一次都是任意范围的，那么肯定是平衡树问题。但是现在区间断点L和R每次只能左移一位或右移一位，那么可以将整串数字以L、R为中点分为三段，然后模拟这几种操作。但是翻转不能直接模拟，用一个标记来判断一下正反。</p>
+<h2 id="双端队列">双端队列`</h2>
+<h3 id="简介-3">简介</h3>
+<p>双端队列（deque，全名double-ended queue）是一个限定插入和删除操作的数据结构，具有队列和栈的性质。双端队列中的元素可以从两端弹出，其限定插入和删除操作在表的两端进行。<br>
+双端队列是限定插入和删除操作在表的两端进行的线性表。这两端分别称做端点1和端点2。也可像栈一样，可以用一个铁道转轨网络来比喻双端队列。</p>
+<ul>
+<li>重要特性：元素可以从两端进出</li>
+</ul>
+<p>实现方式</p>
+<ul>
+<li>数组</li>
+<li>链表</li>
+<li>STL</li>
+</ul>
+<p>deque的性质</p>
+<ul>
+<li>容器中间插入和删除效率很低</li>
+<li>与vector容器操作类似</li>
+</ul>
+<h3 id="例题-2">例题</h3>
+<ul>
+<li>题目链接：http://acm.hdu.edu.cn/showproblem.php?pid=4286</li>
+</ul>
+<p>题意：n个数字一开始排成一行，有两个指针L和R，指向了这串数字的一个区间的端点。<br>
+现在有7种操作</p>
+<ul>
+<li>使一个指针左移</li>
+<li>使一个指针右移</li>
+<li>在L后插入一个数字X</li>
+<li>在R前插入一个数字X</li>
+<li>删除L所指元素</li>
+<li>删除R所指元素</li>
+<li>翻转[L,R]区间</li>
+</ul>
+<p>Question：m次操作后，整串数字是什么样的？</p>
+<p>分析：如果区间L和R每一次都是任意范围的，那么肯定是平衡树问题。但是现在区间断点L和R每次只能左移一位或右移一位，那么可以将整串数字以L、R为中点分为三段，然后模拟这几种操作。但是翻转不能直接模拟，用一个标记来判断一下正反。</p>
+<h3 id="标程-2">标程</h3>
+<pre><code class="language-cpp">#include&lt;algorithm&gt;
+#include&lt;deque&gt;
+#include&lt;iostream&gt;
+using namespace std;
+
+int main() {
+    deque&lt;int&gt; dq;
+    dq.push_back(1);
+    dq.push_back(2);
+    dq.push_back(3);
+    dq.push_front(4);
+    dq.push_front(5);
+    dq.push_front(6);
+    dq.pop_back();
+    dq.pop_front();
+    deque&lt;int&gt;::iterator it;
+    for (it = dq.begin(); it != dq.end(); it++) {
+        cout &lt;&lt; *it &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    return 0;
+}
+
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光一直以光速向前传播，可为何光逃离不了黑洞？]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/blackhole/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/blackhole/">
+        </link>
+        <updated>2020-10-05T05:14:43.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="光一直以光速向前传播可为何光逃离不了黑洞">光一直以光速向前传播，可为何光逃离不了黑洞？</h1>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="光一直以光速向前传播可为何光逃离不了黑洞">光一直以光速向前传播，可为何光逃离不了黑洞？</h1>
+<!-- more -->
+<p>（本文冗长。最后有一句话比喻，通俗易懂。）</p>
+<p>一句话：<strong>因为在黑洞内部，光锥是永远向内的。</strong></p>
+<p>[toc]</p>
+<h2 id="首先解释一个关键的概念什么是光锥"><strong>首先解释一个关键的概念，什么是「光锥」。</strong></h2>
+<p>简单地说，<strong>光锥就是光的时空路径</strong>——注意是「时空」，而不是「空间」。即，在某时某地发射<strong>一闪光</strong>，此后光传播所经历到的<strong>时空</strong>区域就是「光锥」。换句话说，就是能看到这个闪光的<strong>时空</strong>区域。当然，这严格说是未来光锥。</p>
+<p>这样说还是很抽象，举个1维空间的例子。这个世界不妨称之为「1+1维」时空（因为是1维空间+1维时间）。简单起见，假设光速为常数 v=1。<br>
+时间 t = 0 时，在空间坐标原点 x = 0 处发生一闪光。这时，因为光以有限的速度 v = 1 传播，其路径就是 x = t 或者 x = - t。这里有<strong>两条</strong>路径，因为在一维空间里，光能朝「前」、「后」<strong>两个</strong>方向传播。<br>
+画在 (x, t) 平面上，光的时空路径 x = t 或者 x = - t 就是通过原点的45度角射线。这射线就是「1+1维」时空的光锥。如下图所示，红色射线就是光锥。</p>
+<figure data-type="image" tabindex="1"><img src="https://pic2.zhimg.com/7ca34d67e96f0430466220cb0b9ae089_b.jpg" alt="img" loading="lazy"></figure>
+<p>在这个「1+1维」时空里，只有在光锥上的点，才能看到闪光。比如 (x = 2, t = 1) 这个点，就不在光锥上，也看不到闪光。因为在 t = 1 秒的时候，光还没有传播到 x = 2 处。x = 2 处只有在等到 t = 2 时才能看到闪光，于是 (x = 2, t = 2) 这个点正好就在光锥上。上面这个例子很容易推广到真实的「3+1维」时空（3维空间，1维时间），只不过这时候射线变成了锥子（当然是3维的锥子），所以叫光锥。<br>
+所以光锥是时空的一个截面，维度比时空少一维。光锥的存在正是因为光速有限。</p>
+<p>更物理地说，光锥是<strong>时空</strong>的一个「界限」，即，能发生因果关联与否的区分边界。因为光速是最大速度，<strong>光在光锥表面传播</strong>，其他信号在光锥内部传播，所以光锥内部就是可发生信号联系（因果关联）的区域，光锥外则是不可能有因果关联的区域。<br>
+以下图为例（引子wiki）</p>
+<figure data-type="image" tabindex="2"><img src="https://pic3.zhimg.com/dff39123dd69d894cb6206e81af6ea1a_b.jpg" alt="img" loading="lazy"></figure>
+<p>这里展示的是「2+1维时空」：2维空间（横向）+1维时间（纵向）。A代表某时某地一「事件」，光锥内部（上图黄色区域）就是A事件未来可影响到的时空区域，比如B点（下部黄色区域代表可以过去可能影响过A的时空区域）；而光锥外的其他区域，过去、未来都不可能与A事件发生关联，比如C点。</p>
+<h2 id="回到光传播的问题上"><strong>回到光传播的问题上。</strong></h2>
+<p>广义相对论说，时空可以弯曲。于是在这个弯曲的时空里，光就不一定走 x = t 或者 x = - t 这么简单的直线了。比如在「1+1维」的时空里，光的路径可能就是这个样子：<img src="https://pic2.zhimg.com/7269d2f7d5c0e70f41f53906f8c2037d_b.jpg" alt="img" loading="lazy"></p>
+<p>根据时空弯曲的程度，光可以走各种扭曲的路径。上图中，虽然光的路径很扭曲，但是左边 x1(t) 还是在朝「左」传播，右边 x2(t) 还是在朝右传播。那么有没有可能扭曲成这个样子：<img src="https://pic2.zhimg.com/8b722702054afb27278888c17b4f4a3d_b.jpg" alt="img" loading="lazy">也就是说，无论光<strong>自己以为</strong>在朝哪个方向传播，实际上都是在朝左传播？<br>
+回答是当然可能！<strong>这正是光无法离开黑洞的关键！</strong></p>
+<p>具体而言：对于比较正常的时空里的正常的光锥，光可以（沿着光锥表面）向前后左右任意<strong>空间</strong>方向传播。但是<strong>在黑洞内部，光锥被扭曲，光锥的所有空间方向都朝向黑洞内部，使得光只能向内传播。</strong></p>
+<h2 id="以最简单的不带电不旋转黑洞即schwarzschild黑洞为例"><strong>以最简单的不带电不旋转黑洞即「Schwarzschild黑洞」为例。</strong></h2>
+<p>下图（引自wiki）中左边白色区域为黑洞外，右边黑色区域为黑洞内。在左边即黑洞外，光锥比较正常，光可以朝两个方向传播——比如朝左也就是背离黑洞，或者朝右也就是朝向黑洞。<br>
+<img src="https://pic2.zhimg.com/6dc635fa5e334b7ef295c143f1fdc9b1_b.jpg" alt="img" loading="lazy">如果我们靠近黑洞，如下图（引自wiki），光锥开始扭曲，明显开始朝黑洞倾斜。于是光倾向于向黑洞（朝右）内传播，只有少部分可以背离黑洞（朝左）。<img src="https://pic4.zhimg.com/a2238e2adcfda9ace3ba709ecd81d373_b.jpg" alt="img" loading="lazy">如果我们进入黑洞内部（黑色区域），如下图（引自wiki），这时，光锥完全被扭曲，<strong>光锥的任何方向都是指向黑洞内部</strong>。也就是说，<strong>光无论怎么传播，都是在「朝内」传播。</strong><img src="https://pic4.zhimg.com/1cf0dfcf9528317afe025f0f6d0167c3_b.jpg" alt="img" loading="lazy">下图（来自网络）是个更形象的说明：</p>
+<p><img src="https://pic3.zhimg.com/923ab201fb34844b1b9c5769b5f736a6_b.jpg" alt="img" loading="lazy">圆柱代表黑洞视界，圆柱内是黑洞内，圆柱外是黑洞外。黑洞外光锥被扭曲的不厉害，光可以朝向黑洞也可以背离黑洞。黑洞里面，光锥完全倒向黑洞内，光锥的所有方向都指向黑洞内，于是光无论朝哪个方向传播都是在向内传播。<br>
+总之，一句话，<strong>在黑洞（视界）内部，时空被扭曲了——只有向内，没有向外。</strong></p>
+<p><strong>最后，如果觉得还是很抽象的话</strong>，可以考虑这样的例子（虽然不严谨，但本质上一个道理）：<br>
+你在坐高铁，你以为你可以来回走动，但是因为你不可能比高铁走的更快，所以在地面上的人看来，你只能永远在朝前走，就像光在黑洞内只能永远朝里走。</p>
+<p><a href="https://www.zhihu.com/question/310891875/answer/1186554752">原文链接</a></p>
+<p><font color="#F6F6F6">转载自知乎日报2013.05.19</font></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何优雅地使用 Windows 系统？]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/userwin/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/userwin/">
+        </link>
+        <updated>2020-10-05T05:12:42.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="如何优雅地使用-windows-系统">如何优雅地使用 Windows 系统？</h1>
+<p><strong>是否优雅不得而知，仅提供个人用法。</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="如何优雅地使用-windows-系统">如何优雅地使用 Windows 系统？</h1>
+<p><strong>是否优雅不得而知，仅提供个人用法。</strong></p>
+<!-- more -->
+<p>[toc]</p>
+<h2 id="1-概览"><strong>1、概览：</strong></h2>
+<p>这是我的桌面，无杀软。（壁纸出处：<a href="http://10wallpaper.com/cn/view/Lion_of_the_Serengeti_National_Park-MAC_OS_X_Mountain_Lion_HD_Wallpapers.html">塞伦盖蒂国家公园狮子</a>，感谢@棒棒糖elaine）<img src="https://pic3.zhimg.com/ce0c99327d1fa2889b0a8fbf0722beda_b.jpg" alt="img" loading="lazy"></p>
+<h2 id="2-使用云服务"><strong>2、使用云服务</strong></h2>
+<p>比如 Chrome 的书签同步插件 Xmarks（在天朝自带的同步功能有些鸡肋，但是除了书签之外的数据可以使用自带同步功能）； Evernote 写笔记、GTD、知识系统管理；将平时不用的但是有价值的东西上传到网盘里； 使用同步文件夹，将重要的文件同步上传到云空间；项目都同步到 SVN 或 GitHub 中。</p>
+<p>使用云端软件平台（<a href="http://yunduan.cn/">云端 - 创新生活新体验</a>），把软件都装在上面，也可以将本地软件导入平台中（虚拟化），这样即使是重装系统后也无需重装应用，可携带缓存文件夹到不同电脑上使用平台上的软件，无需安装。绿色，便于管理。<br>
+<img src="https://pic4.zhimg.com/fe582e84f2211acf6d7a32418be3e55f_b.jpg" alt="img" loading="lazy"></p>
+<h2 id="3-美化"><strong>3、美化</strong></h2>
+<h3 id="31-如上面有人说的使用mactype字体渲染-优化后效果好很多"><strong>3.1</strong> 如上面有人说的，使用Mactype字体渲染。（优化后效果好很多）</h3>
+<figure data-type="image" tabindex="1"><img src="https://pic2.zhimg.com/495638b1101881d200cf642fcf3b92bd_b.jpg" alt="img" loading="lazy"></figure>
+<h3 id="32-使用-clover-创建标签式资源管理器窗口clover-brings-chrome-style-tabs-to-windows-explorer"><strong>3.2</strong> 使用 clover 创建标签式资源管理器窗口（<a href="http://ejie.me/">Clover Brings Chrome-Style Tabs to Windows Explorer.</a>）</h3>
+<figure data-type="image" tabindex="2"><img src="https://pic4.zhimg.com/01cc0cf40f8adf3cb8967587db522fc7_b.jpg" alt="img" loading="lazy"></figure>
+<h3 id="33-使用-netspeedmonitor-来监控网速-floriangillescom"><strong>3.3</strong> 使用 NetSpeedMonitor 来监控网速。（<a href="http://www.floriangilles.com/software/netspeedmonitor">FlorianGilles.com</a>）<img src="https://pic2.zhimg.com/8f7ec90559ae22db77e7941a1eb5b03d_b.jpg" alt="img" loading="lazy"></h3>
+<h3 id="34-用一个快速而且不弹框的好输入法小狼毫downloads-rimeime-下載-rime-輸入法"><strong>3.4</strong> 用一个快速而且不弹框的好输入法：《小狼毫》（<a href="http://code.google.com/p/rimeime/wiki/Downloads">Downloads - rimeime - 下載 Rime 輸入法</a>）</h3>
+<figure data-type="image" tabindex="3"><img src="https://pic4.zhimg.com/c4763d20ec0cf76ce3a4946143a0035b_b.jpg" alt="img" loading="lazy"></figure>
+<p>这是相关的介绍：<a href="http://www.byvoid.com/blog/recommend-rime">推薦一個神級輸入法——Rime</a> ( 谢谢 @郭家寶 提醒更新）</p>
+<h2 id="4-优化">4**、优化**</h2>
+<p>定期清理系统垃圾，使用CCleaner（<a href="http://www.piriform.com/CCLEANER">CCleaner - PC Optimization and Cleaning</a>）。<br>
+一个月碎片整理一次。使用Defraggler（<a href="https://www.piriform.com/defraggler">Defraggler - File and Disk Defragmentation</a>）。</p>
+<h2 id="5-其他"><strong>5、其他</strong></h2>
+<p>优雅地使用Windows唯一的手段就是找到符合自己的操作习惯，把不顺心的情况化解，并乐于挖掘适合自己的功能或者操作，包括快捷键、个性化设置等。</p>
+<p>嗯，有人喜欢「番茄工作法」的吗？ 对于精力不集中的人，建议使用Focus Booster，一款小巧优雅的软件。（下载：<a href="http://www.focusboosterapp.com/">focus booster</a>）<br>
+<img src="https://pic2.zhimg.com/f607fef019b58bd3b4c2c0e3dced6231_b.jpg" alt="img" loading="lazy"><br>
+有人想要一个款优雅的 editor，这里推荐一款性感无比的编辑器：Sublime Text 2（各种配色任你选：<a href="https://github.com/daylerees/colour-schemes">daylerees/colour-schemes 路 GitHub</a>）<br>
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1ges1dzuu01j30k00h6wgc.jpg" alt="" loading="lazy"></p>
+<p>- - Update - -<br>
+有人说桌面没有一个图标以及任务栏隐藏就很优雅吗？为什么要学Mac OS？<br>
+我想说：这些都是个人习惯问题，只要用得顺手，在两三步下可以迅速找到自己要用得东西就行了。 精简就一定是Mac的专利？</p>
+<p>写的时候没想到大家反响这么积极啊，弄到我都有些心虚了，谈不上优雅，只能算利用工具提高生产里而已。 还有，上面推荐的软件真不是广告 - _ -||</p>
+<p><font color="#47A8FF"><a href="https://daily.zhihu.com/story/395">原文链接</a></font></p>
+<p><font color="#F6F6F6">转载自知乎日报2013.05.19</font></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夸克浏览器，轻量但好用的浏览工具]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/quark/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/quark/">
+        </link>
+        <updated>2020-10-05T05:11:46.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.sspai.com/attachment/origin/2016/10/31/353057.jpg?imageMogr2/quality/95/thumbnail/!1250x686.6666666666666r/gravity/Center/crop/1250x686.6666666666666/interlace/1" alt="" loading="lazy"></figure>
+<h1 id="夸克浏览器轻量但好用的浏览工具">夸克浏览器，轻量但好用的浏览工具</h1>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.sspai.com/attachment/origin/2016/10/31/353057.jpg?imageMogr2/quality/95/thumbnail/!1250x686.6666666666666r/gravity/Center/crop/1250x686.6666666666666/interlace/1" alt="" loading="lazy"></figure>
+<h1 id="夸克浏览器轻量但好用的浏览工具">夸克浏览器，轻量但好用的浏览工具</h1>
+<!-- more -->
+<p>在谈及浏览器的时候，我们更希望拥有的是一款具有优秀「工具属性」的应用：在相对较少却高度专注的使用情景里，它能够尽最大可能为我们提供更好的网页浏览体验——而不是不由分说地接管你的视线、分散你的注意力，甚至在首页向你推送一些不合口味的「热点新闻」。</p>
+<p>换言之，有时候我们需要的是一款「轻量但够用」的浏览工具。除了之前我们介绍过的 Via 和 Ninja 之外，现在 Android 用户又有了一个新的选择，夸克浏览器。</p>
+<h2 id="简约精致的视觉风格">简约精致的视觉风格</h2>
+<p>夸克浏览器在视觉风格上和 Chrome 浏览器有着些许的相似：主界面 Logo、搜索 / 地址框、快速导航标签自上而下一字排开，下方分别为标签页管理和菜单按钮，除此之外并无其他不必要的信息造成过多的视觉干扰。</p>
+<p>标签页管理、菜单和快速导航编辑页面也都采用了卡片堆叠效果，轻巧灵动，无论是阴影还是动效都不会给我们留下半点「廉价感」。</p>
+<p>在滚动浏览网页的过程中，网页标题栏将会缩小，多标签管理和菜单按钮也会随之隐藏，为网页内容留出了足够的展示空间。</p>
+<figure data-type="image" tabindex="2"><img src="https://cdn.sspai.com/attachment/origin/2016/10/26/352156.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://cdn.sspai.com/attachment/origin/2016/10/26/352157.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://cdn.sspai.com/attachment/origin/2016/10/26/352158.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<h2 id="贴心的细节设计">贴心的细节设计</h2>
+<p>考虑到现在的手机屏幕越做越大，夸克浏览器并没有像大多数浏览器那样把地址栏放在顶部，而是将整合后的「搜索 / 地址栏」放在了用户更容易操作的底部，常用网址建议会以彩色标签的方式出现在地址栏上方。</p>
+<p>同时应用在输入网址时提供了一个快速补全工具条，用于一键输入一些常用的网址符号和后缀，这个工具条中间还放置着一个用于移动输入光标的「摇杆」，进行复杂网址输入时相当有用，长按「摇杆」后还可进行文字选中操作。</p>
+<figure data-type="image" tabindex="5"><img src="https://cdn.sspai.com/attachment/origin/2016/10/26/352254.gif?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://cdn.sspai.com/attachment/origin/2016/10/26/352255.gif?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>夸克浏览器还支持滑动前进/后退、底部上滑返回首页、长按标签管理按钮打开新标签页等一些基本的手势操作，配合「搜索框/地址栏下置」设计，浏览网页的过程中单手操作便能解决大部分网页浏览和导航需求。</p>
+<figure data-type="image" tabindex="7"><img src="https://cdn.sspai.com/attachment/origin/2016/10/26/352166.gif?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>不得不提的是，在夸克浏览器的设置当中还埋藏这一个相当强大的**「云端加速」**功能。</p>
+<p>尽管从字面上看该功能似乎很多同类浏览器都在做，但在夸克浏览器当中，这个功能的「能力范围」却可以等同于 <strong>网页加速 + 广告过滤 + 网页再排版</strong>（也叫「酷影模式」）：当你打开豆瓣、淘宝的网页版客户端时，烦人的 App 下载提示被过滤掉了；而校园网、政府网站等各种「老式网站」上面飘来飘去的悬浮窗也会被自动屏蔽掉，极大提升了使用 Web App 和浏览网站网站的体验。</p>
+<p>事实上，自其前身「极简浏览器」面世起，这款应用已经经历了数个版本的更迭。好在它一直秉承着一份难能可贵的「克制」：没有选择不断地加入各种臃肿的功能，而是在细节设计和用户体验上进行不断优化，最终在「浏览网页」这件事情上做出了一些不一样的东西。</p>
+<p>如果你只需要一款轻量但是又够用浏览器，夸克也许是个不错的选择。你可以前往 <a href="../su/16hb">豌豆荚</a> 或者 <a href="https://itunes.apple.com/cn/app/kua-ke-liu-lan-qi/id1160172628?mt=8">App Store</a> 免费下载。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Air Keyboard在iPad上控制键鼠]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/airkeyboard/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/airkeyboard/">
+        </link>
+        <updated>2020-10-05T05:09:28.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="使用air-keyboard在ipad上控制键鼠">使用Air Keyboard在iPad上控制键鼠</h1>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="使用air-keyboard在ipad上控制键鼠">使用Air Keyboard在iPad上控制键鼠</h1>
+<!-- more -->
+<blockquote>
+<p>其他平台（建议使用第一个链接）<br>
+镜像1 : <a href="http://suo.im/6lNYqH">http://suo.im/6lNYqH</a><br>
+镜像2 : <a href="http://suo.im/5R3bnC">http://suo.im/5R3bnC</a><br>
+镜像3 : <a href="http://suo.im/6em1ta">http://suo.im/6em1ta</a></p>
+</blockquote>
+<p>[toc]</p>
+<h2 id="操作方法">操作方法</h2>
+<p>在App Store找到这个<code>Air Keyboard（空气键盘）</code><br>
+免费版是<a href="https://apps.apple.com/cn/app/id726059761">这个</a><br>
+如果你想氪金，不拦你用<a href="https://apps.apple.com/cn/app/air-keyboard-mian-fei-wu-xian/id541873446">这个</a>（18块）</p>
+<blockquote>
+<p>Air Keyboard allows you to use your iPad as a wireless keyboard and touch pad for your PC or Mac.<br>
+Features available in the Pro version of the app:<br>
+• 9 built-in keyboard layouts.<br>
+Including regular keyboard, iPad soft keyboard, Media Player, Photoshop, shooter game, AZERTY and Cyrillic layouts.<br>
+• Fully customizable keyboard layout designer.<br>
+It allows you to create your own layout, place buttons as you want, set their appearance and bind keys. You can also download images for your buttons from Internet or local Photo Library. Layouts can be exported and imported via iTunes.<br>
+• Key and event sequences.<br>
+You can create a sequence containing key press, mouse movement, delay or scroll event and then bind the sequence to a button. This can simplify working with complex software.<br>
+• Touch pad with multi-touch.<br>
+Scroll gesture is supported on all systems.<br>
+Multitouch is available for Windows 8+.<br>
+This free Lite version has limited functionality.<br>
+How can you use Air Keyboard? There are some ideas:<br>
+• Use it for presentations<br>
+• Play games sitting in a comfortable position<br>
+• Control your home cinema distantly when resting on your sofa<br>
+• Simplify using complex programs by creating special layouts and emulating shortcut sequences<br>
+To use this app you have to install a server program on your computer.<br>
+Get it for free at www.airkeyboardapp.com.<br>
+Before you use this app, we recommend you to read the FAQ section on our website: www.airkeyboardapp.com/faq</p>
+</blockquote>
+<p>来自App Store</p>
+<blockquote>
+<p>Air键盘允许您使用iPad作为无线键盘和PC或Mac的触摸板。<br>
+Pro版应用程序提供的功能：<br>
+•9个内置键盘布局。<br>
+包括普通键盘、iPad软键盘、媒体播放器、Photoshop、shooter game、AZERTY和Cyrillic布局。<br>
+•完全可定制的键盘布局设计器。<br>
+它允许您创建自己的布局、根据需要放置按钮、设置其外观和绑定键。您还可以从Internet或本地照片库下载按钮的图像。布局可以通过iTunes导出和导入。<br>
+•键和事件序列。<br>
+您可以创建包含按键、鼠标移动、延迟或滚动事件的序列，然后将该序列绑定到按钮。这可以简化复杂软件的工作。<br>
+•多点触控的触摸板。<br>
+所有系统都支持滚动手势。<br>
+多点触控可用于Windows 8+。<br>
+这个免费的Lite版本功能有限。<br>
+如何使用气动键盘？有一些想法：<br>
+•用于演示<br>
+•坐在舒适的位置上玩游戏<br>
+•在沙发上休息时，远距离控制家庭影院<br>
+•通过创建特殊布局和模拟快捷顺序简化复杂程序的使用<br>
+要使用此应用程序，您必须在计算机上安装服务器程序。<br>
+在www.airkeyboardapp.com上免费获取。<br>
+在使用此应用程序之前，我们建议您阅读我们网站上的常见问题部分：www.airkeyboardapp.com/FAQ</p>
+</blockquote>
+<p>来自百度翻译</p>
+<p>废话不多说，上图<br>
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geip1q9wpij30sg0lc1b8.jpg" alt="" loading="lazy"><br>
+这是最标准的界面，挺好看的。我是用这个，用iPad Pro会很舒服，但是不巧我不是iPad Pro。😭😭😭<br>
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geip38l3p7j30sg0lcalb.jpg" alt="" loading="lazy"><br>
+这个使用的是iPad自带的键盘，这个不太好用。<br>
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geip4g47l1j30sg0lc7ho.jpg" alt="" loading="lazy"><br>
+这个是需要付费的一个键盘布局，高仿MacBook的键盘，但是姚要付钱，算了。<br>
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geip54w567j30sg0lcqul.jpg" alt="" loading="lazy"><br>
+这是一个打游戏用的键盘，好用归好用，付钱，算了。<br>
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geip8nevvrj30sg0lc1kx.jpg" alt="" loading="lazy"><br>
+这是一个媒体控制键盘，付钱，哎。。。<br>
+这个软件也支持绑定PS，但是还是要付钱，而且也没搞到图，……</p>
+<h2 id="高级一点">高级一点</h2>
+<p>这个软件有个模式是当触摸板，不过要付钱，但是这个可以用一个小技巧来**掉。<br>
+就是使用我屏幕上的这个图标进行缩放，不需要软件。<br>
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geip82lzazj3019019744.jpg" alt="" loading="lazy"><br>
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geip99z5vyj30sg0lc0up.jpg" alt="" loading="lazy"><br>
+先找到设置里的通用，点辅助功能<br>
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geip9q8lk3j30sg0lcac5.jpg" alt="" loading="lazy"><br>
+找到缩放的选项卡<br>
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geipa7tuijj30sg0lc772.jpg" alt="" loading="lazy"><br>
+建议大家打开“控制器”，“智能键入”这两个标签页，这样就可以放大到触摸板的那块屏幕，调整一下灵敏度，这样就OK了。</p>
+<h2 id="后记">后记</h2>
+<p>虽然好像不付费的功能有点少，不过我体验下来还是够了的，这款软件比市面上的很多的软件都良心，所以推荐给大家。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 张卡片，在 Windows 上带回 macOS 的特性]]></title>
+        <id>https://hesy-zhoulijie.github.io/post/win-mac/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/win-mac/">
+        </link>
+        <updated>2020-10-05T05:08:07.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.sspai.com/2020/03/16/02b8b85ad3f38869133e64784f291eb0.png?imageMogr2/quality/95/thumbnail/!1218x669.088r/gravity/Center/crop/1218x669.088/interlace/1" alt="" loading="lazy"></figure>
+<h1 id="12-张卡片在-windows-上带回-macos-的特性">12 张卡片，在 Windows 上带回 macOS 的特性</h1>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.sspai.com/2020/03/16/02b8b85ad3f38869133e64784f291eb0.png?imageMogr2/quality/95/thumbnail/!1218x669.088r/gravity/Center/crop/1218x669.088/interlace/1" alt="" loading="lazy"></figure>
+<h1 id="12-张卡片在-windows-上带回-macos-的特性">12 张卡片，在 Windows 上带回 macOS 的特性</h1>
+<!-- more -->
+<p>在离开 macOS 这段时间，每天在家依赖 Windows To Go 为生，感到日常工作流程在四处冒烟。这才发现 macOS 的有些特性就如同空气一样，虽然毫无存在感，却不可缺失。</p>
+<p>关于「如何在 Windows 中实现 macOS 的 xxx」，随便上网一搜就可以搜出很多结果，然而这些当中很多都是「为了实现而实现」，未能真正带回 macOS 散落在系统各处的便捷功能。另一方面，正因为有些功能的存在感低，所以自己在平时使用的时候也未必就留意，只有当想用到这个功能却发现没有的时候才会想起来。</p>
+<p>macOS 与 Windows 的差异，有些是功能层面的差异，还有一些就是操作系统理念层面的东西了，深究下去难免会犯一些形而上的错误。从实事求是的角度出发，我还是很希望能够在 Windows 上复现一些 macOS 的优秀特性或理念的，好在能有所成，为之记。</p>
+<h2 id="spotlight">Spotlight</h2>
+<figure data-type="image" tabindex="2"><img src="https://cdn.sspai.com/2020/03/16/8bd0eaa08cbcf63c7a1b6da84de9fbca.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>Windows 上的启动器说多也多，强大的也很强大，但是我对自定义配置感到力不从心。<a href="https://www.listary.com/download">Listary</a> 是一个非常好用的全局搜索工具，学习成本也很低，双击 Ctrl 键就可以在屏幕中央弹出搜索框，不用再进行太多的配置。</p>
+<figure data-type="image" tabindex="3"><img src="https://cdn.sspai.com/2020/03/14/ec70ee4bc7e7340c5e43a5ba0cbdc113.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>双击 Ctrl 键</p>
+<p>值得一提的是，Listary 的这两个功能也让我印象深刻：</p>
+<ul>
+<li>平时在执行应用的「打开…」操作后，定位的往往是默认的路径，用它可以自动定位至「文件资源管理器正在浏览的路径」。</li>
+<li>在文件资源管理器中搜索文件时，忘掉右上角的搜索栏吧，甚至双击 Ctrl 的步骤也可以省略，直接打字即可，Listary 会被自动唤出，并且显示全盘的文件搜索结果。</li>
+</ul>
+<figure data-type="image" tabindex="4"><img src="https://cdn.sspai.com/2020/03/14/21ffea981cc5f2f60ed0ea50b8f2c9f6.gif?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>自动定位至「文件资源管理器正在浏览的路径」</p>
+<p>诚然，Listary 还有很多优秀的功能，但是对于我这样一个非计算机出身的「麻瓜」来说，光是描述清楚这些功能就得费老鼻子劲，还不一定讲得明白，更别说试着去用了。目前 Listary 对我而言就是一款简简单单的「Windows 上的 Spotlight」。</p>
+<h2 id="程序坞">程序坞</h2>
+<figure data-type="image" tabindex="5"><img src="https://cdn.sspai.com/2020/03/16/342f63780346ef6c52faf51b720a3873.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p><a href="https://punklabs.com/">RocketDock</a> 自带的模板丑出天际，但是好在自定义简单，随手改改纯色背景就很耐看了。可以把 dock 固定在桌面，然后往上面添加应用、目录、分隔符等等。此外，「鼠标经过放大」、「移到废纸篓」等特性也都一应俱全，甚至连「最小化窗口到 Dock」、「高亮正在运行的程序」等等细节都可以复现。</p>
+<p>「控制面板」的理念和 macOS 的「系统偏好设置」很相似，我也把它放在了 Dock 上。</p>
+<figure data-type="image" tabindex="6"><img src="https://cdn.sspai.com/2020/03/14/87f5b26d9eb35108dad186bb03c5c95c.gif?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>鼠标经过放大</p>
+<h2 id="快速查看">快速查看</h2>
+<figure data-type="image" tabindex="7"><img src="https://cdn.sspai.com/2020/03/16/37b67e0157ae20b95da89b14cd466ac6.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>「空格预览」同样是 macOS 最为人津津乐道的几大特性之一，<a href="https://github.com/QL-Win/QuickLook/releases">QuickLook</a> 很好地复现了这一点。和 macOS 一样，它也支持安装增强插件。好用就完事了，不多赘述。</p>
+<h2 id="触发角">触发角</h2>
+<figure data-type="image" tabindex="8"><img src="https://cdn.sspai.com/2020/03/16/4037e4b25d57f7998fd86a9256852094.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>触发角也是很不错的功能，实现起来难度也不大，尝试了好几款之后，最终确定了开源、轻量、好看的 <a href="https://github.com/vhanla/winxcorners/releases">WinXCorners</a>。除了常规功能，它也支持触发指令的自定义。</p>
+<figure data-type="image" tabindex="9"><img src="https://cdn.sspai.com/2020/03/16/99071a68a0be56ee7431bdec30da851f.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://cdn.sspai.com/2020/03/16/9f064794ff018f5dcc19862d7ee00d87.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>自定义触发指令</p>
+<h2 id="剪贴板共享">剪贴板共享</h2>
+<figure data-type="image" tabindex="11"><img src="https://cdn.sspai.com/2020/03/16/21031fb176f4ef911e295e9a73e80f42.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>这款应用。美中不足的地方在于，这样的剪贴板共享只能共享文字，图片必须作为文件来发送，这一点还是没有 Handoff 来得完善，即便如此，它也极大地提升了我的效率。</p>
+<h2 id="截图和录屏">截图和录屏</h2>
+<p>说完文字，来说图片和视频，我把截图、录屏、录制动图这三点放一块说。macOS 虽然自带了截图录屏的功能，但是很多人还是会寻求第三方应用。</p>
+<h3 id="截图">截图</h3>
+<figure data-type="image" tabindex="12"><img src="https://cdn.sspai.com/2020/03/16/718dc73de8a9f75557fee99dcf28d814.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p><a href="https://zh.snipaste.com/download.html">Snipaste</a> 是双平台最广为人知的第三方截图工具之一，界面清晰、功能全面，可以一站式满足标注、打码、贴图等多种需求。</p>
+<h3 id="录屏">录屏</h3>
+<figure data-type="image" tabindex="13"><img src="https://cdn.sspai.com/2020/03/16/af9d437a3a3267fbeb4c91313e8da059.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p><a href="https://getsharex.com/">ShareX</a> 是一个专注于上传和分享的、附加功能非常丰富的工具包。我用到的是仅仅是它基于 ffmpeg 的录屏功能。</p>
+<p>其实用它就可以完成截图、录屏、上传的一条龙工作流，并且支持的上传目的地非常丰富，囊括了各大相册、网盘、分享平台等等。</p>
+<figure data-type="image" tabindex="14"><img src="https://cdn.sspai.com/2020/03/16/51b0e487cd363d4279666d1131c45e1f.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>ShareX 的功能</p>
+<figure data-type="image" tabindex="15"><img src="https://cdn.sspai.com/2020/03/16/2389b585098498aa6b0dced4f35a6a7b.gif?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>上传目的地非常丰富</p>
+<h3 id="录制动图">录制动图</h3>
+<figure data-type="image" tabindex="16"><img src="https://cdn.sspai.com/2020/03/16/793b13f89058bfa5341d17f774c44449.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>在尝试了多个录制 Gif 的应用之后，参考 选择了 <a href="https://www.cockos.com/licecap/">LICEcap</a>，重在方便，选好帧率、窗口一拉，就可以开始录，生成的文件也非常小。美中不足的地方在于，录制的窗口无法固定长宽比例，如果想保证 4:3、16:9 等画面，只能通过手动修改像素值来实现。而且无法一键操作，录屏的窗口处于打开状态时有些碍手碍脚。</p>
+<h2 id="用所选项目新建文件夹">用所选项目新建文件夹</h2>
+<figure data-type="image" tabindex="17"><img src="https://cdn.sspai.com/2020/03/16/526756295dabb48ba3b3babb7def81d0.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>将 <a href="http://www.dcmembers.com/skwire/download/files-2-folder/">Files2Folder</a> 下载下来后，简简单单用管理员权限运行一下即可。使用时右键上下文菜单就会出现一行 Files 2 Folder，点击即可实现「用所选项目新建文件夹」的功能。</p>
+<figure data-type="image" tabindex="18"><img src="https://cdn.sspai.com/2020/03/14/c4ad22c42704c85d5a56112a044775ae.gif?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>用所选项目新建文件夹</p>
+<h2 id="双击压缩文件来解压">双击压缩文件来解压</h2>
+<figure data-type="image" tabindex="19"><img src="https://cdn.sspai.com/2020/03/16/cf59cb690c2b6534d9648d10756512ae.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>在 macOS 中，双击压缩文件可以自动解压，而在 Windows 中则不会。已经 2020 年，相信应该有越来越多的人放弃了 7Zip 甚至更老的 WinRar，转而使用 <a href="https://cn.bandisoft.com/bandizip/">Bandizip</a>。不过 Bandizip 有一项很方便的小功能值得一试：</p>
+<figure data-type="image" tabindex="20"><img src="https://cdn.sspai.com/2020/03/14/8f826d9f5264fb5441e9581bc6323aa5.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="21"><img src="https://cdn.sspai.com/2020/03/14/a8639e70c60582cb723d4cf029e058bc.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>经过如图设置后，双击压缩包即可自动解压缩，并在新窗口中弹出解压缩后的目录，非常方便。</p>
+<h2 id="在桌面显示驱动器的快捷方式">在桌面显示驱动器的快捷方式</h2>
+<figure data-type="image" tabindex="22"><img src="https://cdn.sspai.com/2020/03/19/89c305010d442a2ec2bb23fffaac7ba8.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>「在桌面显示驱动器的快捷方式」是 macOS 中一个不起眼的小特性，可以用 <a href="https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Desktop-Media.shtml">Desktop Media</a> 实现。在插入 U 盘或移动硬盘之后，会在桌面出现它的图标。本地硬盘的图标默认也会显示，可以手动隐藏。</p>
+<figure data-type="image" tabindex="23"><img src="https://cdn.sspai.com/2020/03/14/7efd5409aed355ba4a3007ba672a3bf8.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<h2 id="包管理器">包管理器</h2>
+<figure data-type="image" tabindex="24"><img src="https://cdn.sspai.com/2020/03/16/cf6fedd6f781abfe8b3ea5de6d3dc568.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>与 Homebrew 一样，Windows 上也有可用的包管理器：<a href="https://chocolatey.org/install">Chocolatey</a>。这是我在偶然的情况下得知的，虽然自己不一定用得上，但是不妨碍我把它拿出来分享一下。它可以用来统一安装和管理应用，类似于类 Unix 系统中的 yum 和 APT。</p>
+<h2 id="其他特性">其他特性</h2>
+<p>除了上述的几个之外，还有许多特性暂时没有去尝试。</p>
+<ul>
+<li>
+<p>Launchpad：Windows 的开始菜单与之类似，感觉再大费周章去模仿就是「得其形而忘其意」了，故放弃。</p>
+</li>
+<li>
+<p>标签：「标签」是 macOS 的文件管理理念区别于 Windows 的显著特点，要在 Windows 上实现这种无米之炊并不是太容易。</p>
+</li>
+<li>
+<p>此外 <a href="https://github.com/Dijji/FileMeta/releases">FileMeta</a> 可以通过修改文件元数据的方式，将标签作为一个子项打入文件的元数据中，这种方法基于的是 NTFS 文件系统的特性，也就是说离开了 NTFS 硬盘，标签信息就会丢失。</p>
+</li>
+<li>
+<p>然而毕竟前文说过，WTG 是我的临时替代品，没有存放太多文件，也就没再在标签上大费周章，故放弃。</p>
+</li>
+<li>
+<p>Mission Control：这个功能还是非常想实现的，毕竟 Windows 的任务视图比起它来还是差点意思，窗口大小一样，而且都很小，大块的位置留给了「近期文件」。不过很遗憾，并没有找到合适的方案。</p>
+</li>
+<li>
+<p>文件历史记录：这项功能并非 macOS 独占，Windows 也是有的。不过就我身边而言，连知道它的人都很少，更别说用了。这项功能在「控制面板」中，需要注意的是，备份驱动器和文件所在的驱动器不能相同，否则就无法继续。当然，在局域网已经很发达的 2020 年，也可以考虑用网络驱动器来实现，这我就不去尝试了。</p>
+</li>
+</ul>
+<figure data-type="image" tabindex="25"><img src="https://cdn.sspai.com/2020/03/14/3a3bd279cbd6d0b6daaa5166e172aca3.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="26"><img src="https://cdn.sspai.com/2020/03/14/94917193f1e84df1012483ab30b8b7cb.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" loading="lazy"></figure>
+<p>备份驱动器和文件所在的驱动器不能相同</p>
+<blockquote>
+<p>这里由于时间关系，我就不展开讲了，感兴趣的同学可以下课之后自己试一试。</p>
+</blockquote>
+<ul>
+<li>批量修改文件名：macOS 将其整合进了系统功能，Windows 上如果要去实现，就是「用特定应用满足特定需求」的话题了，不在本文讨论的范围之内。不过方案也是有的，我一直使用 <a href="https://www.advancedrenamer.com/download">AdvancedRenamer</a>，谁用谁说好。</li>
+<li>可能还有其他被我忽略的特性，欢迎补充。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像 Chrome 一样给 Word 装上插件，让它用起来更顺手]]></title>
         <id>https://hesy-zhoulijie.github.io/post/word-plugin/</id>

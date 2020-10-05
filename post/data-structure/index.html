@@ -1,0 +1,2469 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>数据结构百科全书 | 周立杰的博客</title>
+<meta name="description" content="欢迎来到周立杰的博客
+<a href="sweepy.cnblogs.com">博客园链接</a>" />
+<link rel="shortcut icon" href="https://hesy-zhoulijie.github.io/favicon.ico">
+<link rel="stylesheet" href="https://hesy-zhoulijie.github.io/styles/main.css">
+
+<script src="https://hesy-zhoulijie.github.io/media/js/jquery.min.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/masonry.pkgd.min.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/aos.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/pace.min.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/view-image.min.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/jquery.magnific-popup.min.js"></script>
+<script src="https://hesy-zhoulijie.github.io/media/js/functions.js"></script>
+    <meta name="referrer" content="never">
+    <meta name="description" content="数据结构
+整理不易，全文比较长，而且有很多的代码段，建议收藏。
+
+[toc]
+vector (动态数组) 的使用`
+文件名
+vector.cpp
+分数
+1
+
+初始化代码
+#include &lt;iostream&gt;
+using nam..." />
+    <meta name="keywords" content="C++" />
+    <script src="https://hesy-zhoulijie.github.io/media/js/waterfall.min.js"></script>
+    <script src="https://hesy-zhoulijie.github.io/media/js/prism.min.js"></script>
+  </head>
+  <body>
+            <header id="header" class="grid-container">
+        <!-- start: .menu-wrapper -->
+        <div class="menu-mobile"> 
+          <i class="fa fa-reorder"></i>
+        </div>
+        <div class="menu-wrapper">
+          <div class="">
+            <div class="logo">
+              <a href="https://hesy-zhoulijie.github.io"><img src="" alt=""></a>
+            </div>
+            <!-- start: .main-nav -->
+
+            <nav class="main-nav grid-container grid-parent">
+              <ul id="menu-header" class="menu gradient-effect">
+                <li class=""><a href="https://hesy-zhoulijie.github.io" class="menu">首页</a></li>
+                
+                  <li class="" >
+                    <a href="/" class="menu">
+                      首页
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/archives" class="menu">
+                      归档
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/tags" class="menu">
+                      标签
+                    </a>
+                  </li>
+                
+                  <li class="" >
+                    <a href="/post/about" class="menu">
+                      关于
+                    </a>
+                  </li>
+                
+                <li class="search-menu-item hide-on-mobile hide-on-tablet"><a href="#search-lightbox" class="lightbox mfp-inline"><i class="fa fa-search-line"></i></a></li>
+              </ul>
+            </nav>
+            <a href="#search-lightbox" class="lightbox epcl-search-button mfp-inline hide-on-tablet hide-on-desktop"><i class="fa fa-search-line"></i></a>
+            <!-- end: .main-nav -->
+            <div class="clear"></div>
+            <div class="border hide-on-tablet hide-on-mobile"></div>
+          </div>    
+          <div class="clear"></div>
+        </div>
+        <!-- end: .menu-wrapper -->
+        <div class="clear"></div>
+      </header>
+      <div class="hide-on-mobile hide-on-tablet hide-on-desktop">
+        <div id="search-lightbox" class="grid-container grid-small grid-parent mfp-hide">
+          <div class="search-wrapper section">
+            <form id="gridea-search-form" data-update="1601875674406" action="/search/index.html" class="search-form" _lpchecked="1">
+              <input type="text" name="q" id="s" value="" class="search-field" placeholder="搜点啥..." aria-label="搜点啥..." required="">
+              <button type="submit" class="submit" aria-label="Submit">
+                <i class="fa fa-search-line"></i>
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <main id="single" class="main grid-container fullcover no-sidebar aos-init aos-animate" data-aos="fade">
+
+        <div class="center content">
+          <div class="featured-image cover" style="background-image: url('https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2502020158,2629482519&amp;fm=26&amp;gp=0.jpg');">
+            <div class="meta top"> 
+              <time class="meta-info" style="float:left;" datetime="2020-10-05"><i class="fa fa-calendar"></i><span class="lately">12 分钟前</span></time>
+              
+            </div>
+            <div class="info">
+              <div class="tags ">
+                
+                      <a href="https://hesy-zhoulijie.github.io/tag/aIcztpL89/" class="ctag ctag-0 ctag-aIcztpL89" aria-label="">C++</a>
+                    
+              </div>
+              <h1 class="title ularge white bold">数据结构百科全书</h1>
+            </div>
+          </div>
+        </div>  
+
+        <div class="epcl-page-wrapper">
+          <div class="left-content grid-70 np-mobile">
+            <article class="main-article post">
+              <section class="post-content">
+                <div class="text">
+                  <h1 id="数据结构">数据结构</h1>
+<p>整理不易，全文比较长，而且有很多的代码段，建议收藏。</p>
+<!-- more -->
+<p>[toc]</p>
+<h2 id="vector-动态数组-的使用">vector (动态数组) 的使用`</h2>
+<h3 id="文件名">文件名</h3>
+<p>vector.cpp</p>
+<h3 id="分数">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步">第一步</h3>
+<h4 id="讲解">讲解</h4>
+<p>首先我们引入需要的头文件<code>vector</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;vector&gt;
+</code></pre>
+<h4 id="代码">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步">第二步</h3>
+<h4 id="讲解-2">讲解</h4>
+<p>首先我们学习如何使用一维的<code>vector</code>。</p>
+<p>在<code>main</code>函数里面通过<code>vector&lt;int&gt; v</code>来定义一个储存整数的空的<code>vector</code>。当然<code>vector</code>可以存任何类型的数据，比如<code>vector&lt;string&gt; v</code>等等。在本课中我们用 int 来举例。</p>
+<pre><code class="language-c++">vector&lt;int&gt; v;
+</code></pre>
+<h4 id="提示">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-2">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步">第三步</h3>
+<h4 id="讲解-3">讲解</h4>
+<p>我们把 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 到 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>10</mn></mrow><annotation encoding="application/x-tex">10</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span></span></span></span> 的平方依次存到<code>vector</code>。<br>
+在刚才的定义下面写下</p>
+<pre><code class="language-c++">for (int i = 1; i &lt;= 10; ++i) {
+    v.push_back(i * i);
+}
+</code></pre>
+<h4 id="提示-2">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-3">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步">第四步</h3>
+<h4 id="讲解-4">讲解</h4>
+<p>然后依次输出我们刚才压入<code>vector</code>的值。继续写下</p>
+<pre><code class="language-c++">for (int i = 0; i &lt; v.size(); ++i) {
+    cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+}
+cout &lt;&lt; endl;
+</code></pre>
+<h4 id="提示-3">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-4">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步">第五步</h3>
+<h4 id="讲解-5">讲解</h4>
+<p>到这里，里可以点击<strong>运行</strong>看看效果。</p>
+<p>接下来我们学习二维的<code>vector</code>的使用。二维的<code>vector</code>就是一个<code>vector</code>里面在套一个<code>vector</code>。通过如下的代码定义一个空的二维的<code>vector</code>。在刚才的输出代码后面继续写下，<strong>特别注意：里面的<code>vector&lt;int&gt;</code>后面有一个空格，这个空格不能到少，因为在没有开启 c++11 的情况下，会被识别成一个<code>&gt;&gt;</code></strong>。</p>
+<pre><code class="language-c++">vector&lt;vector&lt;int&gt; &gt; v2d;
+</code></pre>
+<h4 id="提示-4">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-5">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第六步">第六步</h3>
+<h4 id="讲解-6">讲解</h4>
+<p>接下来我们给第一维赋值，第一维是一个一维的<code>vector</code>，在定义后面写下：</p>
+<pre><code class="language-c++">for (int i = 0; i &lt; 5; ++i) {
+    v2d.push_back(vector&lt;int&gt;());
+}
+</code></pre>
+<h4 id="提示-5">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-6">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第七步">第七步</h3>
+<h4 id="讲解-7">讲解</h4>
+<p>我们让第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>i</mi></mrow><annotation encoding="application/x-tex">i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathdefault">i</span></span></span></span> 行第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>j</mi></mrow><annotation encoding="application/x-tex">j</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.85396em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span></span></span></span> 列的元素的值为 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>i</mi><mo>∗</mo><mi>j</mi></mrow><annotation encoding="application/x-tex">i*j</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathdefault">i</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.85396em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span></span></span></span>。继续写下下面的代码：</p>
+<pre><code class="language-c++">for (int i = 0; i &lt; v2d.size(); ++i) {
+    for (int j = 0; j &lt; 5; ++j) {
+        v2d[i].push_back(i * j);
+    }
+}
+</code></pre>
+<h4 id="提示-6">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; 5; ++j) {
+            v2d[i].push_back(i * j);
+        }
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-7">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; 5; ++j) {
+            v2d[i].push_back(i * j);
+        }
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第八步">第八步</h3>
+<h4 id="讲解-8">讲解</h4>
+<p>然后我们输出一个 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>5</mn></mrow><annotation encoding="application/x-tex">5</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">5</span></span></span></span> 行 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>5</mn></mrow><annotation encoding="application/x-tex">5</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">5</span></span></span></span> 列的矩阵。</p>
+<pre><code class="language-c++">for (int i = 0; i &lt; v2d.size(); ++i) {
+    for (int j = 0; j &lt; v2d[i].size(); ++j) {
+        cout &lt;&lt; v2d[i][j] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+}
+</code></pre>
+<h4 id="提示-7">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; 5; ++j) {
+            v2d[i].push_back(i * j);
+        }
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; v2d[i].size(); ++j) {
+            cout &lt;&lt; v2d[i][j] &lt;&lt; &quot; &quot;;
+        }
+        cout &lt;&lt; endl;
+    }
+    return 0;
+}
+</code></pre>
+<h4 id="代码-8">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;vector&gt;
+using namespace std;
+int main() {
+    vector&lt;int&gt; v;
+    for (int i = 1; i &lt;= 10; ++i) {
+        v.push_back(i * i);
+    }
+    for (int i = 0; i &lt; v.size(); ++i) {
+        cout &lt;&lt; v[i] &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    vector&lt;vector&lt;int&gt; &gt; v2d;
+    for (int i = 0; i &lt; 5; ++i) {
+        v2d.push_back(vector&lt;int&gt;());
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; 5; ++j) {
+            v2d[i].push_back(i * j);
+        }
+    }
+    for (int i = 0; i &lt; v2d.size(); ++i) {
+        for (int j = 0; j &lt; v2d[i].size(); ++j) {
+            cout &lt;&lt; v2d[i][j] &lt;&lt; &quot; &quot;;
+        }
+        cout &lt;&lt; endl;
+    }
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果。</p>
+<p>聪明的你一定学会了<code>vector</code>怎么用了。</p>
+<h2 id="set-配对-的使用">set (配对) 的使用`</h2>
+<h3 id="文件名-2">文件名</h3>
+<p>set.cpp</p>
+<h3 id="分数-2">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-2">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-2">第一步</h3>
+<h4 id="讲解-9">讲解</h4>
+<p>首先我们引入需要的头文件<code>set</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;set&gt;
+</code></pre>
+<h4 id="代码-9">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-2">第二步</h3>
+<h4 id="讲解-10">讲解</h4>
+<p>首先我们学习如何创建一个<code>set</code>。</p>
+<p>在<code>main</code>函数里面通过<code>set&lt;string&gt; country</code>来定义一个储存字符串的空的<code>set</code>。当然<code>set</code>可以存任何类型的数据，比如<code>set&lt;int&gt; s</code>等等。在本课中我们用 string 来举例。</p>
+<pre><code class="language-c++">set&lt;string&gt; country;
+</code></pre>
+<h4 id="提示-8">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-10">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-2">第三步</h3>
+<h4 id="讲解-11">讲解</h4>
+<p>我们把<code>China</code> <code>America</code> <code>France</code>依次插入到<code>set</code>。<br>
+在刚才的定义下面写下</p>
+<pre><code class="language-c++">country.insert(&quot;China&quot;);
+country.insert(&quot;America&quot;);
+country.insert(&quot;France&quot;);
+</code></pre>
+<h4 id="提示-9">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-11">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-2">第四步</h3>
+<h4 id="讲解-12">讲解</h4>
+<p>然后依次输出我们刚才插入<code>set</code>的字符串。继续写下</p>
+<pre><code class="language-c++">set&lt;string&gt;::iterator it;
+for (it = country.begin(); it != country.end(); ++it) {
+    cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+}
+cout &lt;&lt; endl;
+</code></pre>
+<h4 id="提示-10">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-12">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-2">第五步</h3>
+<h4 id="讲解-13">讲解</h4>
+<p>到这里，里可以点击<strong>运行</strong>看看效果。<br>
+可以发现我们刚才插入的字符串按照字典序排列好了。</p>
+<p>接下来我们学习<code>set</code>的删除操作。</p>
+<pre><code class="language-c++">country.erase(&quot;American&quot;);
+country.erase(&quot;England&quot;);
+</code></pre>
+<h4 id="提示-11">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-13">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第六步-2">第六步</h3>
+<h4 id="讲解-14">讲解</h4>
+<p>接下来我们统计<code>set</code>中<code>China</code>字符串的个数</p>
+<pre><code class="language-c++">if (country.count(&quot;China&quot;)) {
+    cout &lt;&lt; &quot;China in country.&quot; &lt;&lt; endl;
+}
+</code></pre>
+<h4 id="提示-12">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+    if (country.count(&quot;China&quot;)) {
+        cout &lt;&lt; &quot;China in country.&quot; &lt;&lt; endl;
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-14">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+    if (country.count(&quot;China&quot;)) {
+        cout &lt;&lt; &quot;China in country.&quot; &lt;&lt; endl;
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第七步-2">第七步</h3>
+<h4 id="讲解-15">讲解</h4>
+<p>最后我们将使用完成的<code>set</code>清空。继续写下下面的代码：</p>
+<pre><code class="language-c++">country.clear();
+</code></pre>
+<h4 id="提示-13">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+    if (country.count(&quot;China&quot;)) {
+        cout &lt;&lt; &quot;China in country.&quot; &lt;&lt; endl;
+    }
+    country.clear();
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-15">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;set&gt;
+using namespace std;
+int main() {
+    set&lt;string&gt; country;
+    country.insert(&quot;China&quot;);
+    country.insert(&quot;America&quot;);
+    country.insert(&quot;France&quot;);
+    set&lt;string&gt;::iterator it;
+    for (it = country.begin(); it != country.end(); ++it) {
+        cout &lt;&lt; * it  &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    country.erase(&quot;American&quot;);
+    country.erase(&quot;England&quot;);
+    if (country.count(&quot;China&quot;)) {
+        cout &lt;&lt; &quot;China in country.&quot; &lt;&lt; endl;
+    }
+    country.clear();
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-2">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果。</p>
+<p>聪明的你一定学会了<code>set</code>怎么用了。</p>
+<h2 id="map-字典-的使用">map (字典) 的使用`</h2>
+<h3 id="文件名-3">文件名</h3>
+<p>map.cpp</p>
+<h3 id="分数-3">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-3">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-3">第一步</h3>
+<h4 id="讲解-16">讲解</h4>
+<p>首先我们引入需要的头文件<code>map</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;map&gt;
+#include &lt;string&gt;
+</code></pre>
+<h4 id="代码-16">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;map&gt;
+#include &lt;string&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-3">第二步</h3>
+<h4 id="讲解-17">讲解</h4>
+<p>首先我们学习如何创建一个<code>map</code>。</p>
+<p>在<code>main</code>函数里面通过<code>map&lt;string, int&gt; dict</code>来定义一个<code>key:value</code>映射关系的空的<code>map</code>。当然<code>map</code>可以存任何类型的数据，比如<code>map&lt;int, int&gt; m</code>等等。在本课中我们用<code>string:int</code>来举例。</p>
+<pre><code class="language-c++">map&lt;string, int&gt; dict;
+</code></pre>
+<h4 id="提示-14">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-17">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-3">第三步</h3>
+<h4 id="讲解-18">讲解</h4>
+<p>我们把<code>Tom</code> <code>Jone</code> <code>Mary</code>依次插入到<code>map</code>并一一对应的赋值。<br>
+在刚才的定义下面写下</p>
+<pre><code class="language-c++">dict[&quot;Tom&quot;] = 1;
+dict[&quot;Jone&quot;] = 2;
+dict[&quot;Mary&quot;] = 1;
+</code></pre>
+<h4 id="提示-15">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-18">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-3">第四步</h3>
+<h4 id="讲解-19">讲解</h4>
+<p>接下来我们查看<code>map</code>中<code>Mary</code>对应的value值，先判断一下<code>map</code>中是否有<code>Mary</code>。继续写下</p>
+<pre><code class="language-c++">if (dict.count(&quot;Mary&quot;)) {
+    cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+}
+</code></pre>
+<h4 id="提示-16">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-19">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-3">第五步</h3>
+<h4 id="讲解-20">讲解</h4>
+<p>到这里，里可以点击<strong>运行</strong>看看效果。</p>
+<p>接下来我们学习<code>map</code>的遍历操作。</p>
+<pre><code class="language-c++">for (map&lt;string, int&gt;::iterator it = dict.begin(); it != dict.end(); ++it) {
+    cout &lt;&lt; it-&gt;first &lt;&lt; &quot; is in class &quot; &lt;&lt; it-&gt;second &lt;&lt; endl;
+}
+</code></pre>
+<h4 id="提示-17">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+    for (map&lt;string, int&gt;::iterator it = dict.begin(); it != dict.end(); ++it) {
+        cout &lt;&lt; it-&gt;first &lt;&lt; &quot; is in class &quot; &lt;&lt; it-&gt;second &lt;&lt; endl;
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-20">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+    for (map&lt;string, int&gt;::iterator it = dict.begin(); it != dict.end(); ++it) {
+        cout &lt;&lt; it-&gt;first &lt;&lt; &quot; is in class &quot; &lt;&lt; it-&gt;second &lt;&lt; endl;
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第六步-3">第六步</h3>
+<h4 id="讲解-21">讲解</h4>
+<p>到这里，里可以点击<strong>运行</strong>看看效果。<br>
+可以发现<code>map</code>里的key字符串按照字典序排列好了。</p>
+<p>最后我们再清空<code>map</code></p>
+<pre><code class="language-c++">dict.clear();
+</code></pre>
+<h4 id="提示-18">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+    for (map&lt;string, int&gt;::iterator it = dict.begin(); it != dict.end(); ++it) {
+        cout &lt;&lt; it-&gt;first &lt;&lt; &quot; is in class &quot; &lt;&lt; it-&gt;second &lt;&lt; endl;
+    }
+    dict.clear();
+    return 0;
+}
+</code></pre>
+<h4 id="代码-21">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+int main() {
+    map&lt;string, int&gt; dict;
+    dict[&quot;Tom&quot;] = 1;
+    dict[&quot;Jone&quot;] = 2;
+    dict[&quot;Mary&quot;] = 1;
+    if (dict.count(&quot;Mary&quot;)) {
+        cout &lt;&lt; &quot;Mary is in class &quot; &lt;&lt; dict[&quot;Mary&quot;];
+    }
+    for (map&lt;string, int&gt;::iterator it = dict.begin(); it != dict.end(); ++it) {
+        cout &lt;&lt; it-&gt;first &lt;&lt; &quot; is in class &quot; &lt;&lt; it-&gt;second &lt;&lt; endl;
+    }
+    dict.clear();
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-3">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果。</p>
+<p>聪明的你一定学会了<code>map</code>怎么用了。</p>
+<h2 id="stack-栈-的使用">stack (栈) 的使用`</h2>
+<h3 id="文件名-4">文件名</h3>
+<p>stack.cpp</p>
+<h3 id="分数-4">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-4">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-4">第一步</h3>
+<h4 id="讲解-22">讲解</h4>
+<p>首先我们引入需要的头文件<code>stack</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;stack&gt;
+</code></pre>
+<h4 id="代码-22">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-4">第二步</h3>
+<h4 id="讲解-23">讲解</h4>
+<p>首先我们学习如何使用<code>stack</code>。</p>
+<p>在<code>main</code>函数上方通过<code>stack&lt;int&gt; S</code>来定义一个全局栈来储存整数的空的<code>stack</code>。当然<code>stack</code>可以存任何类型的数据，比如<code>stack&lt;string&gt; S</code>等等。在本课中我们用 int 来举例。</p>
+<pre><code class="language-c++">stack&lt;int&gt; S;
+</code></pre>
+<h4 id="提示-19">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-23">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-4">第三步</h3>
+<h4 id="讲解-24">讲解</h4>
+<p>我们把<code>1</code> <code>10</code> <code>7</code>三个数依次存到<code>stack</code>。<br>
+在<code>main</code>函数里写下</p>
+<pre><code class="language-c++">S.push(1);
+S.push(10);
+S.push(7);
+</code></pre>
+<h4 id="提示-20">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-24">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-4">第四步</h3>
+<h4 id="讲解-25">讲解</h4>
+<p>然后我们判断一下<code>stack</code>的是否为空。继续写下</p>
+<pre><code class="language-c++">while (!S.empty()) {
+
+}
+</code></pre>
+<h4 id="提示-21">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+    while (!S.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-25">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+    while (!S.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-4">第五步</h3>
+<h4 id="讲解-26">讲解</h4>
+<p>如果<code>stack</code>不为空，我们将<code>stack</code>里的数依次取出来，在<code>while</code>里继续写下</p>
+<pre><code class="language-c++">cout &lt;&lt; S.top() &lt;&lt; endl;
+S.pop();
+</code></pre>
+<h4 id="提示-22">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+    while (!S.empty()) {
+      cout &lt;&lt; S.top() &lt;&lt; endl;
+      S.pop();
+    }
+    return 0;
+}
+</code></pre>
+<h4 id="代码-26">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;stack&gt;
+using namespace std;
+stack&lt;int&gt; S;
+int main() {
+    S.push(1);
+    S.push(10);
+    S.push(7);
+    while (!S.empty()) {
+      cout &lt;&lt; S.top() &lt;&lt; endl;
+      S.pop();
+    }
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-4">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果，可以发现<code>stack</code>有先进后出的特性。</p>
+<p>聪明的你一定学会了<code>stack</code>怎么用了。</p>
+<h2 id="queue-队列-的使用">queue (队列) 的使用`</h2>
+<h3 id="文件名-5">文件名</h3>
+<p>queue.cpp</p>
+<h3 id="分数-5">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-5">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-5">第一步</h3>
+<h4 id="讲解-27">讲解</h4>
+<p>首先我们引入需要的头文件<code>queue</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;queue&gt;
+</code></pre>
+<h4 id="代码-27">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-5">第二步</h3>
+<h4 id="讲解-28">讲解</h4>
+<p>首先我们学习如何使用<code>queue</code>。</p>
+<p>在<code>main</code>函数里面通过<code>queue&lt;int&gt; q</code>来定义一个储存整数的空的<code>queue</code>。当然<code>queue</code>可以存任何类型的数据，比如<code>queue&lt;string&gt; q</code>等等。在本课中我们用 int 来举例。</p>
+<pre><code class="language-c++">queue&lt;int&gt; q;
+</code></pre>
+<h4 id="提示-23">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-28">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-5">第三步</h3>
+<h4 id="讲解-29">讲解</h4>
+<p>我们把<code>1</code> <code>2</code> <code>3</code>三个数依次存到<code>queue</code>。<br>
+在<code>main</code>函数里写下</p>
+<pre><code class="language-c++">q.push(1);
+q.push(2);
+q.push(3);
+</code></pre>
+<h4 id="提示-24">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-29">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-5">第四步</h3>
+<h4 id="讲解-30">讲解</h4>
+<p>然后我们判断一下<code>queue</code>的是否为空。继续写下</p>
+<pre><code class="language-c++">while (!q.empty()) {
+
+}
+</code></pre>
+<h4 id="提示-25">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-30">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-5">第五步</h3>
+<h4 id="讲解-31">讲解</h4>
+<p>如果<code>queue</code>不为空，我们将<code>queue</code>里的数依次取出来，在<code>while</code>里继续写下</p>
+<pre><code class="language-c++">cout &lt;&lt; q.front() &lt;&lt; endl;
+q.pop();
+</code></pre>
+<h4 id="提示-26">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+        cout &lt;&lt; q.front() &lt;&lt; endl;
+        q.pop();
+    }
+    return 0;
+}
+</code></pre>
+<h4 id="代码-31">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+        cout &lt;&lt; q.front() &lt;&lt; endl;
+        q.pop();
+    }
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-5">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果，可以发现<code>queue</code>有先进先出的特性。</p>
+<p>聪明的你一定学会了<code>queue</code>怎么用了。</p>
+<h2 id="priority_queue-优先队列-的使用">priority_queue (优先队列) 的使用`</h2>
+<h3 id="文件名-6">文件名</h3>
+<p>priority_queue.cpp</p>
+<h3 id="分数-6">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-6">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-6">第一步</h3>
+<h4 id="讲解-32">讲解</h4>
+<p>首先我们引入需要的头文件<code>queue</code>，在代码头部写下</p>
+<pre><code class="language-c++">#include &lt;queue&gt;
+</code></pre>
+<h4 id="代码-32">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-6">第二步</h3>
+<h4 id="讲解-33">讲解</h4>
+<p>首先我们学习如何使用<code>priority_queue</code>。</p>
+<p>在<code>main</code>函数里面通过<code>priority_queue&lt;int&gt; q</code>来定义一个储存整数的空的<code>priority_queue</code>。当然<code>priority_queue</code>可以存任何类型的数据，比如<code>priority_queue&lt;string&gt; q</code>等等。在本课中我们用 int 来举例。</p>
+<pre><code class="language-c++">priority_queue&lt;int&gt; q;
+</code></pre>
+<h4 id="提示-27">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-33">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-6">第三步</h3>
+<h4 id="讲解-34">讲解</h4>
+<p>我们把<code>1</code> <code>2</code> <code>3</code>三个数依次存到<code>priority_queue</code>。<br>
+在<code>main</code>函数里写下</p>
+<pre><code class="language-c++">q.push(1);
+q.push(2);
+q.push(3);
+</code></pre>
+<h4 id="提示-28">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-34">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-6">第四步</h3>
+<h4 id="讲解-35">讲解</h4>
+<p>然后我们判断一下<code>priority_queue</code>的是否为空。继续写下</p>
+<pre><code class="language-c++">while (!q.empty()) {
+
+}
+</code></pre>
+<h4 id="提示-29">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-35">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+
+    }
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-6">第五步</h3>
+<h4 id="讲解-36">讲解</h4>
+<p>如果<code>priority_queue</code>不为空，我们将<code>priority_queue</code>里的数依次取出来，在<code>while</code>里继续写下</p>
+<pre><code class="language-c++">cout &lt;&lt; q.top() &lt;&lt; endl;
+q.pop();
+</code></pre>
+<h4 id="提示-30">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;priority_queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+        cout &lt;&lt; q.top() &lt;&lt; endl;
+        q.pop();
+    }
+    return 0;
+}
+</code></pre>
+<h4 id="代码-36">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+#include &lt;queue&gt;
+using namespace std;
+int main() {
+    priority_queue&lt;int&gt; q;
+    q.push(1);
+    q.push(2);
+    q.push(3);
+    while (!q.empty()) {
+        cout &lt;&lt; q.top() &lt;&lt; endl;
+        q.pop();
+    }
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-6">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果，可以发现<code>priority_queue</code>会自动从大到小排好序。</p>
+<p>聪明的你一定学会了<code>priority_queue</code>怎么用了。</p>
+<h2 id="disjoint-并查集-的使用">disjoint (并查集) 的使用`</h2>
+<h3 id="文件名-7">文件名</h3>
+<p>disjoint.cpp</p>
+<h3 id="分数-7">分数</h3>
+<p>1</p>
+<hr>
+<h3 id="初始化代码-7">初始化代码</h3>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第一步-7">第一步</h3>
+<h4 id="讲解-37">讲解</h4>
+<p>首先我们需要定义节点个数<code>n</code>，<code>father</code>父节点数组，<code>dist</code>距离数组，<code>size</code>权值数组，在<code>main</code>函数上方写下</p>
+<pre><code class="language-c++">int father[110], n;
+int dist[110], size[110];
+</code></pre>
+<h4 id="代码-37">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+int main() {
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第二步-7">第二步</h3>
+<h4 id="讲解-38">讲解</h4>
+<p>然后对这些数组进行初始化。在<code>main</code>函数里写下</p>
+<pre><code class="language-c++">n = 10;
+init();
+</code></pre>
+<h4 id="提示-31">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+int main() {
+    n = 10;
+    init();
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-38">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+int main() {
+    n = 10;
+    init();
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第三步-7">第三步</h3>
+<h4 id="讲解-39">讲解</h4>
+<p>接下来具体实现<code>init</code>函数。继续在<code>main</code>函数上面写下</p>
+<pre><code class="language-c++">void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+</code></pre>
+<h4 id="提示-32">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int main() {
+    n = 10;
+    init();
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-39">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int main() {
+    n = 10;
+    init();
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第四步-7">第四步</h3>
+<h4 id="讲解-40">讲解</h4>
+<p>现在开始学习并查集的<code>merge</code>操作，我们将<code>1</code>和<code>2</code>、<code>10</code>和<code>7</code>、<code>3</code>和<code>4</code>、<code>3</code>和<code>7</code>合并。在<code>main</code>函数里继续写下</p>
+<pre><code class="language-c++">merge(1, 2);
+merge(10, 7);
+merge(3, 4);
+merge(3, 7);
+</code></pre>
+<h4 id="提示-33">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-40">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第五步-7">第五步</h3>
+<h4 id="讲解-41">讲解</h4>
+<p>接下来我们具体实现<code>merge</code>函数。在<code>main</code>上方继续写下</p>
+<pre><code class="language-c++">void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+</code></pre>
+<h4 id="提示-34">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-41">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第六步-4">第六步</h3>
+<h4 id="讲解-42">讲解</h4>
+<p>接下来我们查找<code>1</code>所在集合的根节点并输出<code>1</code>到根节点的距离<code>dist</code>。在<code>main</code>函数里继续写下</p>
+<pre><code class="language-c++">get(1); // 一定要先 get，可能没有直接连接根节点
+cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+</code></pre>
+<h4 id="提示-35">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-42">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第七步-3">第七步</h3>
+<h4 id="讲解-43">讲解</h4>
+<p>我们接着实现<code>get</code>函数。在<code>merge</code>函数上方继续写下</p>
+<pre><code class="language-c++">int get(int x) {
+    if (father[x] == x) {
+        return x;
+    }
+    int y = father[x];
+    father[x] = get(y);
+    dist[x] += dist[y];
+    return father[x];
+}
+</code></pre>
+<h4 id="提示-36">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int get(int x) {
+    if (father[x] == x) {
+        return x;
+    }
+    int y = father[x];
+    father[x] = get(y);
+    dist[x] += dist[y];
+    return father[x];
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<h4 id="代码-43">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int get(int x) {
+    if (father[x] == x) {
+        return x;
+    }
+    int y = father[x];
+    father[x] = get(y);
+    dist[x] += dist[y];
+    return father[x];
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="第八步-2">第八步</h3>
+<h4 id="讲解-44">讲解</h4>
+<p>到这里，里可以点击<strong>运行</strong>看看效果。</p>
+<p>接下来我们查找<code>3</code>所在集合的根节点并输出<code>3</code>到根节点的距离<code>dist</code>。在<code>main</code>函数里继续写下</p>
+<pre><code class="language-c++">get(3);
+cout &lt;&lt; dist[3] + 1 &lt;&lt; endl;
+</code></pre>
+<h4 id="提示-37">提示</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int get(int x) {
+    if (father[x] == x) {
+        return x;
+    }
+    int y = father[x];
+    father[x] = get(y);
+    dist[x] += dist[y];
+    return father[x];
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+    get(3);
+    cout &lt;&lt; dist[3] + 1 &lt;&lt; endl;
+    return 0;
+}
+</code></pre>
+<h4 id="代码-44">代码</h4>
+<pre><code class="language-c++">#include &lt;iostream&gt;
+using namespace std;
+int father[110], n;
+int dist[110], size[110];
+
+void init() {
+    for (int i = 1; i &lt;= n; ++i) {
+        father[i] = i, dist[i] = 0, size[i] = 1;
+    }
+}
+int get(int x) {
+    if (father[x] == x) {
+        return x;
+    }
+    int y = father[x];
+    father[x] = get(y);
+    dist[x] += dist[y];
+    return father[x];
+}
+void merge(int a, int b) {
+    a = get(a);
+    b = get(b);
+    if (a != b) {
+        father[a] = b;
+        dist[a] = size[b];
+        size[b] += size[a];
+    }
+}
+int main() {
+    n = 10;
+    init();
+    merge(1, 2);
+    merge(10, 7);
+    merge(3, 4);
+    merge(3, 7);
+    get(1); // 一定要先 get，可能没有直接连接根节点
+    cout &lt;&lt; dist[1] + 1 &lt;&lt; endl;
+    get(3);
+    cout &lt;&lt; dist[3] + 1 &lt;&lt; endl;
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="完成讲解-7">完成讲解</h3>
+<p>这一节已经完成了，赶紧运行看看效果。</p>
+<p>聪明的你一定学会了<code>disjoint</code>怎么用了。</p>
+<h2 id="队列">队列`</h2>
+<h3 id="简介">简介</h3>
+<p>队列是一种特殊的线性表，特殊之处在于它只允许在表的前端（front）进行删除操作，而在表的后端（rear）进行插入操作，和栈一样，队列是一种操作受限制的线性表。进行插入操作的端称为队尾，进行删除操作的端称为队头。</p>
+<ul>
+<li>重要特性：元素先进先出</li>
+</ul>
+<h3 id="实现方式">实现方式</h3>
+<ul>
+<li>数组</li>
+<li>链表</li>
+<li>STL</li>
+</ul>
+<h3 id="标程">标程</h3>
+<pre><code class="language-cpp">#include &lt;cstdio&gt;
+#include &lt;queue&gt;
+#include &lt;algorithm&gt;
+using namespace std;
+
+struct Queue {
+    /* 数组实现 */
+    void Queue_Array() {
+        int q[1005] = {0};
+        int head = 0;
+        int tail = head;
+        q[tail++] = 1;
+        q[tail++] = 2;
+        q[tail++] = 3;
+        while (head &lt; tail) {
+            printf(&quot;%d\n&quot;, q[head]);
+            head++;
+        }
+    }
+
+    /* STL实现 */
+    void Queue_STL() {
+        queue&lt;int&gt; q;
+        q.push(1);
+        q.push(2);
+        q.push(3);
+        while (!q.empty()) {
+            printf(&quot;%d\n&quot;, q.front());
+            q.pop();
+        }
+    }
+}Q;
+
+int main() {
+    Q.Queue_Array();
+    Q.Queue_STL();
+    return 0;
+}
+
+</code></pre>
+<h2 id="单调队">单调队`</h2>
+<h3 id="简介-2">简介</h3>
+<p>单调队列，即单调递减或单调递增的队列。使用频率不高，但在有些程序中会有非同寻常的作用。</p>
+<ul>
+<li>重要特性：元素可以从两端进出</li>
+</ul>
+<p>实现方式</p>
+<ul>
+<li>数组</li>
+<li>链表</li>
+<li>STL</li>
+</ul>
+<p>deque的性质</p>
+<ul>
+<li>容器中间插入和删除效率很低</li>
+<li>与vector容器操作类似</li>
+</ul>
+<h3 id="例题">例题</h3>
+<ul>
+<li>题目链接：http://acm.hdu.edu.cn/showproblem.php?pid=4286</li>
+</ul>
+<p>题意：n个数字一开始排成一行，有两个指针L和R，指向了这串数字的一个区间的端点。<br>
+现在有7种操作</p>
+<ul>
+<li>使一个指针左移</li>
+<li>使一个指针右移</li>
+<li>在L后插入一个数字X</li>
+<li>在R前插入一个数字X</li>
+<li>删除L所指元素</li>
+<li>删除R所指元素</li>
+<li>翻转[L,R]区间</li>
+</ul>
+<p>Question：m次操作后，整串数字是什么样的？</p>
+<p>分析：如果区间L和R每一次都是任意范围的，那么肯定是平衡树问题。但是现在区间断点L和R每次只能左移一位或右移一位，那么可以将整串数字以L、R为中点分为三段，然后模拟这几种操作。但是翻转不能直接模拟，用一个标记来判断一下正反。</p>
+<h2 id="双端队列">双端队列`</h2>
+<h3 id="简介-3">简介</h3>
+<p>双端队列（deque，全名double-ended queue）是一个限定插入和删除操作的数据结构，具有队列和栈的性质。双端队列中的元素可以从两端弹出，其限定插入和删除操作在表的两端进行。<br>
+双端队列是限定插入和删除操作在表的两端进行的线性表。这两端分别称做端点1和端点2。也可像栈一样，可以用一个铁道转轨网络来比喻双端队列。</p>
+<ul>
+<li>重要特性：元素可以从两端进出</li>
+</ul>
+<p>实现方式</p>
+<ul>
+<li>数组</li>
+<li>链表</li>
+<li>STL</li>
+</ul>
+<p>deque的性质</p>
+<ul>
+<li>容器中间插入和删除效率很低</li>
+<li>与vector容器操作类似</li>
+</ul>
+<h3 id="例题-2">例题</h3>
+<ul>
+<li>题目链接：http://acm.hdu.edu.cn/showproblem.php?pid=4286</li>
+</ul>
+<p>题意：n个数字一开始排成一行，有两个指针L和R，指向了这串数字的一个区间的端点。<br>
+现在有7种操作</p>
+<ul>
+<li>使一个指针左移</li>
+<li>使一个指针右移</li>
+<li>在L后插入一个数字X</li>
+<li>在R前插入一个数字X</li>
+<li>删除L所指元素</li>
+<li>删除R所指元素</li>
+<li>翻转[L,R]区间</li>
+</ul>
+<p>Question：m次操作后，整串数字是什么样的？</p>
+<p>分析：如果区间L和R每一次都是任意范围的，那么肯定是平衡树问题。但是现在区间断点L和R每次只能左移一位或右移一位，那么可以将整串数字以L、R为中点分为三段，然后模拟这几种操作。但是翻转不能直接模拟，用一个标记来判断一下正反。</p>
+<h3 id="标程-2">标程</h3>
+<pre><code class="language-cpp">#include&lt;algorithm&gt;
+#include&lt;deque&gt;
+#include&lt;iostream&gt;
+using namespace std;
+
+int main() {
+    deque&lt;int&gt; dq;
+    dq.push_back(1);
+    dq.push_back(2);
+    dq.push_back(3);
+    dq.push_front(4);
+    dq.push_front(5);
+    dq.push_front(6);
+    dq.pop_back();
+    dq.pop_front();
+    deque&lt;int&gt;::iterator it;
+    for (it = dq.begin(); it != dq.end(); it++) {
+        cout &lt;&lt; *it &lt;&lt; &quot; &quot;;
+    }
+    cout &lt;&lt; endl;
+    return 0;
+}
+
+</code></pre>
+
+                </div>
+                <div class="clear"></div>
+              </section>
+            </article>
+            <div class="clear"></div>
+
+            <section class="related section">
+              
+              <article class="prev grid-50 tablet-grid-50 grid-parent">
+                <div class="thumb cover lazy loaded" style="background-image: url('https://hesy-zhoulijie.github.io/media/images/aIcztpL89.jpg');"></div>
+                 <a href="https://hesy-zhoulijie.github.io/post/cppauto/" class="full-link"></a>
+                 <div class="info">
+                  <time datetime="2020-10-05">2020-10-05</time>
+                  <h4 class="title white no-margin">C++ 关键字auto</h4>
+                </div>
+                 <span class="epcl-button red">
+                  <img src="https://hesy-zhoulijie.github.io/media/images/left-arrow.svg" width="15" alt="Left Arrow">
+                </span>
+                <div class="overlay"></div>
+              </article>
+              
+              
+              <article class="next grid-50 tablet-grid-50 grid-parent">
+                <div class="thumb cover lazy loaded" style="background-image: url('https://pic3.zhimg.com/dff39123dd69d894cb6206e81af6ea1a_b.jpg');"></div>
+                 <a href="https://hesy-zhoulijie.github.io/post/blackhole/" class="full-link"></a>
+                 <div class="info">
+                  <time datetime="2020-10-05">2020-10-05</time>
+                  <h4 class="title white no-margin">光一直以光速向前传播，可为何光逃离不了黑洞？</h4>
+                </div>
+                 <span class="epcl-button red">
+                  <img src="https://hesy-zhoulijie.github.io/media/images/right-arrow.svg" width="15" alt="Left Arrow">
+                </span>
+                <div class="overlay"></div>
+              </article>
+              
+
+                <div class="clear"></div>
+            </section>
+
+              <div class="clear"></div>
+              
+            
+              <div id="comments" class="bg-white hosted ">
+                <p>请到客户端“主题--自定义配置--valine”中填入ID和KEY</p>
+              </div>
+              <div class="clear"></div>
+            
+
+            </div>
+          </div>
+      </main>
+
+          <footer id="footer" class="grid-container">
+        <div class="widgets row gradient-effect">
+            <div class="default-sidebar border-effect">
+              <div class="grid-33 tablet-grid-50 mobile-grid-100">
+                <section id="tag_cloud-2" class="widget widget_epcl_posts_thumbs underline-effect">
+                  <h4 class="widget-title title white bordered">最新文章</h4>
+                  
+                  
+                  <article class="item post-0 post type-post status-publish format-standard has-post-thumbnail hentry">
+                    <a href="https://hesy-zhoulijie.github.io/post/yorgio/" class="thumb hover-effect">
+                      <span class="fullimage cover" style="display:block;border-radius:50%;background-image: url('https://i.loli.net/2020/08/03/sMoylfAg8DKFIOJ.png');"></span>
+                    </a>
+                    <div class="info gradient-effect">
+                      <time datetime="2020-10-05">2020-10-05</time>
+                      <h4 class="title usmall">
+                        <a href="https://hesy-zhoulijie.github.io/post/yorgio/">Yorg.io 进阶指南</a>
+                      </h4>
+                    </div>
+                    <div class="clear"></div>
+                  </article>
+                  
+                  
+                  
+                  <article class="item post-1 post type-post status-publish format-standard has-post-thumbnail hentry">
+                    <a href="https://hesy-zhoulijie.github.io/post/intlbrowser/" class="thumb hover-effect">
+                      <span class="fullimage cover" style="display:block;border-radius:50%;background-image: url('');"></span>
+                    </a>
+                    <div class="info gradient-effect">
+                      <time datetime="2020-10-05">2020-10-05</time>
+                      <h4 class="title usmall">
+                        <a href="https://hesy-zhoulijie.github.io/post/intlbrowser/">国外浏览器评测</a>
+                      </h4>
+                    </div>
+                    <div class="clear"></div>
+                  </article>
+                  
+                  
+                  
+                  <article class="item post-2 post type-post status-publish format-standard has-post-thumbnail hentry">
+                    <a href="https://hesy-zhoulijie.github.io/post/o2/" class="thumb hover-effect">
+                      <span class="fullimage cover" style="display:block;border-radius:50%;background-image: url('https://img2020.cnblogs.com/blog/2006459/202007/2006459-20200722144217257-1597748224.png');"></span>
+                    </a>
+                    <div class="info gradient-effect">
+                      <time datetime="2020-10-05">2020-10-05</time>
+                      <h4 class="title usmall">
+                        <a href="https://hesy-zhoulijie.github.io/post/o2/">C++ 编译优化</a>
+                      </h4>
+                    </div>
+                    <div class="clear"></div>
+                  </article>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <div class="clear"></div>
+                </section>
+              </div>
+
+              <div class="grid-33 tablet-grid-50 mobile-grid-100">
+                <section id="tag_cloud-2" class="widget widget_tag_cloud underline-effect">
+                  <h4 class="widget-title title white bordered">标签云</h4>
+                  <div class="tagcloud">
+                    
+                      <a href="https://hesy-zhoulijie.github.io/tag/OAFbfBfMr/" class="ctag ctag-0 ctag-OAFbfBfMr" aria-label="">搞事情</a>
+                    
+                      <a href="https://hesy-zhoulijie.github.io/tag/aIcztpL89/" class="ctag ctag-1 ctag-aIcztpL89" aria-label="">C++</a>
+                    
+                      <a href="https://hesy-zhoulijie.github.io/tag/F6Rb-uymL/" class="ctag ctag-2 ctag-F6Rb-uymL" aria-label="">技巧</a>
+                    
+                      <a href="https://hesy-zhoulijie.github.io/tag/tu5fjO3kp/" class="ctag ctag-3 ctag-tu5fjO3kp" aria-label="">资讯</a>
+                    
+                      <a href="https://hesy-zhoulijie.github.io/tag/YuQ3f5Ob8/" class="ctag ctag-4 ctag-YuQ3f5Ob8" aria-label="">Gridea</a>
+                    
+                  </div>
+                  <div class="clear"></div>
+                </section>
+              </div>
+
+              <div class="grid-33 tablet-grid-50 mobile-grid-100">
+                <section id="epcl_about-2" class="widget widget_epcl_about underline-effect">
+                  <h4 class="widget-title title white bordered">关于我</h4>
+                  <div class="avatar">
+                    <a href="" class="translate-effect thumb"><span class="fullimage cover" style="background-image: url(https://hesy-zhoulijie.github.io/images/avatar.png);"></span></a>
+                  </div>
+                  <div class="info">
+                    <h4 class="title small author-name gradient-effect no-margin"><a href="">周立杰的博客</a></h4>
+                    <p class="founder">欢迎来到周立杰的博客
+&lt;a href=&#34;sweepy.cnblogs.com&#34;&gt;博客园链接&lt;/a&gt;</p>
+                    <div class="social">
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                    </div> 
+                  </div>
+                  <div class="clear"></div>
+                  </section>
+              </div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <div class="logo">
+          <a href="https://hesy-zhoulijie.github.io"><img src="" alt=""></a>
+        </div>
+        <p class="published border-effect">
+          ©2019 共 35 篇文章
+          <br/>
+          Theme <a href="https://gridea.dev/" target="_blank">「breek」</a> Powered by <a href="https://gridea.dev/" target="_blank">「Gridea」</a>
+        </p>
+        
+        <a href="javascript:void(0)" id="back-to-top" class="epcl-button dark" style="display:none">
+          <i class="fa fa-arrow"></i>
+        </a>
+    </footer>
+    
+    <div class="clear"></div>
+
+        
+
+      
+    <script src="https://hesy-zhoulijie.github.io/media/js/functions-post.js"></script>
+
+    </div>
+    <!-- end: #wrapper -->
+  </body>
+</html>
