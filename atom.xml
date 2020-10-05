@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hesy-zhoulijie.github.io</id>
     <title>周立杰的博客</title>
-    <updated>2020-10-04T08:54:20.790Z</updated>
+    <updated>2020-10-05T04:38:17.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hesy-zhoulijie.github.io"/>
     <link rel="self" href="https://hesy-zhoulijie.github.io/atom.xml"/>
@@ -13,8 +13,8 @@
     <rights>All rights reserved 2020, 周立杰的博客</rights>
     <entry>
         <title type="html"><![CDATA[查天气、搜歌词、监控系统状态…… 用这些 App 把 Mac 菜单栏变成万能工具箱]]></title>
-        <id>https://hesy-zhoulijie.github.io/mac-taskbar/</id>
-        <link href="https://hesy-zhoulijie.github.io/mac-taskbar/">
+        <id>https://hesy-zhoulijie.github.io/post/mac-taskbar/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/mac-taskbar/">
         </link>
         <updated>2020-10-04T08:52:59.000Z</updated>
         <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.sspai.com/article/66f385b4-c8a5-0d33-cc1e-87e3a951eb37.jpg?imageMogr2/quality/95/thumbnail/!1082x594.3786666666666r/gravity/Center/crop/1082x594.3786666666666/interlace/1" alt="" loading="lazy"></figure>
@@ -123,8 +123,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple WWDC 2019]]></title>
-        <id>https://hesy-zhoulijie.github.io/wwdc19/</id>
-        <link href="https://hesy-zhoulijie.github.io/wwdc19/">
+        <id>https://hesy-zhoulijie.github.io/post/wwdc19/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/wwdc19/">
         </link>
         <updated>2020-10-04T08:52:18.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="apple-wwdc-2019">Apple WWDC 2019</h1>
@@ -280,8 +280,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Mac 电脑终极选购指南]]></title>
-        <id>https://hesy-zhoulijie.github.io/macbook/</id>
-        <link href="https://hesy-zhoulijie.github.io/macbook/">
+        <id>https://hesy-zhoulijie.github.io/post/macbook/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/macbook/">
         </link>
         <updated>2020-10-04T08:51:43.000Z</updated>
         <content type="html"><![CDATA[<h1 id="mac-电脑终极选购指南">Mac 电脑终极选购指南</h1>
@@ -470,8 +470,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[测试版群聊语音/视频上线，macOS 版微信终于不那么残缺了]]></title>
-        <id>https://hesy-zhoulijie.github.io/wechat-mac/</id>
-        <link href="https://hesy-zhoulijie.github.io/wechat-mac/">
+        <id>https://hesy-zhoulijie.github.io/post/wechat-mac/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/wechat-mac/">
         </link>
         <updated>2020-10-04T08:51:05.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="测试版群聊语音视频上线macos-版微信终于不那么残缺了">测试版群聊语音/视频上线，macOS 版微信终于不那么残缺了</h1>
@@ -516,8 +516,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[并查集]]></title>
-        <id>https://hesy-zhoulijie.github.io/i_bBwEjyO/</id>
-        <link href="https://hesy-zhoulijie.github.io/i_bBwEjyO/">
+        <id>https://hesy-zhoulijie.github.io/post/i_bBwEjyO/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/i_bBwEjyO/">
         </link>
         <updated>2020-10-04T08:50:32.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="并查集">并查集</h1>
@@ -614,8 +614,8 @@ int main()
     </entry>
     <entry>
         <title type="html"><![CDATA[ 最全的PDF解决方案]]></title>
-        <id>https://hesy-zhoulijie.github.io/pdf/</id>
-        <link href="https://hesy-zhoulijie.github.io/pdf/">
+        <id>https://hesy-zhoulijie.github.io/post/pdf/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/pdf/">
         </link>
         <updated>2020-10-04T08:49:06.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="最全的pdf解决方案">最全的PDF解决方案</h1>
@@ -670,8 +670,8 @@ PDFelemnet更多的是标注、编辑功能，手机上快速处理一些PDF任�
     </entry>
     <entry>
         <title type="html"><![CDATA[WPS2019完全体验指南]]></title>
-        <id>https://hesy-zhoulijie.github.io/wps/</id>
-        <link href="https://hesy-zhoulijie.github.io/wps/">
+        <id>https://hesy-zhoulijie.github.io/post/wps/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/wps/">
         </link>
         <updated>2020-10-04T08:29:58.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="wps2019完全体验指南">WPS2019完全体验指南</h1>
@@ -776,8 +776,8 @@ PDFelemnet更多的是标注、编辑功能，手机上快速处理一些PDF任�
     </entry>
     <entry>
         <title type="html"><![CDATA[让PPT变精致的秘密，都在这篇文章里]]></title>
-        <id>https://hesy-zhoulijie.github.io/icon/</id>
-        <link href="https://hesy-zhoulijie.github.io/icon/">
+        <id>https://hesy-zhoulijie.github.io/post/icon/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/icon/">
         </link>
         <updated>2020-10-04T08:28:52.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="让ppt变精致的秘密都在这篇文章里">让PPT变精致的秘密，都在这篇文章里</h1>
@@ -860,8 +860,8 @@ wohoo！<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[微信是个好东西，但是你会用微信多少功能呢？]]></title>
-        <id>https://hesy-zhoulijie.github.io/wechat/</id>
-        <link href="https://hesy-zhoulijie.github.io/wechat/">
+        <id>https://hesy-zhoulijie.github.io/post/wechat/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/wechat/">
         </link>
         <updated>2020-10-04T08:25:21.000Z</updated>
         <content type="html"><![CDATA[<h1 id="微信是个好东西但是你会用微信多少功能呢">微信是个好东西，但是你会用微信多少功能呢？</h1>
@@ -917,8 +917,8 @@ wohoo！<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[博客阅读指北]]></title>
-        <id>https://hesy-zhoulijie.github.io/PjSoP3sCF/</id>
-        <link href="https://hesy-zhoulijie.github.io/PjSoP3sCF/">
+        <id>https://hesy-zhoulijie.github.io/post/PjSoP3sCF/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/PjSoP3sCF/">
         </link>
         <updated>2020-10-04T08:24:26.000Z</updated>
         <summary type="html"><![CDATA[<p>点击这个“归档”查看所有文章<br>
@@ -931,8 +931,8 @@ wohoo！<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[文件共享方法总结]]></title>
-        <id>https://hesy-zhoulijie.github.io/file_share/</id>
-        <link href="https://hesy-zhoulijie.github.io/file_share/">
+        <id>https://hesy-zhoulijie.github.io/post/file_share/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/file_share/">
         </link>
         <updated>2020-10-04T08:23:00.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="文件共享方法总结">文件共享方法总结</h1>
@@ -968,8 +968,8 @@ wohoo！<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[调整软件设置，让 PPT 更符合你的使用习惯]]></title>
-        <id>https://hesy-zhoulijie.github.io/powerpoint-usage/</id>
-        <link href="https://hesy-zhoulijie.github.io/powerpoint-usage/">
+        <id>https://hesy-zhoulijie.github.io/post/powerpoint-usage/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/powerpoint-usage/">
         </link>
         <updated>2020-10-04T08:21:59.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="调整软件设置让-ppt-更符合你的使用习惯">调整软件设置，让 PPT 更符合你的使用习惯</h1>
@@ -1018,8 +1018,8 @@ wohoo！<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用macOS Catalina的面板编辑器进行便捷控制]]></title>
-        <id>https://hesy-zhoulijie.github.io/面板编辑器/</id>
-        <link href="https://hesy-zhoulijie.github.io/面板编辑器/">
+        <id>https://hesy-zhoulijie.github.io/post/面板编辑器/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/面板编辑器/">
         </link>
         <updated>2020-10-04T08:20:47.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="使用macos-catalina的面板编辑器进行便捷控制">使用macOS Catalina的面板编辑器进行便捷控制</h1>
@@ -1061,8 +1061,8 @@ wohoo！<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mac如何自定义快捷键]]></title>
-        <id>https://hesy-zhoulijie.github.io/mac-shortcut/</id>
-        <link href="https://hesy-zhoulijie.github.io/mac-shortcut/">
+        <id>https://hesy-zhoulijie.github.io/post/mac-shortcut/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/mac-shortcut/">
         </link>
         <updated>2020-10-04T08:19:16.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="mac如何自定义快捷键">Mac如何自定义快捷键</h1>
@@ -1094,8 +1094,8 @@ Mac上不像Windows有很方便的定义快捷键的工具，于是我们就需�
     </entry>
     <entry>
         <title type="html"><![CDATA[ Keynote完全指南]]></title>
-        <id>https://hesy-zhoulijie.github.io/keynote/</id>
-        <link href="https://hesy-zhoulijie.github.io/keynote/">
+        <id>https://hesy-zhoulijie.github.io/post/keynote/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/keynote/">
         </link>
         <updated>2020-10-04T08:18:14.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="keynote完全指南">Keynote完全指南</h1>
@@ -1186,8 +1186,8 @@ Mac上不像Windows有很方便的定义快捷键的工具，于是我们就需�
     </entry>
     <entry>
         <title type="html"><![CDATA[ GitHub博客+gridea的搭建指南]]></title>
-        <id>https://hesy-zhoulijie.github.io/Gridea/</id>
-        <link href="https://hesy-zhoulijie.github.io/Gridea/">
+        <id>https://hesy-zhoulijie.github.io/post/Gridea/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/Gridea/">
         </link>
         <updated>2020-10-04T08:17:50.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="github博客gridea的搭建指南">GitHub博客+gridea的搭建指南</h1>
@@ -1212,8 +1212,8 @@ Mac上不像Windows有很方便的定义快捷键的工具，于是我们就需�
     </entry>
     <entry>
         <title type="html"><![CDATA[高效使用Chrome浏览器，你可能不知道的10个技巧。]]></title>
-        <id>https://hesy-zhoulijie.github.io/Chrome浏览器/</id>
-        <link href="https://hesy-zhoulijie.github.io/Chrome浏览器/">
+        <id>https://hesy-zhoulijie.github.io/post/Chrome浏览器/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/Chrome浏览器/">
         </link>
         <updated>2020-10-04T08:15:55.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="高效使用chrome浏览器你可能不知道的10个技巧">高效使用Chrome浏览器，你可能不知道的10个技巧。</h1>
@@ -1279,8 +1279,8 @@ eg. https://www.bilibili.com/* =&gt;https://wn.run/www.bilbili.com/*
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hesy-zhoulijie.github.io/hello-gridea/</id>
-        <link href="https://hesy-zhoulijie.github.io/hello-gridea/">
+        <id>https://hesy-zhoulijie.github.io/post/hello-gridea/</id>
+        <link href="https://hesy-zhoulijie.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
